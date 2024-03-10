@@ -9,9 +9,9 @@ import java.util.ArrayList;
 public class CleaningDataset {
 
     public static void main(String[] args) {
-        String datasetFile = "C:\\Users\\danie\\Escritorio\\datasetWorking\\workingFiles\\completeDataset\\datasetCompleto.txt";
-        String dictionaryFile = "C:\\Users\\danie\\Escritorio\\datasetWorking\\workingFiles\\Dictionary.txt";
-        String outputFile = "C:\\Users\\danie\\Escritorio\\datasetWorking\\workingFiles\\datasetPostProcesamientoLowerCaseMoreTestingFixed.txt";
+        String datasetFile = "cleaningDataset\\src\\workingFiles\\datasetCompleto.txt";
+        String dictionaryFile = "cleaningDataset\\src\\workingFiles\\Dictionary.txt";
+        String outputFile = "cleaningDataset\\src\\workingFiles\\datasetPostProcesamientoLowerCaseMoreTestingFixed.txt";
         cleanDataset(datasetFile, dictionaryFile, outputFile);
     }
 
