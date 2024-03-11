@@ -13,7 +13,7 @@ import org.apache.hadoop.mapreduce.Reducer;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 
-public class WordCount {
+public class WordCountcopy {
 
   public static class TokenizerMapper
       extends Mapper<Object, Text, Text, IntWritable> {
@@ -40,17 +40,16 @@ public class WordCount {
       for (IntWritable val : values) {
         sum += val.get();
       }
-      if (sum >= 5000) {
-        result.set(sum);
-        context.write(key, result);
-      }
+
+      result.set(sum);
+      context.write(key, result);
     }
   }
 
   public static void main(String[] args) throws Exception {
     Configuration conf = new Configuration();
     Job job = Job.getInstance(conf, "word count");
-    job.setJarByClass(WordCount.class);
+    job.setJarByClass(WordCountcopy.class);
     job.setMapperClass(TokenizerMapper.class);
     job.setCombinerClass(IntSumReducer.class);
     job.setReducerClass(IntSumReducer.class);
