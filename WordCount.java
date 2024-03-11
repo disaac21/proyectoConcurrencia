@@ -1,6 +1,8 @@
 import java.io.IOException;
 import java.util.StringTokenizer;
 
+import javax.naming.Context;
+
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.IntWritable;
@@ -40,8 +42,10 @@ public class WordCount {
      for (IntWritable val : values) {
        sum += val.get();
      }
-     result.set(sum);
-     context.write(key, result);
+     if (sum >= 5000) {
+        result.set(sum);
+        context.write(key, result);
+      }
    }
  }
 
