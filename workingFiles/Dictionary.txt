@@ -177,6 +177,7 @@ bitch
 bloody
 blue
 bollocks
+bot
 both
 brief
 bright
@@ -199,13 +200,10 @@ cause
 causes
 certain
 certainly
-change
-changes
 clearly
 co
 cock
 cocksucker
-cold
 com
 come
 comes
@@ -213,6 +211,7 @@ coming
 concerning
 consequently
 consider
+considers
 considering
 contain
 containing
@@ -229,11 +228,10 @@ cup
 currently
 cut
 d
+dakota
 damn
-dark
 datemodified
 datesubmitted
-day
 definitely
 described
 despite
@@ -259,7 +257,7 @@ done
 dont
 down
 downwards
-dry
+drumpf
 during
 dyke
 e
@@ -271,12 +269,14 @@ eight
 either
 else
 elsewhere
+en
 enough
 entirely
 especially
 et
 etc
 even
+eventually
 ever
 every
 everybody
@@ -417,6 +417,7 @@ its
 itself
 ive
 j
+joe
 just
 k
 keep
@@ -467,10 +468,7 @@ merely
 might
 min
 mine
-minute
-minutes
 mmm
-month
 more
 moreover\making
 moreover
@@ -496,6 +494,8 @@ never
 nevertheless
 new
 next
+nft
+nfts
 nice
 nigga
 nigra
@@ -540,7 +540,6 @@ our
 ours
 ourselves
 out
-outside
 over
 overall
 own
@@ -579,6 +578,7 @@ really
 reasonably
 recipe
 red
+reddit
 regarding
 regardless
 regards
@@ -653,7 +653,6 @@ such
 sup
 sure
 sweet
-swim
 t
 t's
 tag
@@ -689,7 +688,6 @@ these
 they
 they'd
 they'll
-they'redale solo dejame
 they've
 ve
 thing
@@ -756,7 +754,6 @@ very
 via
 viz
 vs
-walk
 wanker
 want
 wants
@@ -805,6 +802,8 @@ whose
 why
 will
 willing
+wiki
+wikipedia
 wish
 with
 within
@@ -836,10 +835,10 @@ yours
 yourself
 yourselves
 z
-zero
 zml
 zwt
 http
+https
 ha
 haha
 www
