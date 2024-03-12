@@ -1,6032 +1,6032 @@
-00 > 13431
-000 > 128618
-01 > 44872
-02 > 53118
-03 > 43792
-039 > 21356
-04 > 42634
-05 > 36643
-06 > 37088
-07 > 37164
-08 > 37885
-09 > 32316
-0a > 5002
-10 > 275135
-100 > 199619
-1000 > 19386
-101 > 6002
-11 > 90656
-12 > 99359
-120 > 5899
-13 > 42546
-14 > 43470
-15 > 85941
-150 > 16532
-16 > 43576
-17 > 34390
-18 > 42013
-19 > 53484
-1950 > 5502
-1960s > 5275
-1970 > 9174
-1970s > 11067
-1980 > 7126
-1980s > 8509
-1990 > 9536
-1990s > 6198
-1998 > 6479
-19th > 6827
-1st > 11761
-20 > 158669
-200 > 35345
-2000 > 27394
-2000s > 6265
-2001 > 7268
-2002 > 5305
-2003 > 7495
-2004 > 9000
-2005 > 13907
-2006 > 11366
-2007 > 16311
-2008 > 26448
-2009 > 22068
-2010 > 29491
-2011 > 23509
-2012 > 32850
-2013 > 43599
-2014 > 42991
-2015 > 68522
-2016 > 90208
-2017 > 77699
-2018 > 87834
-2019 > 107546
-2020 > 104601
-2021 > 63717
-2022 > 25239
-2024 > 6326
-2025 > 7046
-2030 > 29268
-2040 > 7272
-2050 > 33844
-20th > 14371
-20the > 6669
-21 > 28941
-2100 > 21312
-21st > 13504
-22 > 29957
-23 > 25036
-23autotldr > 14656
-24 > 33669
-25 > 53083
-250 > 7682
-26 > 22320
-27 > 22091
-28 > 22779
-29 > 23109
-2c > 18234
-2f > 5844
-2nd > 12889
-30 > 113597
-300 > 19286
-31 > 15326
-31b9fm > 14593
-32 > 16772
-33 > 10061
-34 > 7824
-35 > 19624
-36 > 8184
-37 > 9286
-38 > 7835
-39 > 7669
-3a > 10268
-3c > 5127
-3d > 6332
-3rd > 17387
-40 > 74081
-400 > 16414
-41 > 7039
-42 > 7557
-43 > 6779
-44 > 6115
-45 > 14686
-46 > 5472
-47 > 5999
-48 > 7393
-49 > 6022
-4th > 5895
-50 > 126297
-500 > 28188
-51 > 7158
-52 > 5972
-55 > 8628
-56 > 5579
-5c > 13544
-60 > 42755
-600 > 8178
-60s > 7650
-65 > 15681
-66 > 5417
-6th > 6019
-70 > 39841
-700 > 6191
-70s > 16103
-71 > 11232
-75 > 17357
-80 > 46669
-800 > 8929
-80s > 15625
-85 > 8410
-90 > 44701
-90s > 15697
-95 > 16501
-97 > 39882
-98 > 8403
-99 > 33341
-abandon > 9264
-abandoned > 10070
-abbott > 9189
-abc > 9861
-abilities > 5174
-ability > 69544
-abolish > 7204
-abortion > 64217
-abortions > 11976
-abroad > 8774
-abrupt > 7069
-abs > 7780
-absence > 7944
-absolutely > 138299
-absorb > 9097
-absorbed > 7749
-abstract > 17245
-absurd > 21671
-abundance > 6470
-abundant > 6332
-abuse > 23579
-abused > 5540
-ac > 16123
-aca > 11906
-academia > 9571
-academic > 21192
-academics > 7497
-academy > 11863
-accelerate > 12333
-accelerated > 11182
-accelerating > 16766
-acceleration > 5691
-accept > 83384
-acceptable > 17426
-acceptance > 10876
-accepted > 29223
-accepting > 19209
-accepts > 5550
-access > 95364
-accessible > 9808
-accident > 9530
-accidents > 6675
-accomplish > 13450
-accomplished > 8487
-accord > 19630
-accords > 9290
-account > 54036
-accountability > 8148
-accountable > 16514
-accounted > 5036
-accounting > 7758
-accounts > 16740
-accuracy > 8142
-accurate > 44716
-accurately > 14075
-accusations > 7707
-accuse > 6306
-accused > 10999
-accusing > 6648
-achieve > 33924
-achieved > 13530
-achieving > 7934
-acid > 12033
-acidification > 14833
-acknowledge > 36640
-acknowledged > 7838
-acknowledges > 6395
-acknowledging > 11282
-acres > 8238
-act > 137221
-acted > 6738
-acting > 35356
-action > 225958
-actions > 85536
-active > 27002
-actively > 55123
-activism > 19314
-activist > 23353
-activists > 35568
-activities > 25481
-activity > 59869
-actor > 5330
-actors > 10985
-acts > 17879
-actual > 145422
-ad > 21785
-adam > 5049
-adapt > 44122
-adaptation > 16031
-adapted > 8499
-adapting > 8238
-addiction > 6532
-addition > 27216
-additional > 28027
-additionally > 13778
-address > 101330
-addressed > 27337
-addresses > 6217
-addressing > 40256
-adds > 9974
-adequate > 7000
-adjusted > 6354
-admin > 9172
-administration > 71340
-administrations > 6612
-admit > 42976
-admits > 6179
-admitted > 10839
-admittedly > 5954
-admitting > 8748
-adopt > 15125
-adopted > 10486
-adopting > 5872
-adoption > 9593
-ads > 9043
-adult > 15188
-adults > 18649
-advance > 16753
-advanced > 23843
-advancement > 9015
-advancements > 5891
-advances > 11254
-advancing > 5733
-advantage > 26346
-advantages > 5923
-adverse > 5600
-advertising > 8318
-advice > 20585
-advocacy > 14663
-advocate > 28461
-advocated > 5246
-advocates > 15460
-advocating > 22595
-aerosol > 5282
-aerosols > 6907
-affairs > 13190
-affect > 81731
-affected > 48516
-affecting > 22881
-affects > 32565
-afford > 52270
-affordable > 26669
-afghanistan > 12069
-afraid > 27659
-africa > 48673
-african > 18986
-ag > 7373
-age > 123162
-agencies > 19364
-agency > 24827
-agenda > 76797
-agendas > 8296
-agent > 6195
-agents > 5184
-ages > 21641
-aggressive > 17648
-aggressively > 6728
-aging > 6889
-ago > 175051
-agreed > 33637
-agreeing > 10170
-agreement > 78823
-agreements > 13992
-agrees > 15893
-agricultural > 28225
-agriculture > 77789
-agw > 23305
-ahead > 42956
-ai > 25027
-aid > 27788
-aids > 8103
-aim > 11175
-aimed > 9036
-aims > 6279
-air > 148045
-aircraft > 5317
-aka > 14207
-akin > 8012
-al > 62186
-alarm > 8074
-alarming > 9197
-alarmism > 10018
-alarmist > 15731
-alarmists > 13678
-alaska > 10744
-albedo > 5519
-albeit > 7309
-alberta > 19994
-album > 5832
-alcohol > 7080
-alex > 6569
-algae > 7779
-alien > 9308
-aliens > 11121
-align > 9167
-aligned > 6638
-alive > 32465
-allegations > 5565
-alleged > 5267
-alliance > 8391
-allies > 20671
-allowed > 56934
-allowing > 29713
-ally > 6670
-alongside > 8586
-alot > 9174
-alright > 9190
-alt > 14343
-alter > 10850
-altered > 6381
-altering > 5993
-alternate > 6943
-alternative > 57529
-alternatives > 24014
-altogether > 7948
-ama > 6419
-amazing > 27659
-amazon > 39177
-ambitious > 9830
-amendment > 21866
-america > 190443
-american > 184107
-americans > 115578
-americas > 17244
-amount > 161701
-amounts > 42928
-amputatorbot > 5399
-analogy > 14883
-analysis > 47398
-anarchist > 6154
-ancestors > 7452
-ancient > 16496
-andrew > 11144
-anecdotal > 6445
-anger > 13527
-angle > 7415
-angry > 27945
-animal > 98120
-animals > 115572
-announced > 14083
-annoying > 11793
-annual > 20461
-annually > 7764
-answer > 110187
-answered > 10589
-answering > 5650
-answers > 25850
-antarctic > 12352
-antarctica > 14953
-anthropogenic > 67275
-anti > 222414
-antibiotics > 5057
-antifa > 6129
-anxiety > 16064
-anymore > 60161
-anytime > 9645
-aoc > 18756
-apartment > 6898
-apathy > 7448
-apocalypse > 20493
-apocalyptic > 14007
-apologize > 7737
-app > 10626
-apparent > 11051
-apparently > 39345
-appeal > 22016
-appealing > 7979
-appeals > 5357
-appearance > 5818
-appeared > 6327
-appears > 22492
-apple > 11429
-application > 7823
-applications > 5347
-applied > 14862
-applies > 12722
-apply > 27804
-applying > 6598
-appointed > 9304
-appointing > 6510
-approach > 55481
-approaches > 7823
-approaching > 7931
-approval > 14071
-approve > 5364
-approved > 11837
-approximately > 9969
-april > 13895
-ar5 > 11323
-arab > 6538
-arabia > 12896
-arable > 9032
-arbitrary > 8505
-archive > 27141
-arctic > 52939
-area > 96979
-areas > 125694
-arent > 58052
-arguably > 12804
-argue > 85715
-argued > 15553
-argues > 7438
-arguing > 56664
-argument > 208571
-arguments > 74436
-arise > 5356
-arizona > 7527
-arm > 7454
-armed > 10804
-arms > 14150
-army > 15546
-arrested > 9653
-arrive > 6107
-arrived > 6472
-arrogant > 7754
-arson > 5509
-art > 18851
-article > 244452
-articles > 94604
-artificial > 13099
-artificially > 6045
-artist > 5562
-arts > 8049
-asia > 25916
-asian > 11675
-asked > 58769
-askreddit > 5026
-asks > 7371
-aspect > 20987
-aspects > 20386
-aspx > 6631
-assault > 16602
-assembly > 5689
-assertion > 8991
-asses > 6479
-assess > 5497
-assessment > 21315
-asset > 7618
-assets > 20983
-assholes > 12062
-assistance > 9318
-associate > 6761
-association > 12794
-assume > 57521
-assumed > 11106
-assumes > 6748
-assuming > 38866
-assumption > 19150
-assumptions > 18228
-asteroid > 13055
-asylum > 6793
-ate > 5595
-atheism > 5494
-atheist > 9905
-atheists > 7919
-atlantic > 14776
-atmosphere > 118606
-atmospheric > 40636
-attached > 6594
-attack > 48533
-attacked > 12081
-attacking > 19961
-attacks > 26331
-attempt > 43342
-attempted > 8393
-attempting > 15976
-attempts > 18317
-attend > 6426
-attention > 65215
-attitude > 24908
-attitudes > 11090
-attorney > 7205
-attract > 5246
-attractive > 7529
-attribute > 6966
-attributed > 9562
-au > 25342
-audience > 16161
-aug > 6001
-august > 10689
-austerity > 6671
-australia > 85073
-australian > 27327
-australians > 8063
-author > 30710
-authoritarian > 19644
-authoritarianism > 7240
-authorities > 7820
-authority > 34334
-authors > 15351
-autism > 15591
-auto > 12659
-automated > 5400
-automatically > 20638
-automation > 20477
-autonomy > 5683
-autotldr > 53822
-availability > 8268
-average > 138672
-avert > 6078
-avoid > 62480
-avoided > 8785
-avoiding > 14625
-award > 6061
-aware > 62537
-awareness > 31703
-awesome > 14268
-awful > 23016
-babies > 15767
-baby > 29107
-backed > 23070
-background > 23749
-backing > 12439
-backlash > 6848
-backs > 8722
-backwards > 14321
-bacon > 6166
-bacteria > 9516
-bad > 365667
-badly > 14035
-bag > 12850
-bags > 12338
-balance > 34697
-balanced > 12273
-ball > 12887
-ballot > 7637
-balls > 6363
-ban > 46277
-band > 9749
-bang > 6194
-bangladesh > 7572
-bank > 25174
-banking > 8503
-bankrupt > 8878
-bankruptcy > 6369
-banks > 22654
-banned > 22868
-banning > 18142
-bans > 8484
-bar > 11743
-barack > 6709
-bare > 8927
-barrel > 5265
-barrier > 12670
-barriers > 7106
-base > 51219
-based > 244692
-baseline > 6787
-bases > 6407
-basic > 73578
-basically > 126803
-basics > 6567
-basing > 5268
-basis > 41640
-batteries > 19533
-battery > 21510
-battle > 21262
-bay > 10362
-bbc > 26153
-bc > 22310
-beach > 12051
-bear > 22464
-bearing > 6258
-bears > 18380
-beat > 19190
-beating > 8175
-beautiful > 16463
-beauty > 6765
-bed > 11010
-beef > 24793
-beer > 6056
-bees > 8936
-began > 23973
-begin > 40514
-beginning > 33124
-begins > 10691
-begun > 7794
-behalf > 8819
-behave > 6425
-behavior > 38743
-behaviors > 6039
-behaviour > 14606
-beijing > 5767
-beings > 22224
-belief > 54500
-beliefs > 62683
-believed > 27531
-believer > 7554
-believers > 9039
-believes > 60577
-believing > 39918
-belong > 7060
-belt > 9588
-ben > 14566
-beneficial > 17855
-benefit > 79136
-benefits > 65229
-bernie > 198446
-bet > 32088
-bezos > 10190
-bias > 42403
-biased > 26527
-biases > 9733
-bible > 21461
-biden > 262219
-bidens > 16520
-bigger > 64904
-biggest > 110951
-bigotry > 7506
-bike > 14190
-bill > 119197
-billion > 126589
-billionaire > 15657
-billionaires > 29026
-billions > 71637
-bills > 29324
-bin > 5946
-binary > 6165
-binding > 6714
-bio > 7182
-biodiversity > 25236
-biological > 18231
-biology > 17673
-biomass > 8524
-biosphere > 9959
-bipartisan > 10103
-bird > 8213
-birds > 17333
-birth > 31273
-bitcoin > 14886
-bite > 6425
-bizarre > 7063
-black > 91977
-blacks > 8844
-blah > 11283
-blame > 87705
-blamed > 11039
-blaming > 23808
-blanket > 6636
-blatant > 9581
-blatantly > 9074
-bleaching > 5303
-bleak > 5692
-blind > 18238
-blindly > 8686
-blm > 12409
-block > 23980
-blockchain > 6271
-blocked > 8176
-blocking > 13071
-blocks > 5809
-blog > 34367
-blogs > 15320
-blood > 17425
-bloomberg > 19419
-blow > 14258
-blowing > 7779
-blown > 8054
-board > 41273
-boat > 11652
-bob > 5078
-bodies > 19746
-body > 51031
-bold > 9666
-bomb > 11710
-bombs > 7326
-bone > 5123
-bonus > 6702
-book > 69242
-books > 35070
-boom > 10793
-boomer > 11838
-boomers > 25341
-boost > 11039
-border > 36389
-borders > 21093
-boring > 9941
-boris > 6914
-born > 42394
-boss > 7556
-boston > 5978
-bot > 115780
-bother > 22190
-bothered > 9960
-bottle > 5383
-bottom > 33812
-bought > 29483
-bound > 8290
-boundaries > 6706
-box > 15541
-boy > 14314
-boys > 9069
-bp > 10566
-brain > 36165
-brains > 9544
-brainwashed > 9835
-branch > 10067
-brand > 14790
-brazil > 14662
-bread > 6191
-break > 45505
-breakdown > 7782
-breaking > 27401
-breaks > 20886
-breath > 9663
-breathe > 7248
-breathing > 6909
-breed > 7091
-breeding > 9676
-breitbart > 6909
-brexit > 24223
-bridge > 9439
-bridges > 5186
-brilliant > 7424
-bring > 98534
-bringing > 33648
-brings > 19416
-brink > 5817
-britain > 16942
-british > 25059
-bro > 9241
-broad > 21219
-broader > 10057
-broadly > 8049
-broke > 13736
-broken > 25465
-brother > 10323
-brothers > 12882
-brought > 53589
-brown > 17954
-brush > 6360
-brutal > 7902
-brutality > 6618
-bs > 22800
-btc > 7220
-btw > 21994
-bubble > 13533
-buck > 5480
-bucket > 6451
-buddy > 7701
-budget > 48634
-budgets > 5799
-bugs > 8234
-build > 104283
-building > 92306
-buildings > 18786
-built > 61480
-bulk > 6807
-bullet > 8490
-bullying > 5789
-bunch > 54872
-burden > 21132
-buried > 7603
-burn > 43001
-burned > 16425
-burning > 64370
-burns > 13402
-bus > 12574
-bush > 37698
-bushfires > 9500
-business > 137205
-businesses > 47784
-businessinsider > 7446
-busy > 13310
-buttigieg > 5438
-button > 8390
-buy > 104297
-buying > 47745
-c02 > 8573
-ca > 41653
-cabinet > 14656
-cages > 6615
-cake > 5516
-calculate > 5438
-calculated > 6131
-calculations > 6216
-california > 67579
-call > 124667
-called > 128160
-calling > 65059
-calls > 29542
-calm > 7806
-calories > 5506
-cambridge > 5313
-camp > 12617
-campaign > 104564
-campaigning > 7221
-campaigns > 17766
-camps > 18510
-campus > 5401
-canada > 115317
-canadian > 30853
-canadians > 16489
-cancel > 9364
-cancer > 47970
-candidate > 71690
-candidates > 50157
-cannabis > 6059
-cap > 22687
-capabilities > 5612
-capability > 5766
-capable > 29334
-capacity > 40549
-capita > 28464
-capital > 43975
-capitalism > 146231
-capitalist > 45229
-capitalists > 13859
-capitol > 5350
-caps > 19967
-capture > 24699
-captured > 5480
-car > 108491
-carbon > 466986
-carbontax > 6816
-card > 12956
-cards > 7727
-care > 339943
-cared > 12582
-career > 27783
-careers > 8851
-careful > 12673
-cares > 35201
-caring > 17143
-carolina > 7211
-carried > 7949
-carry > 20247
-carrying > 10966
-cars > 110361
-case > 186317
-cases > 46380
-cash > 20229
-cast > 10310
-cat > 9546
-catastrophe > 30274
-catastrophes > 5933
-catastrophic > 48831
-catch > 16842
-categories > 5533
-category > 13822
-catholic > 12597
-cats > 9073
-cattle > 16780
-caught > 19919
-causation > 6675
-caused > 183084
-causing > 103528
-cbc > 8157
-cc > 9030
-cdc > 6789
-cease > 5725
-celebrities > 7085
-celebrity > 5699
-cell > 12084
-cells > 10828
-celsius > 13064
-censorship > 8353
-cent > 21216
-center > 40684
-centered > 6436
-centers > 11439
-central > 35736
-centralized > 5118
-centre > 14971
-centric > 7798
-centrist > 17258
-centrists > 5692
-cents > 6195
-centuries > 27359
-century > 97635
-ceo > 13561
-ceos > 5860
-certainty > 13406
-cfm > 6531
-ch > 18304
-chain > 22340
-chains > 10180
-chair > 8571
-chairman > 5100
-challenge > 34251
-challenged > 7997
-challenges > 26132
-challenging > 9918
-chamber > 8863
-champion > 5163
-chance > 89306
-chances > 15402
-changed > 90589
-changing > 131814
-channel > 14358
-channels > 5605
-chaos > 16831
-chaotic > 6365
-chapter > 11146
-character > 20714
-characteristics > 6175
-characters > 10850
-charge > 35608
-charged > 9170
-charges > 6377
-charging > 9441
-charities > 5707
-charity > 14660
-charles > 7265
-chart > 11370
-charts > 6000
-cheap > 48413
-cheaper > 43547
-cheapest > 6443
-check > 58499
-checked > 10065
-checking > 8941
-checks > 12804
-chemical > 17316
-chemicals > 13490
-chemistry > 12129
-chernobyl > 7161
-cherry > 16053
-chicago > 8122
-chicken > 11141
-chickens > 5238
-chief > 18028
-child > 82514
-childhood > 8998
-childish > 5395
-children > 152775
-china > 261703
-chinas > 9162
-chinese > 69620
-choice > 86686
-choices > 33568
-chomsky > 5003
-choose > 62778
-choosing > 17199
-chose > 18885
-chosen > 12369
-chris > 5710
-christ > 12548
-christian > 34550
-christianity > 14232
-christians > 19835
-christmas > 7843
-chunk > 9190
-church > 30840
-churches > 5470
-cia > 7810
-cigarettes > 6365
-circle > 11845
-circles > 7317
-circulation > 6504
-circumstances > 16471
-citation > 6317
-cite > 17159
-cited > 14541
-cities > 82698
-citing > 9710
-citizen > 22555
-citizens > 64833
-citizensclimatelobby > 17742
-citizenship > 7172
-city > 99366
-civil > 63070
-civilians > 5885
-civilisation > 9179
-civilization > 57899
-civilizations > 8154
-claim > 133460
-claimed > 27303
-claiming > 43782
-claims > 87307
-clarify > 8809
-class > 115974
-classes > 17978
-classic > 10865
-clean > 105574
-cleaner > 19184
-cleaning > 8818
-clear > 124725
-clearing > 5023
-clever > 6070
-click > 12228
-cliff > 7124
-climate > 6567184
-climatechange > 6489
-climates > 15864
-climatic > 9230
-climatologist > 7710
-climatologists > 10879
-climatology > 6345
-clinton > 66503
-clock > 9531
-close > 85314
-closed > 17050
-closely > 11847
-closer > 30754
-closest > 8476
-closing > 10336
-clothes > 12573
-clothing > 8719
-cloud > 13879
-clouds > 12428
-club > 11400
-clue > 11388
-cmf > 7150
-cnbc > 6247
-cnn > 28237
-co2 > 296886
-coal > 168519
-coalition > 19598
-coast > 29495
-coastal > 27089
-coasts > 5366
-code > 15405
-coffee > 12252
-cognitive > 11118
-coherent > 5464
-coin > 5192
-coincidence > 7182
-cointest > 6806
-colder > 22974
-collapse > 103404
-collapsed > 6324
-collapses > 7857
-collapsing > 8215
-collar > 5230
-colleagues > 7586
-collect > 7515
-collected > 7399
-collection > 9671
-collective > 29596
-collectively > 12417
-college > 63859
-colleges > 5860
-colony > 5635
-color > 17513
-colorado > 11745
-columbia > 6879
-column > 5401
-combat > 67714
-combating > 17835
-combatting > 5722
-combination > 16130
-combine > 5812
-combined > 27503
-combustion > 8079
-comfort > 11128
-comfortable > 20198
-command > 5200
-comment > 120394
-commentary > 7468
-commenting > 5641
-comments > 242247
-commerce > 5579
-commercial > 16180
-commission > 12325
-commit > 14897
-commitment > 13966
-commitments > 7420
-committed > 22336
-committee > 19614
-committing > 7428
-common > 101731
-commonly > 7688
-commons > 9508
-communicate > 7196
-communication > 11798
-communications > 7854
-communism > 26415
-communist > 23888
-communists > 7086
-communities > 47807
-community > 107825
-commute > 5300
-companies > 216683
-company > 86504
-comparable > 11988
-compare > 27023
-compared > 75541
-comparing > 16336
-comparison > 30487
-compassion > 6079
-compelling > 9161
-compete > 13257
-competent > 6591
-competing > 8741
-competition > 22035
-competitive > 16581
-complain > 17272
-complaining > 14974
-complete > 56407
-completely > 170369
-complex > 56754
-complexity > 7622
-complicated > 25274
-component > 7726
-components > 5784
-compose > 38542
-composition > 5539
-comprehend > 6785
-comprehensive > 12888
-compromise > 21932
-computer > 23197
-computers > 8705
-con > 10999
-concede > 5865
-concentrated > 5351
-concentration > 22502
-concentrations > 11389
-concept > 44808
-concepts > 13332
-concern > 55198
-concerned > 65347
-concerns > 52081
-conclude > 9968
-concluded > 9041
-conclusion > 41803
-conclusions > 27365
-concrete > 18820
-condescending > 5308
-condition > 12952
-conditioning > 8081
-conditions > 74512
-conduct > 6880
-conducted > 8134
-conference > 19043
-conferences > 5598
-confidence > 20754
-confident > 11482
-confirm > 9915
-confirmation > 8578
-confirmed > 13142
-conflict > 36111
-conflicts > 15643
-confront > 5047
-confused > 15516
-confusing > 8733
-confusion > 5937
-congress > 73053
-congressional > 11354
-connect > 8338
-connected > 15482
-connection > 15916
-connections > 7857
-cons > 7478
-conscious > 12242
-consciousness > 10084
-consensus > 134300
-consent > 8899
-consequence > 14404
-consequences > 78775
-conservation > 21785
-conservatism > 12603
-conservative > 152545
-conservatives > 104369
-considerable > 5422
-considerably > 5449
-consideration > 12824
-considered > 56188
-considers > 32665
-consistent > 23809
-consistently > 19458
-conspiracies > 8564
-conspiracy > 88293
-constant > 30191
-constantly > 41984
-constituents > 8482
-constitution > 18080
-constitutional > 10326
-construct > 6919
-construction > 23042
-constructive > 19459
-consultant > 6644
-consume > 24503
-consumed > 7159
-consumer > 32529
-consumerism > 8177
-consumers > 29723
-consuming > 13672
-consumption > 78492
-contact > 23447
-contained > 5708
-contemporary > 5781
-content > 69671
-contest > 5784
-context > 61297
-continent > 13469
-continental > 5302
-continents > 5430
-continually > 7256
-continue > 143995
-continued > 29008
-continues > 32924
-continuing > 21017
-continuously > 5199
-contract > 11048
-contracts > 7307
-contradict > 6021
-contradictory > 5436
-contradicts > 5414
-contrary > 19375
-contrast > 12311
-contribute > 47059
-contributed > 16392
-contributes > 17606
-contributing > 38173
-contribution > 22408
-contributions > 13329
-contributor > 16543
-contributors > 9929
-control > 185700
-controlled > 28871
-controlling > 11317
-controls > 13459
-controversial > 20837
-controversy > 12069
-convenience > 5424
-convenient > 12120
-conveniently > 5448
-convention > 9389
-conventional > 9434
-conversation > 52784
-conversations > 12065
-conversion > 6594
-convert > 7834
-convince > 49006
-convinced > 34143
-convincing > 18772
-cooking > 5462
-cool > 54333
-cooler > 11898
-cooling > 51672
-cooperation > 15224
-coordinated > 5491
-cop > 8173
-cope > 8699
-cops > 10389
-copy > 10122
-coral > 17039
-corbyn > 6145
-core > 37242
-cores > 6232
-corn > 10723
-corner > 10752
-corona > 6756
-coronavirus > 24212
-corporate > 74131
-corporation > 13682
-corporations > 102809
-corps > 5639
-correct > 80434
-correctly > 14195
-correlation > 17816
-corrupt > 34490
-corruption > 39287
-cortez > 6556
-cosmic > 5697
-cost > 180120
-costing > 5353
-costly > 9387
-costs > 107517
-couldnt > 12896
-council > 22154
-count > 23377
-counter > 31078
-counting > 6913
-countless > 15755
-countries > 304344
-country > 347820
-countrys > 6328
-counts > 7411
-county > 13270
-coup > 5991
-couple > 66653
-coupled > 6931
-courses > 7734
-court > 54355
-courts > 11970
-cover > 39665
-coverage > 23348
-covered > 21273
-covering > 9865
-covers > 8006
-covid > 111235
-cow > 12504
-cows > 21946
-cpc > 10544
-crack > 6389
-crash > 13401
-crazy > 57848
-create > 105420
-created > 73715
-creates > 25108
-creating > 50616
-creation > 17680
-creationism > 8786
-creationists > 6114
-creative > 6238
-creator > 6026
-creatures > 10276
-credentials > 5699
-credibility > 14961
-credible > 17825
-credit > 31260
-credits > 13566
-crime > 41538
-crimes > 20218
-criminal > 23386
-criminals > 8741
-crises > 16365
-crisis > 150496
-criteria > 7040
-critical > 49435
-critically > 8148
-criticism > 25993
-criticisms > 6923
-criticize > 11532
-criticized > 8010
-criticizing > 7489
-critics > 7858
-critique > 7990
-crop > 27626
-crops > 42724
-cross > 15232
-crowd > 16035
-crucial > 10994
-crude > 5994
-cruel > 7196
-cruelty > 5885
-cruz > 9950
-cry > 10778
-crying > 9225
-crypto > 12282
-cryptocurrency > 6585
-cuba > 6432
-cult > 21340
-cultural > 33332
-culture > 74893
-cultures > 12680
-curb > 16211
-cure > 11385
-curious > 20434
-currency > 11563
-current > 239762
-currents > 9066
-curve > 9129
-customers > 9544
-cute > 5967
-cuts > 36944
-cutting > 36961
-cuz > 6514
-cycle > 56362
-cycles > 30648
-cyclical > 5696
-cycling > 5029
-cynical > 7676
-da > 5581
-dad > 17149
-daily > 39841
-dairy > 18173
-dakota > 31061
-dam > 7327
-damage > 97363
-damaged > 7756
-damages > 11143
-damaging > 18804
-damned > 6620
-dams > 7181
-dan > 5376
-danger > 28348
-dangerous > 66554
-dangers > 13553
-dare > 10013
-data > 254973
-date > 30075
-dates > 5000
-dating > 7220
-daughter > 10801
-david > 20008
-days > 118295
-dc > 8772
-de > 49144
-dead > 71602
-deadly > 14031
-deal > 200228
-dealing > 39379
-deals > 17001
-dealt > 10726
-dear > 6147
-death > 101334
-deaths > 47044
-debatable > 6470
-debate > 133773
-debated > 8475
-debates > 18888
-debating > 14141
-debt > 58923
-debunked > 11474
-dec > 7457
-decade > 67517
-decades > 161835
-december > 13477
-decent > 27659
-decide > 41376
-decided > 43124
-decides > 8874
-deciding > 9957
-decision > 52521
-decisions > 47942
-declaration > 5815
-declare > 9999
-declared > 10115
-declaring > 5597
-decline > 35004
-declined > 5806
-declining > 11725
-decrease > 27786
-decreased > 9273
-decreases > 5912
-decreasing > 12943
-dedicated > 12989
-deemed > 6069
-deep > 46651
-deeper > 12526
-deeply > 20315
-default > 16559
-defeat > 9420
-defence > 7779
-defend > 28276
-defending > 16605
-defense > 31972
-defensive > 5162
-deficit > 12909
-define > 14914
-defined > 15120
-defining > 6425
-definition > 38477
-definitions > 5510
-deforestation > 27998
-degradation > 11061
-degree > 77779
-degrees > 66068
-delay > 11148
-delayed > 5070
-delete > 6894
-deleted > 6860
-deliberate > 5633
-deliberately > 12469
-deliver > 11551
-delivered > 6317
-delivery > 5506
-delusion > 5052
-delusional > 11451
-dem > 16622
-demand > 73865
-demanding > 13525
-demands > 18040
-democracies > 7321
-democracy > 69431
-democrat > 45516
-democratic > 94665
-democrats > 144984
-demographic > 10935
-demographics > 6507
-demonstrate > 12197
-demonstrated > 10161
-demonstrates > 5505
-dems > 38214
-denial > 115446
-denialism > 15061
-denialist > 7803
-denialists > 8140
-denied > 18489
-denier > 89677
-deniers > 133672
-denies > 28851
-denmark > 6548
-dense > 9480
-density > 13332
-dent > 7110
-deny > 110282
-denying > 95384
-department > 33687
-departments > 7216
-depend > 16008
-dependence > 7285
-dependent > 20012
-depending > 27582
-depends > 34216
-depletion > 11431
-depressed > 8585
-depressing > 9836
-depression > 20862
-depth > 12163
-deputy > 5343
-der > 6426
-deregulation > 6688
-derived > 5882
-describe > 17876
-describes > 7618
-describing > 8996
-description > 9456
-desert > 23839
-desertification > 9465
-deserts > 8382
-deserve > 26669
-deserves > 10360
-design > 24922
-designed > 30369
-desirable > 5031
-desire > 20127
-desired > 5017
-despair > 5710
-desperate > 13032
-desperately > 9290
-destroy > 59096
-destroyed > 34714
-destroying > 45619
-destroys > 7419
-destruction > 51618
-destructive > 19117
-detail > 16585
-detailed > 12400
-details > 23042
-determine > 19745
-determined > 13716
-detrimental > 8366
-devastating > 18228
-devastation > 5876
-develop > 33174
-developed > 59386
-developers > 5497
-developing > 53353
-development > 72560
-developments > 6209
-device > 5766
-devices > 6669
-devil > 6863
-diabetes > 5692
-dialogue > 7587
-dictate > 5894
-dictator > 6366
-dictators > 5470
-dictatorship > 6569
-die > 146985
-died > 31745
-dies > 11576
-diesel > 11393
-diet > 38537
-diets > 11598
-differ > 6535
-difference > 114605
-differences > 25933
-differently > 15865
-difficult > 68874
-difficulty > 6014
-dig > 11769
-digging > 6473
-digital > 14206
-dinner > 5612
-dinosaurs > 11991
-dioxide > 50308
-diplomacy > 5743
-diplomatic > 6189
-dire > 16241
-direct > 61917
-directed > 8525
-direction > 41018
-directly > 83043
-director > 17519
-dirt > 6871
-dirty > 18261
-disabled > 6767
-disagree > 95662
-disagreeing > 7844
-disagreement > 10742
-disagrees > 10962
-disappear > 11315
-disappearing > 5322
-disappointed > 7221
-disappointing > 5145
-disaster > 58502
-disasters > 41351
-disastrous > 11481
-discount > 6749
-discourse > 15549
-discover > 7418
-discovered > 14428
-discovery > 7814
-discredit > 9607
-discrimination > 13534
-discuss > 33465
-discussed > 19811
-discussing > 26127
-discussion > 88298
-discussions > 17150
-disease > 44038
-diseases > 22698
-disgusting > 11983
-dishonest > 13399
-disinformation > 11864
-disingenuous > 12710
-dislike > 13298
-dismantle > 5715
-dismantling > 5254
-dismiss > 17906
-dismissed > 8789
-dismissing > 6858
-disorder > 5099
-disparity > 5876
-displaced > 10451
-display > 7147
-disposal > 5658
-disproportionately > 9688
-disprove > 11958
-dispute > 10753
-disregard > 10303
-disrupt > 6510
-disruption > 10724
-dissonance > 6092
-distance > 12868
-distant > 7506
-distinct > 6251
-distinction > 8147
-distract > 5861
-distraction > 6543
-distributed > 7716
-distribution > 19465
-district > 12714
-districts > 5888
-distrust > 6414
-diverse > 11934
-diversity > 18250
-divide > 15292
-divided > 11454
-dividend > 12758
-division > 12606
-divisive > 7233
-dna > 8618
-dnc > 16292
-doctor > 16955
-doctors > 18439
-doctrine > 6341
-document > 11624
-documentary > 12556
-documented > 9161
-documents > 19101
-doesnt > 131810
-dog > 20104
-dogma > 6084
-dogs > 12313
-doi > 21351
-dollar > 30267
-dollars > 65945
-domain > 6856
-domestic > 27030
-dominant > 10148
-dominate > 5712
-dominated > 7434
-donald > 73425
-donate > 17290
-donated > 6506
-donating > 6094
-donations > 12961
-donors > 13397
-doom > 21035
-doomed > 17966
-doomsday > 18166
-door > 18038
-doors > 6290
-double > 27661
-doubled > 6506
-doubling > 8987
-doubt > 80009
-doubts > 6628
-download > 8663
-downplay > 5368
-downvote > 10191
-downvoted > 11905
-downvotes > 7950
-dozen > 10593
-dozens > 14048
-dr > 53951
-draft > 7640
-drag > 6705
-drain > 7076
-drama > 5072
-dramatic > 17570
-dramatically > 17584
-drastic > 31785
-drastically > 23599
-draw > 19393
-drawing > 7386
-drawn > 8393
-dream > 19700
-dreams > 6847
-drier > 6936
-drill > 5721
-drilling > 14276
-drink > 12944
-drinking > 15221
-drive > 64095
-driven > 42100
-driver > 18545
-drivers > 13296
-drives > 14242
-driving > 64582
-drone > 5953
-drop > 39737
-dropped > 15741
-dropping > 10620
-drops > 7388
-drought > 58093
-droughts > 32490
-drove > 5513
-drs > 14957
-drug > 29185
-drugs > 26783
-drumpf > 17936
-drying > 5229
-dude > 38219
-due > 270901
-dumb > 52036
-dumbass > 6465
-dumbest > 5060
-dump > 9568
-dumping > 9478
-dunno > 6785
-dust > 11732
-dutch > 7274
-duty > 11645
-dying > 53353
-dynamic > 7815
-dynamics > 7155
-dystopian > 5289
-e2 > 5396
-earlier > 35422
-early > 68582
-earn > 10327
-earned > 7398
-ears > 7699
-earth > 401795
-earthers > 11742
-earthquake > 5019
-earthquakes > 8289
-earths > 23368
-ease > 6203
-easier > 55347
-easiest > 7924
-easily > 71499
-east > 54445
-eastern > 17233
-easy > 93760
-eaten > 5481
-eating > 61175
-echo > 9697
-eco > 21371
-ecological > 32211
-ecology > 12553
-econ > 5012
-economic > 228370
-economical > 7333
-economically > 26003
-economics > 57964
-economies > 26088
-economist > 12874
-economists > 29300
-economy > 207161
-ecosystem > 30147
-ecosystems > 29530
-ect > 11698
-ed > 11567
-edge > 13265
-edit > 93411
-edited > 5780
-educate > 17775
-educated > 37228
-educating > 5357
-education > 129652
-educational > 8515
-effect > 170983
-effected > 6710
-effective > 75188
-effectively > 32855
-effectiveness > 5692
-effects > 192940
-efficiency > 26683
-efficient > 47853
-efficiently > 7101
-effort > 65264
-efforts > 60096
-eggs > 8645
-ego > 7670
-egypt > 6473
-eh > 10142
-el > 16128
-elaborate > 6028
-elderly > 7768
-elect > 15821
-elected > 55083
-electing > 7180
-election > 130995
-elections > 40756
-electoral > 16728
-electorate > 8177
-electric > 76823
-electrical > 9819
-electricity > 66530
-element > 7624
-elements > 13325
-eliminate > 20035
-eliminated > 6466
-eliminating > 10527
-elite > 18897
-elites > 15585
-elizabeth > 6862
-elon > 21940
-em > 8707
-email > 16194
-emails > 11687
-embarrassing > 5999
-embrace > 10902
-emergency > 39733
-emerging > 7838
-emission > 28151
-emissions > 360412
-emit > 12716
-emits > 5942
-emitted > 8880
-emitting > 10394
-emotion > 7262
-emotional > 19942
-emotionally > 6539
-emotions > 9150
-empathy > 11666
-emphasis > 8788
-empire > 16862
-empirical > 12415
-employed > 7088
-employee > 6368
-employees > 20404
-employer > 5187
-employers > 5993
-employment > 13183
-empty > 14230
-en > 168555
-enable > 7100
-enact > 14488
-enacted > 6172
-enacting > 5044
-encourage > 26349
-encouraged > 8027
-encourages > 5862
-encouraging > 11712
-end > 297263
-endangered > 10111
-ended > 25540
-ending > 38350
-endless > 14607
-endorse > 5710
-endorsed > 7435
-ends > 27855
-enemies > 10712
-enemy > 21529
-energies > 6211
-energy > 532811
-enforce > 10677
-enforced > 5536
-enforcement > 12496
-engage > 20398
-engaged > 9481
-engagement > 5383
-engaging > 10994
-engine > 13443
-engineer > 13720
-engineered > 5107
-engineering > 30806
-engineers > 13896
-engines > 7755
-england > 14321
-english > 20639
-enjoy > 38911
-enjoyed > 7126
-enjoying > 5785
-enormous > 18591
-ensure > 33042
-ensuring > 9137
-enter > 13520
-entered > 6281
-entering > 9960
-enterprise > 5799
-entertainment > 8610
-entire > 162187
-entirety > 7818
-entities > 8339
-entitled > 11838
-entity > 7744
-entry > 11229
-environment > 312440
-environmental > 217599
-environmentalism > 12602
-environmentalist > 11618
-environmentalists > 18469
-environmentally > 21412
-environments > 11426
-epa > 54817
-epic > 5563
-epidemic > 7061
-episode > 20514
-episodes > 5625
-equal > 43692
-equality > 25141
-equally > 25499
-equation > 8351
-equator > 7334
-equilibrium > 8205
-equipment > 13262
-equipped > 5897
-equitable > 5811
-equity > 7505
-equivalent > 27006
-er > 8119
-era > 32054
-erosion > 10589
-error > 15720
-errors > 7540
-eruption > 5299
-escape > 14344
-essay > 6421
-essence > 5209
-essential > 27621
-essentially > 47246
-establish > 11526
-established > 27768
-establishment > 31986
-estate > 12697
-estimate > 17547
-estimated > 18608
-estimates > 23364
-ethereum > 5016
-ethical > 20060
-ethics > 13699
-ethnic > 8025
-eu > 73913
-europe > 98620
-european > 47648
-europeans > 8942
-ev > 16900
-evaluate > 6260
-evangelical > 6768
-event > 74330
-events > 92845
-eventually > 66747
-everyday > 17091
-evidence > 282635
-evident > 6980
-evil > 55965
-evils > 6015
-evolution > 77360
-evolutionary > 9538
-evolve > 11302
-evolved > 14172
-evolving > 5228
-evs > 14354
-exacerbate > 5178
-exacerbated > 7150
-exact > 41821
-exaggerated > 9392
-examine > 5949
-examples > 47983
-exceed > 5604
-excellent > 13309
-exception > 11835
-exceptions > 6257
-excess > 13357
-excessive > 7926
-exchange > 17433
-excited > 8975
-exciting > 5296
-exclude > 5924
-exclusive > 10270
-exclusively > 9537
-excuse > 31223
-excuses > 8133
-executive > 29652
-executives > 6707
-exercise > 11048
-exist > 114082
-existed > 22262
-existence > 52297
-existent > 5039
-existential > 33728
-existing > 43716
-exists > 60427
-exit > 5356
-expand > 23651
-expanded > 10165
-expanding > 18382
-expansion > 21414
-expect > 79457
-expectancy > 5539
-expectations > 7686
-expected > 50353
-expecting > 12273
-expense > 16234
-expenses > 5412
-expensive > 73234
-experience > 79930
-experienced > 19751
-experiences > 12900
-experiencing > 18479
-experiment > 15621
-experiments > 10533
-expert > 38609
-expertise > 17725
-experts > 71174
-expires > 11125
-explain > 69251
-explained > 24556
-explaining > 15870
-explains > 15562
-explanation > 23187
-explanations > 6078
-explicit > 5125
-explicitly > 15711
-exploit > 10080
-exploitation > 14906
-exploited > 7485
-exploiting > 6277
-exploration > 12483
-explore > 9367
-explosion > 5180
-exponential > 8435
-exponentially > 9768
-export > 9634
-exports > 8134
-exposed > 15294
-exposure > 10941
-express > 11750
-expressed > 9805
-expressing > 5575
-expression > 6075
-extend > 9064
-extended > 24873
-extension > 8056
-extensive > 9217
-extent > 36880
-external > 13450
-externalities > 13573
-extinct > 35200
-extinction > 96955
-extinctions > 12340
-extra > 35264
-extract > 7387
-extraction > 11491
-extraordinary > 5771
-extreme > 129271
-extremely > 79660
-extremes > 13562
-extremism > 6291
-extremist > 8632
-extremists > 8187
-exxon > 27495
-exxonmobil > 8182
-eye > 21607
-eyes > 29307
-face > 107276
-facebook > 25624
-faced > 16726
-faces > 14093
-facilities > 10395
-facility > 5294
-facing > 39294
-fact > 380543
-factor > 51779
-factories > 14459
-factors > 55480
-factory > 21135
-facts > 131788
-factual > 13904
-factually > 7815
-fail > 39440
-failed > 49039
-failing > 24845
-fails > 12776
-failure > 36827
-failures > 15040
-fair > 74344
-fairly > 37731
-fairness > 6659
-faith > 55504
-fake > 59126
-fall > 60646
-fallacy > 15530
-fallen > 9004
-falling > 24837
-fallout > 7123
-falls > 16233
-false > 80056
-familiar > 14930
-families > 36315
-family > 105412
-famine > 22624
-famines > 7092
-famous > 13398
-fan > 25131
-fancy > 5518
-fans > 10885
-fantastic > 9040
-fantasy > 15325
-fao > 5541
-faq > 37403
-farm > 27920
-farmer > 8136
-farmers > 39508
-farming > 48070
-farmland > 8788
-farms > 29123
-farther > 6475
-fascinating > 6095
-fascism > 21623
-fascist > 22588
-fascists > 9528
-fashion > 11619
-faster > 52998
-fastest > 5597
-fat > 18559
-fate > 8360
-father > 18321
-fault > 44328
-favor > 41872
-favorite > 17749
-favors > 5116
-favour > 13421
-fbi > 7388
-fear > 83419
-fears > 11266
-feasible > 14070
-feature > 14049
-features > 17924
-feb > 8248
-february > 9758
-fed > 24702
-federal > 96292
-fee > 9711
-feed > 43006
-feedback > 60078
-feedbacks > 6039
-feeding > 12638
-feeling > 37608
-feelings > 23285
-feels > 36283
-fees > 7898
-feet > 22117
-fell > 12429
-fellow > 17561
-felt > 33832
-female > 18309
-feminism > 10287
-feminist > 7874
-feminists > 5789
-fence > 6799
-fertile > 5831
-fertility > 6081
-fertilizer > 6775
-fewer > 27783
-ffs > 5029
-fi > 7415
-fiction > 13846
-field > 70603
-fields > 26676
-fifty > 5055
-fight > 153086
-fighting > 96328
-fights > 7226
-figure > 59005
-figured > 12016
-figures > 18645
-figuring > 5129
-file > 10260
-files > 24978
-filibuster > 5089
-fill > 17266
-filled > 17253
-filling > 5389
-film > 17747
-filter > 10847
-final > 26435
-finally > 56457
-finance > 24294
-financial > 62591
-financially > 12408
-financing > 5713
-find > 252952
-finding > 31298
-findings > 19792
-finds > 14978
-fine > 92107
-finger > 9635
-fingers > 8991
-finish > 7464
-finished > 8041
-finite > 10275
-finland > 5777
-fire > 98477
-firearms > 5782
-fired > 17322
-fires > 84016
-firm > 12215
-firmly > 7573
-firms > 9667
-firstly > 7192
-fiscal > 10924
-fish > 31885
-fishing > 13578
-fit > 38141
-fits > 10763
-fix > 105525
-fixed > 23106
-fixing > 24203
-flag > 11540
-flat > 53701
-flawed > 18351
-flaws > 11348
-fleeing > 5400
-fleet > 5272
-flight > 10406
-flights > 7145
-flip > 12999
-floating > 5919
-flood > 35495
-flooded > 11306
-flooding > 37468
-floods > 28774
-floor > 12998
-florida > 33515
-flow > 17083
-flows > 5184
-flu > 8655
-fluctuations > 6181
-fly > 20307
-flying > 20880
-focus > 89103
-focused > 33659
-focuses > 6954
-focusing > 21518
-folk > 7516
-folks > 40176
-follow > 58933
-followers > 8001
-food > 242079
-foods > 16663
-fool > 10395
-foolish > 8084
-fools > 5751
-foot > 16308
-football > 7556
-footprint > 42072
-forbes > 16437
-force > 86501
-forced > 49653
-forces > 31797
-forcing > 33583
-ford > 9238
-forecast > 8267
-forecasts > 5432
-forefront > 5210
-foreign > 74213
-forest > 57264
-forestry > 5722
-forests > 39768
-forever > 28887
-forget > 39695
-forgive > 6165
-forgot > 12077
-forgotten > 7696
-form > 88299
-formal > 5295
-formation > 5787
-formed > 11801
-forming > 6845
-forms > 26718
-fortunately > 5101
-fortune > 6253
-forum > 11801
-forward > 59146
-fossil > 242839
-fought > 20048
-found > 110063
-foundation > 25715
-foundations > 5346
-founded > 11236
-founder > 6581
-fourth > 8325
-fox > 39100
-fracking > 27138
-fraction > 14681
-fragile > 6792
-frame > 15063
-framework > 13856
-framing > 6095
-france > 30712
-frank > 8379
-frankly > 25238
-fraud > 22371
-freak > 6791
-freaking > 7850
-free > 207885
-freedom > 51756
-freedoms > 8639
-freely > 5974
-freeze > 9299
-freezing > 9294
-french > 17365
-frequency > 16625
-frequent > 16751
-fresh > 19461
-freshwater > 5792
-friday > 8475
-friend > 32899
-friendly > 32083
-friends > 65710
-fringe > 12879
-front > 47129
-frozen > 10418
-fruit > 9760
-fruits > 5042
-frustrated > 6563
-frustrating > 9971
-frustration > 5643
-ft > 7335
-fucked > 72818
-fuckin > 5579
-fucking > 200922
-fucks > 12927
-fuel > 169012
-fueled > 7236
-fuels > 144494
-fukushima > 7026
-full > 126436
-fully > 53764
-fun > 47295
-function > 18283
-functional > 5874
-functioning > 7959
-functions > 6394
-fund > 51113
-fundamental > 25975
-fundamentally > 22699
-funded > 39275
-funding > 91738
-funds > 28751
-funny > 40173
-fusion > 17011
-future > 307345
-futures > 5166
-gain > 40786
-gained > 8895
-gaining > 7517
-gains > 17379
-gallon > 5196
-gallons > 5161
-game > 78994
-games > 23228
-gaming > 5489
-gang > 5547
-gap > 21371
-garbage > 23693
-garden > 9903
-gas > 217444
-gases > 47631
-gasoline > 14414
-gasses > 16703
-gates > 18176
-gather > 6795
-gathering > 6015
-gave > 46855
-gay > 64908
-gays > 8192
-gdp > 30326
-gear > 5984
-gen > 16535
-gender > 45456
-genders > 5126
-gene > 6149
-general > 151226
-generally > 74564
-generate > 17026
-generated > 13154
-generating > 7796
-generation > 93780
-generational > 5184
-generations > 59433
-generous > 5056
-genes > 7004
-genetic > 16023
-genetically > 6636
-genetics > 5532
-genius > 8421
-genocide > 19139
-genuine > 13436
-genuinely > 24890
-geo > 7420
-geoengineering > 12386
-geographic > 5686
-geography > 8994
-geological > 10491
-geology > 6771
-geopolitical > 8571
-george > 16859
-georgia > 6248
-geothermal > 7224
-german > 20667
-germany > 53484
-gerrymandering > 6964
-ghg > 21535
-ghgs > 5631
-giant > 28161
-gif > 5121
-girl > 22647
-girls > 11964
-github > 16623
-giving > 77127
-glacial > 10375
-glacier > 8929
-glaciers > 19759
-glad > 24219
-glass > 10016
-global > 751568
-globalist > 5739
-globalization > 6081
-globally > 28073
-globe > 28389
-gloom > 6081
-gm > 7237
-gmo > 16523
-gmos > 12323
-gnd > 9446
-goal > 65760
-goals > 45494
-god > 114385
-goddamn > 7423
-gods > 11444
-gold > 15743
-golden > 8055
-golf > 8491
-gonna > 88565
-goods > 29751
-google > 66243
-gop > 69062
-gore > 45984
-gotta > 16782
-gov > 103146
-govern > 5077
-governance > 9950
-governing > 6295
-government > 477638
-governmental > 8093
-governments > 93114
-governor > 14584
-govt > 14747
-grab > 10668
-grade > 11584
-gradual > 10146
-gradually > 9455
-graduate > 6299
-grain > 11677
-grand > 19982
-grandchildren > 8912
-grant > 12745
-granted > 15412
-grants > 11953
-graph > 21290
-graphs > 7743
-grasp > 12341
-grass > 13882
-grave > 5134
-gravity > 15922
-grazing > 6926
-great > 243691
-greater > 60823
-greatest > 32589
-greatly > 19392
-greed > 22429
-greedy > 12169
-greener > 10093
-greenhouse > 125499
-greenland > 15496
-greenpeace > 10492
-greens > 32208
-greta > 37505
-grew > 22008
-grey > 5471
-grid > 35359
-grocery > 7323
-gross > 9414
-ground > 66290
-grounds > 35407
-group > 119098
-groups > 84556
-grow > 76089
-growing > 81081
-grown > 25710
-grows > 11465
-growth > 112544
-guarantee > 21117
-guaranteed > 12864
-guard > 7258
-guardian > 10225
-guess > 112944
-guessing > 9077
-guide > 11592
-guidelines > 5735
-guilt > 8715
-guilty > 15635
-gulf > 14302
-gun > 81605
-guns > 41737
-gut > 7542
-guy > 109778
-guys > 61051
-gw > 5804
-habitable > 12064
-habitat > 23119
-habitats > 8924
-habits > 14046
-hair > 11363
-hall > 6253
-halt > 10240
-hand > 87337
-handed > 7238
-handful > 12682
-handle > 31779
-handled > 8064
-handling > 8428
-hands > 40014
-hang > 7672
-hanging > 6644
-hansen > 10074
-happen > 203960
-happened > 98837
-happening > 166108
-happily > 7593
-happiness > 8766
-hard > 199367
-hardcore > 5392
-harder > 44600
-hardest > 7519
-harm > 50982
-harmful > 29037
-harming > 7004
-harms > 6950
-harper > 11277
-harris > 10630
-harsh > 11012
-harvard > 9142
-harvest > 6743
-hasnt > 13500
-hat > 7974
-hate > 103041
-hated > 7899
-hateful > 5547
-hates > 9658
-hating > 7887
-hatred > 11895
-havent > 20737
-hawaii > 5270
-hazard > 5095
-head > 76268
-headed > 13138
-heading > 12182
-headline > 13061
-headlines > 11322
-heads > 21690
-health > 183029
-healthcare > 125642
-healthier > 7263
-healthy > 36573
-hear > 75358
-heard > 72641
-hearing > 20943
-heart > 32137
-heartland > 6294
-heat > 126091
-heated > 5437
-heating > 28348
-heatwave > 6440
-heatwaves > 7362
-heaven > 6653
-heavily > 38840
-heavy > 30465
-heck > 8630
-height > 6993
-held > 38124
-helped > 35957
-helpful > 17056
-helping > 47277
-helps > 38807
-hemisphere > 8784
-heres > 16047
-heritage > 7841
-hero > 7992
-hes > 52576
-hidden > 9685
-hide > 14486
-hiding > 9490
-hierarchy > 5228
-high > 210198
-higher > 129280
-highest > 30430
-highlight > 6247
-highlights > 5757
-highly > 54642
-highway > 6424
-hilarious > 10744
-hill > 11880
-hillary > 61543
-hint > 7287
-hire > 8524
-hired > 6981
-hiring > 6441
-historic > 12059
-historical > 32394
-historically > 21058
-history > 182246
-hitler > 13931
-hits > 16438
-hitting > 12692
-hiv > 5028
-hoax > 92825
-hockey > 6479
-hold > 78631
-holding > 30128
-holds > 16354
-hole > 22749
-holes > 9333
-holiday > 5291
-hollywood > 6335
-holocaust > 14827
-holocene > 6306
-home > 107798
-homeless > 16304
-homelessness > 10171
-homenews > 5081
-homes > 38508
-hominem > 6038
-homo > 5410
-homophobic > 5772
-homosexuality > 5768
-honest > 44069
-honestly > 82939
-honesty > 5369
-hong > 6765
-hook > 5887
-hope > 145865
-hopeful > 7750
-hopeless > 6482
-hopes > 10186
-hoping > 19599
-horizon > 7390
-horrible > 27714
-horrific > 6632
-horror > 6127
-horse > 11844
-hospital > 9064
-hospitals > 7723
-host > 14134
-hostile > 11991
-hotter > 31165
-hottest > 11398
-hours > 44564
-house > 135411
-household > 8490
-households > 6676
-houses > 25053
-housing > 59301
-houston > 5449
-htm > 20885
-https > 1273744
-huge > 163659
-hugely > 6769
-human > 420723
-humanitarian > 8803
-humanity > 137571
-humans > 285127
-humid > 6526
-humidity > 10675
-hundred > 32600
-hundreds > 61824
-hunger > 18772
-hungry > 9036
-hunt > 8528
-hunter > 7181
-hunting > 14212
-hurricane > 28725
-hurricanes > 38974
-hurt > 41810
-hurting > 12689
-hurts > 12803
-husband > 8029
-hybrid > 6858
-hydro > 13442
-hydrogen > 15417
-hype > 5861
-hyper > 7044
-hyperbole > 8269
-hyperbolic > 5073
-hypocrisy > 13123
-hypocrite > 8542
-hypocrites > 5501
-hypocritical > 11470
-hypothesis > 20643
-hypothetical > 10881
-hysteria > 11184
-ice > 202779
-id > 58957
-idea > 221473
-ideal > 19492
-ideally > 7954
-ideals > 12124
-ideas > 91431
-identical > 5224
-identified > 9680
-identify > 15779
-identity > 26243
-ideological > 17310
-ideologies > 9901
-ideology > 42890
-idiot > 33527
-idiotic > 11608
-idiots > 34335
-idk > 16126
-ignorance > 37518
-ignorant > 50633
-ignore > 78662
-ignores > 13877
-ignoring > 52841
-ii > 8997
-iirc > 5835
-illegal > 41999
-illegally > 5702
-illness > 10862
-illusion > 5638
-image > 21001
-images > 14858
-imaginary > 5091
-imagine > 80051
-imf > 6755
-imgur > 21109
-imho > 5280
-immediately > 40429
-immense > 7816
-immigrant > 9208
-immigrants > 37912
-immigration > 73319
-imminent > 9595
-immoral > 10455
-immune > 8330
-imo > 29978
-impact > 211358
-impacted > 15130
-impactful > 7245
-impacting > 7574
-impacts > 68716
-impeachment > 5583
-impending > 9967
-imperialism > 7744
-implement > 25357
-implementation > 8859
-implemented > 18912
-implementing > 10521
-implications > 16759
-implied > 6239
-implies > 11824
-imply > 12002
-implying > 11177
-import > 7922
-importance > 20685
-important > 225602
-importantly > 17225
-imports > 6589
-impose > 9102
-imposed > 6203
-impossible > 62630
-impression > 11207
-impressive > 6067
-improve > 41973
-improved > 15473
-improvement > 11838
-improvements > 10896
-improving > 18673
-inability > 9804
-inaccurate > 9792
-inaction > 17606
-incapable > 9613
-incarceration > 6724
-incentive > 19911
-incentives > 18430
-incentivize > 5541
-inches > 6278
-incident > 6285
-inclined > 6963
-include > 47108
-included > 26549
-includes > 29020
-including > 114898
-income > 76985
-incoming > 5288
-incompetent > 7406
-inconvenience > 5713
-inconvenient > 11792
-incorrect > 22789
-increase > 173078
-increased > 92767
-increases > 49290
-increasing > 92663
-increasingly > 32986
-incredible > 14236
-incredibly > 47124
-incremental > 6505
-independence > 11967
-independent > 46510
-independently > 5006
-independents > 5843
-index > 31999
-india > 90721
-indian > 15338
-indication > 8105
-indicator > 6328
-indicators > 8079
-indigenous > 16373
-indirect > 5725
-indirectly > 8003
-individual > 95550
-individually > 6836
-individuals > 59092
-indonesia > 5729
-induced > 17167
-industrial > 71508
-industrialization > 8458
-industrialized > 7381
-industries > 51088
-industry > 190326
-ineffective > 8239
-inefficient > 11226
-inequality > 55983
-inevitable > 29460
-inevitably > 12428
-infinite > 11187
-inflation > 25983
-influence > 80454
-influenced > 14224
-influences > 8613
-influencing > 5768
-influential > 8664
-info > 28306
-inform > 7870
-information > 119565
-informed > 28499
-infrastructure > 101585
-inherent > 9820
-inherently > 20575
-initial > 15810
-initially > 9222
-initiative > 12605
-initiatives > 16471
-injustice > 6111
-inland > 6834
-innocent > 13215
-innovation > 25375
-innovations > 5843
-input > 9097
-insane > 36121
-insanely > 6239
-insanity > 5971
-insect > 6686
-insects > 11205
-insert > 5225
-insight > 7208
-insignificant > 8895
-insist > 8753
-inslee > 5186
-inspired > 7293
-instability > 11996
-instagram > 5461
-install > 8884
-installed > 6391
-instance > 34040
-instances > 7202
-instant > 5879
-instantly > 7858
-institute > 28117
-institution > 9298
-institutional > 6101
-institutions > 26761
-insufficient > 5572
-insult > 8893
-insulting > 8198
-insults > 6720
-insurance > 44215
-int > 5940
-integrity > 9353
-intellectual > 19258
-intellectualism > 5585
-intellectually > 7037
-intelligence > 33010
-intelligent > 27168
-intend > 5616
-intended > 16829
-intense > 15062
-intensity > 12699
-intensive > 11022
-intent > 11361
-intention > 8983
-intentional > 5286
-intentionally > 13975
-intentions > 8762
-interact > 6237
-interaction > 5714
-interactions > 5872
-interactive > 6405
-interest > 82507
-interested > 54374
-interesting > 72733
-interests > 65131
-interference > 7684
-interglacial > 5393
-intergovernmental > 11488
-interior > 6667
-internal > 18278
-international > 84694
-internationally > 5007
-internet > 65489
-interpret > 6857
-interpretation > 12377
-intervention > 18038
-interview > 20164
-interviews > 6421
-introduce > 9587
-introduced > 13333
-introducing > 6177
-introduction > 7129
-invade > 5301
-invasion > 10144
-invasive > 7645
-invent > 6619
-invented > 14120
-invest > 38293
-invested > 17375
-investigate > 6874
-investigation > 12144
-investing > 27333
-investment > 55965
-investments > 21417
-investors > 19390
-invisible > 5187
-invited > 5623
-involve > 13497
-involved > 54687
-involvement > 8658
-involves > 11443
-involving > 7583
-io > 6515
-iowa > 5576
-ipcc > 86098
-iq > 10750
-ir > 5619
-iran > 23028
-iraq > 24883
-ireland > 11017
-irish > 5451
-iron > 9220
-ironic > 10199
-ironically > 10063
-irony > 9452
-irrational > 10984
-irrelevant > 29949
-irresponsible > 8972
-irreversible > 14711
-irrigation > 5244
-isis > 15099
-islam > 13076
-islamic > 7685
-island > 28452
-islands > 15888
-isolated > 9763
-isolation > 5076
-israel > 18635
-issue > 395817
-issued > 6767
-issues > 326612
-ist > 5996
-italy > 8737
-item > 7949
-items > 13828
-itll > 8520
-jack > 9640
-jail > 10308
-james > 18335
-jan > 11974
-january > 16102
-japan > 21628
-japanese > 8181
-jeff > 8945
-jerk > 7110
-jesus > 28402
-jet > 18867
-jets > 11894
-jewish > 8979
-jews > 11371
-jim > 7062
-job > 130859
-jobs > 126217
-joe > 78559
-joebiden > 7496
-john > 28013
-johnson > 15578
-join > 31740
-joined > 7954
-joining > 6876
-joint > 6663
-joke > 35140
-jokes > 7444
-joking > 5375
-jones > 9533
-jordan > 7922
-journal > 22580
-journalism > 8390
-journalist > 6931
-journalists > 11602
-journals > 16665
-journey > 5697
-jp > 5444
-jr > 5402
-judge > 21404
-judgement > 7591
-judges > 10220
-judging > 6151
-jul > 11360
-july > 13392
-jump > 16073
-jumping > 6551
-jun > 7515
-june > 15203
-junk > 6817
-justice > 52491
-justices > 6256
-justification > 9963
-justified > 11935
-justify > 28025
-keeping > 39627
-kerry > 6036
-key > 48768
-keystone > 10309
-keywords > 16168
-kick > 11692
-kicked > 6589
-kicking > 6998
-kidding > 6363
-kids > 144086
-kill > 99152
-killed > 50439
-killer > 6121
-killing > 62039
-kills > 17197
-kim > 6151
-kinda > 33626
-kinds > 23945
-king > 15538
-kingdom > 7478
-km > 6223
-knew > 53068
-knock > 6293
-knowing > 32780
-knowledge > 69192
-knowledgeable > 5132
-koch > 20570
-kong > 6581
-korea > 18749
-kwh > 5732
-kyoto > 6969
-la > 28390
-lab > 15773
-label > 12454
-labeled > 6651
-labor > 66245
-labour > 33316
-lack > 98297
-lacking > 8651
-lacks > 5129
-lady > 5892
-laid > 9651
-lake > 16836
-lakes > 12010
-land > 159514
-landing > 6579
-lands > 16764
-landscape > 11826
-language > 34712
-largely > 48119
-larger > 55129
-largest > 58704
-lasting > 8811
-lastly > 9145
-late > 85469
-latest > 26512
-latin > 8388
-laugh > 12075
-laughable > 8453
-laughed > 5303
-laughing > 7089
-launch > 9407
-launched > 6666
-law > 97927
-lawmakers > 7698
-laws > 86639
-lawsuit > 5890
-lawyer > 5998
-lawyers > 5739
-lay > 10651
-layer > 18123
-layers > 5821
-lazy > 17609
-le > 7971
-lead > 109617
-leader > 51391
-leaders > 65833
-leadership > 34891
-leading > 63109
-leads > 39914
-league > 5793
-leak > 5194
-leaked > 5127
-lean > 10210
-leaning > 21606
-leap > 5885
-learn > 67430
-learned > 27382
-learning > 29167
-leave > 77970
-leaves > 19540
-leaving > 34881
-lecture > 6769
-led > 44459
-leftist > 26286
-leftists > 17002
-legacy > 9290
-legal > 45016
-legalization > 7639
-legally > 11684
-legislation > 61584
-legislative > 10218
-legislature > 6231
-legit > 7335
-legitimacy > 5914
-legitimate > 25482
-legitimately > 7088
-length > 8260
-lesser > 13590
-lesson > 7733
-lessons > 5802
-lets > 53519
-letter > 18548
-letters > 8370
-letting > 24006
-level > 217768
-levels > 133067
-leverage > 7459
-lgbt > 23237
-lgbtq > 15155
-liability > 5518
-liar > 7759
-lib > 6155
-liberal > 117332
-liberalism > 9149
-liberals > 74459
-libertarian > 26946
-libertarians > 12187
-liberties > 5387
-liberty > 10107
-library > 7113
-libs > 10456
-lie > 58334
-lied > 16258
-lies > 51788
-life > 406825
-lifestyle > 34145
-lifestyles > 9628
-lifetime > 27346
-lifetimes > 7486
-lift > 6144
-light > 52051
-lightning > 6418
-lights > 9284
-likelihood > 10131
-likes > 19821
-likewise > 8011
-limit > 37980
-limitations > 6100
-limited > 44508
-limiting > 13499
-limits > 22177
-line > 100913
-linear > 6754
-lines > 36132
-link > 88336
-linked > 43096
-linking > 6908
-links > 31305
-lip > 5871
-liquid > 6022
-list > 82493
-listed > 16139
-listen > 59736
-listened > 8805
-listening > 22244
-lists > 5646
-literal > 20198
-literally > 204763
-literature > 18161
-lithium > 7428
-livable > 6580
-live > 267568
-lived > 36948
-lives > 130736
-livestock > 25752
-living > 168384
-lmao > 16690
-lnp > 7426
-load > 14556
-loads > 6999
-loan > 15020
-loans > 14311
-lobby > 27526
-lobbying > 24827
-lobbyist > 5721
-lobbyists > 13304
-local > 106140
-locally > 9846
-located > 6011
-location > 16446
-locations > 9687
-lock > 8030
-lockdown > 7769
-lockdowns > 7033
-locked > 11593
-logging > 5749
-logic > 48696
-logical > 28264
-logically > 7736
-lol > 81659
-london > 15524
-long > 383404
-longer > 110632
-longest > 5382
-looked > 33853
-looming > 8330
-loop > 9676
-loops > 8687
-loose > 7996
-lord > 8832
-los > 6253
-lose > 68838
-losers > 5311
-loses > 8431
-losing > 38394
-loss > 60155
-losses > 13710
-lost > 81473
-lots > 63761
-loved > 13171
-loves > 12029
-loving > 8110
-low > 123380
-lower > 93857
-lowering > 11853
-lowest > 14630
-lt > 20569
-luck > 23871
-luckily > 5791
-lucky > 15591
-ludicrous > 5057
-lunch > 5021
-lung > 5416
-luxury > 14269
-lying > 44422
-m4a > 9343
-machine > 20809
-machines > 11292
-macron > 6389
-mad > 22774
-maga > 5169
-magazine > 15888
-magic > 18559
-magical > 8678
-magically > 11252
-magnetic > 6117
-magnitude > 17434
-mail > 10429
-main > 85806
-mainstream > 35055
-maintain > 31630
-maintained > 6772
-maintaining > 12342
-maintenance > 10861
-major > 169695
-majority > 150454
-makers > 8316
-makes > 239645
-male > 23517
-males > 6164
-mammals > 6291
-man > 255372
-manage > 23460
-managed > 23605
-management > 37981
-manager > 5819
-managing > 7667
-manchin > 11464
-mandate > 11095
-mandates > 6245
-mandatory > 9877
-manhattan > 5004
-manifesto > 5057
-manipulate > 8784
-manipulated > 9192
-manipulation > 8990
-mankind > 20978
-manmade > 10816
-mann > 9076
-manner > 17207
-manufacture > 6208
-manufactured > 7454
-manufacturers > 8245
-manufacturing > 39713
-map > 21318
-maps > 8453
-mar > 8200
-march > 26673
-margin > 8774
-marginal > 6945
-margins > 5460
-marijuana > 14483
-marine > 15799
-mark > 17142
-market > 152203
-marketing > 12663
-markets > 35358
-marriage > 42985
-married > 8427
-mars > 32620
-martin > 5706
-marx > 6865
-marxism > 6077
-marxist > 8615
-mask > 16373
-masks > 16047
-mass > 129111
-masses > 17004
-massive > 151662
-massively > 20023
-master > 8466
-masters > 7626
-match > 15932
-mate > 10865
-material > 30879
-materials > 20739
-math > 21250
-matter > 211511
-matters > 49409
-mature > 5961
-max > 10388
-maximum > 12665
-mayor > 9550
-mccain > 5502
-mcconnell > 6284
-meal > 6019
-meaning > 42358
-meaningful > 37245
-meaningless > 14426
-means > 242854
-meant > 49374
-meantime > 6638
-measurable > 7484
-measure > 31363
-measured > 13331
-measurement > 5025
-measurements > 11041
-measures > 44438
-measuring > 7479
-meat > 148348
-mechanics > 6169
-mechanism > 14501
-mechanisms > 10803
-media > 195893
-median > 5416
-medicaid > 5280
-medical > 44814
-medicare > 29197
-medicine > 20262
-medieval > 8323
-medium > 28526
-meet > 49022
-meeting > 27314
-meetings > 7978
-mega > 11175
-melt > 20952
-melted > 6438
-melting > 35746
-melts > 6903
-member > 30741
-members > 48637
-membership > 5112
-meme > 14735
-memes > 9139
-memory > 9164
-men > 68193
-mental > 43117
-mentality > 13028
-mentally > 10646
-mention > 80640
-mentioned > 55319
-mentioning > 10550
-mentions > 8744
-mere > 9512
-merit > 8408
-merkel > 5383
-mess > 23105
-message > 105348
-messages > 7303
-messaging > 7413
-met > 31566
-meta > 6432
-metal > 8312
-metals > 6377
-metaphor > 6952
-meteor > 6028
-meteorological > 5175
-meter > 7094
-meters > 6888
-methane > 58318
-method > 33276
-methodology > 7279
-methods > 31725
-metric > 13485
-mexican > 5684
-mexicans > 5127
-mexico > 22100
-miami > 8887
-michael > 17468
-michigan > 7867
-micro > 6793
-mid > 24830
-middle > 111220
-midwest > 8954
-migrant > 5604
-migrants > 11284
-migrate > 6973
-migration > 31122
-migrations > 7226
-mike > 7772
-mild > 10176
-mile > 10022
-miles > 26130
-military > 95372
-milk > 12199
-millennia > 6610
-millennial > 5501
-millennials > 13502
-million > 144187
-millions > 127359
-mind > 131877
-minded > 16650
-minds > 29671
-mindset > 14696
-minerals > 5487
-miners > 6253
-mines > 8570
-mini > 5939
-minimal > 10942
-minimize > 8663
-minimum > 55246
-mining > 33802
-minister > 38209
-ministers > 7101
-ministry > 6815
-minor > 22762
-minorities > 21385
-minority > 34779
-miracle > 5611
-mirror > 5805
-miserable > 6647
-misery > 5189
-misguided > 6507
-misinformation > 28797
-misinformed > 6978
-misleading > 20992
-miss > 17200
-missed > 16233
-missing > 26709
-mission > 14374
-mistake > 22380
-mistaken > 6498
-mistakes > 13678
-misunderstanding > 8301
-mit > 10265
-mitigate > 39757
-mitigating > 11401
-mitigation > 27428
-mix > 15836
-mixed > 14275
-mob > 5403
-mobile > 12599
-mobility > 5437
-mod > 5628
-mode > 10188
-model > 72581
-modeling > 8990
-modelling > 5821
-models > 98103
-moderate > 33019
-moderates > 9155
-moderators > 14220
-modern > 85905
-modest > 5250
-modified > 5605
-mods > 8904
-moisture > 8170
-mom > 13085
-moment > 56077
-moments > 6144
-momentum > 6577
-monday > 7450
-monetary > 8698
-money > 420641
-mongering > 14298
-monitor > 5341
-monitored > 14047
-monitoring > 7477
-monopoly > 7260
-monsanto > 5492
-monster > 6300
-monthly > 8369
-months > 66127
-moon > 25907
-moore > 5444
-moral > 51281
-morality > 14232
-morally > 16366
-morals > 7328
-morning > 15219
-moron > 12976
-morons > 12785
-morrison > 7772
-mortality > 9129
-mortgage > 5173
-mother > 27684
-motion > 8370
-motivated > 14532
-motivation > 10406
-motive > 8867
-motives > 6247
-mountain > 15777
-mountains > 15500
-mouth > 15797
-move > 120366
-moved > 30900
-movement > 85463
-movements > 18525
-moves > 13747
-movie > 33678
-movies > 11770
-moving > 64021
-mp > 6487
-mps > 5794
-mr > 45276
-ms > 10442
-msm > 6164
-msnbc > 5507
-muh > 6434
-multi > 16710
-multiple > 57585
-murder > 22393
-murdered > 6288
-murdoch > 8353
-music > 17471
-musk > 25808
-muslim > 18843
-muslims > 18625
-mutual > 5309
-mutually > 6644
-myriad > 5034
-myth > 24009
-myths > 6328
-na > 5885
-nafta > 7328
-nah > 14831
-nail > 6610
-naive > 15891
-named > 11149
-names > 14336
-narrative > 47811
-narratives > 6233
-narrow > 11248
-nasa > 77502
-nasty > 6530
-nation > 79411
-national > 170971
-nationalgeographic > 7694
-nationalism > 11461
-nationalist > 8319
-nations > 113283
-native > 25149
-nato > 14088
-natural > 211776
-naturally > 32523
-nature > 128508
-navy > 5719
-nazi > 17634
-nazis > 17187
-nbcnews > 9328
-nbsp > 13074
-ncbi > 7283
-ndp > 14339
-nearby > 6734
-necessarily > 44657
-necessity > 9789
-needed > 89722
-needing > 9051
-negative > 76952
-negatively > 11622
-negligible > 8215
-negotiate > 6446
-negotiations > 7109
-neighborhood > 7776
-neighborhoods > 5421
-neighbors > 9350
-neil > 5207
-neo > 13084
-neoliberal > 14868
-neoliberalism > 7097
-net > 89027
-netflix > 7034
-netherlands > 9893
-nets > 5634
-network > 22294
-networks > 8824
-neutral > 30720
-neutrality > 14035
-newer > 5844
-newly > 5469
-news > 356551
-newspaper > 6662
-nft > 31796
-nfts > 22843
-nhs > 5409
-niche > 5843
-night > 37176
-nightmare > 7148
-nih > 8533
-nino > 5414
-nitrogen > 7338
-nixon > 5915
-nlm > 7253
-noaa > 21379
-nobel > 12386
-noble > 5113
-noise > 9822
-nomination > 7985
-nominee > 7616
-nonetheless > 5677
-nonsense > 38231
-nope > 18617
-norm > 10214
-normal > 70316
-norms > 6514
-north > 85860
-northern > 32564
-norway > 10357
-nose > 6225
-notable > 12126
-notably > 5460
-note > 50987
-noted > 12160
-notes > 8528
-noteworthy > 6614
-notice > 29114
-noticeable > 6192
-noticed > 17329
-noting > 6911
-notion > 18639
-nov > 9171
-november > 15525
-nowadays > 10501
-np > 79235
-npr > 12841
-nra > 5142
-nsw > 5283
-nuance > 7888
-nuanced > 8233
-nuclear > 316778
-nuke > 7695
-nukes > 13844
-number > 141380
-numbers > 71447
-nut > 6098
-nutrients > 6843
-nutrition > 7617
-nuts > 10362
-ny > 7747
-nyc > 9687
-nye > 12685
-nytimes > 29182
-nz > 10027
-obama > 121228
-obamacare > 13377
-obamas > 6566
-obesity > 7813
-object > 7262
-objective > 25754
-objectively > 17112
-obligation > 6960
-observation > 9837
-observations > 14260
-observe > 7212
-observed > 21217
-obsessed > 6504
-obsession > 5130
-obtain > 5621
-obvious > 64042
-ocasio > 6428
-occasionally > 6981
-occur > 30158
-occurred > 17777
-occurrence > 5541
-occurring > 23255
-occurs > 11738
-ocean > 108576
-oceanic > 5658
-oceans > 47896
-oct > 9783
-october > 10909
-odd > 13457
-odds > 12744
-offended > 5925
-offensive > 7489
-offer > 32959
-offered > 12491
-offering > 11483
-offers > 10600
-office > 69104
-officer > 7539
-officers > 6140
-offices > 5125
-official > 25096
-officially > 6197
-officials > 26959
-offset > 14660
-offshore > 8554
-ohio > 5131
-oil > 295488
-older > 35142
-olds > 6434
-oligarchs > 5015
-omg > 5140
-ongoing > 15758
-online > 40624
-onlinelibrary > 6399
-ontario > 11826
-op > 44299
-open > 96632
-opened > 8602
-opening > 13660
-openly > 18285
-opens > 5082
-operate > 14185
-operating > 11165
-operation > 11053
-operations > 11819
-opinion > 177645
-opinions > 65495
-opponent > 6770
-opponents > 10109
-opportunities > 18683
-opportunity > 41494
-oppose > 25362
-opposed > 68546
-opposes > 8634
-opposing > 18248
-opposite > 46785
-opposition > 34534
-oppressed > 5577
-oppression > 9173
-opt > 7858
-optimal > 6517
-optimism > 7216
-optimistic > 17379
-option > 56456
-options > 38123
-orange > 9058
-orbit > 10318
-order > 127157
-ordered > 5424
-orders > 15255
-ordinary > 9387
-oregon > 9479
-org > 406665
-organic > 16546
-organisation > 7233
-organisations > 6177
-organisms > 9699
-organization > 34350
-organizations > 28642
-organize > 8629
-organized > 12566
-organizing > 6404
-oriented > 5599
-origin > 7621
-original > 64184
-originally > 13677
-outcome > 26063
-outcomes > 18880
-outdated > 7400
-outlets > 10323
-outlook > 8397
-output > 26435
-outrage > 8761
-outright > 23719
-outweigh > 5834
-overcome > 11383
-overly > 9498
-overnight > 11583
-overpopulation > 30262
-overseas > 9917
-oversight > 7119
-overturn > 5784
-overwhelming > 27293
-overwhelmingly > 10378
-owned > 22543
-owner > 9437
-owners > 18525
-ownership > 17717
-owning > 9527
-owns > 8890
-oxygen > 19912
-ozone > 25931
-pace > 14675
-pacific > 20555
-pack > 9181
-package > 8089
-page > 41222
-pages > 14446
-paid > 65792
-pain > 20021
-painful > 6728
-paint > 10911
-painting > 5374
-pakistan > 11228
-palm > 6021
-pandemic > 65700
-pandemics > 10463
-pandering > 5850
-panel > 25485
-panels > 28673
-panic > 13575
-paper > 75262
-papers > 53157
-par > 7076
-paradigm > 6505
-paragraph > 11797
-parallel > 5265
-parent > 11458
-parenthood > 5496
-parents > 56398
-paris > 78355
-park > 20592
-parking > 8024
-parks > 10873
-parliament > 15760
-part > 306680
-partially > 11968
-participate > 12751
-participating > 6377
-participation > 6170
-particles > 5354
-parties > 73454
-partisan > 22944
-partly > 10772
-partner > 12442
-partners > 8169
-partnership > 6027
-parts > 61059
-party > 302675
-pass > 57816
-passage > 7508
-passed > 44326
-passes > 7556
-passing > 19968
-passion > 6410
-passionate > 9884
-passive > 5226
-path > 36294
-pathetic > 11277
-patient > 5578
-patients > 6330
-patriarchy > 5150
-patriot > 5385
-pattern > 15460
-patterns > 36360
-paul > 17880
-pause > 7244
-pay > 158988
-paycheck > 6154
-payer > 14663
-paying > 60452
-payments > 7019
-pays > 11369
-pbs > 6129
-pc > 8581
-pdf > 86953
-peace > 29841
-peaceful > 13235
-peak > 25818
-peer > 38776
-peers > 6622
-pelosi > 8283
-penalty > 7058
-pence > 7892
-pentagon > 8860
-people > 2535402
-peoples > 30917
-perceive > 5362
-perceived > 11114
-percent > 62745
-percentage > 26206
-perception > 12325
-perfect > 54903
-perfectly > 29940
-perform > 7747
-performance > 12558
-performed > 12162
-period > 78934
-periods > 24262
-permafrost > 17674
-permanent > 17270
-permanently > 8420
-person > 227572
-personal > 99165
-personality > 9520
-personally > 85953
-persons > 7975
-perspective > 51853
-perspectives > 6613
-pessimistic > 8023
-pesticides > 8823
-pet > 7737
-pete > 9575
-peter > 8662
-peterson > 14890
-petition > 5856
-petrol > 7060
-petroleum > 12089
-petty > 6806
-ph > 7370
-pharma > 5280
-phase > 16890
-phd > 11507
-phenomena > 9993
-phenomenon > 19148
-philosophical > 7479
-philosophy > 21078
-phone > 19674
-phones > 7200
-photo > 9068
-photos > 6475
-php > 15981
-phrase > 14971
-phys > 5211
-physical > 33279
-physically > 10299
-physics > 30756
-pick > 45894
-picked > 16254
-picking > 16871
-picks > 5501
-picture > 36789
-pictures > 8250
-piece > 39804
-pieces > 14264
-pigs > 6088
-pii > 8029
-pile > 6487
-pipe > 6070
-pipeline > 51322
-pipelines > 10724
-pissed > 10982
-place > 197924
-places > 92268
-plague > 8876
-plain > 13040
-plan > 163960
-plane > 11021
-planes > 11705
-planet > 324791
-planetary > 10347
-planets > 18034
-planned > 22401
-planning > 34872
-plans > 59225
-plant > 87445
-planted > 5841
-planting > 15269
-plants > 116366
-plastic > 52485
-plastics > 13955
-plate > 5856
-platform > 54381
-platforms > 8827
-plausible > 9451
-play > 72941
-played > 17763
-player > 9732
-players > 14154
-playing > 35713
-plays > 14262
-pleasure > 6238
-pledge > 8290
-plot > 14175
-pm > 30669
-pnas > 7406
-pocket > 8386
-pockets > 13264
-podcast > 13897
-point > 560963
-pointed > 21229
-pointing > 30101
-pointless > 17163
-points > 104971
-poison > 8230
-poisoning > 6216
-poland > 5843
-polar > 36266
-pole > 9153
-poles > 9905
-police > 63927
-policies > 170146
-policy > 275199
-policymakers > 6981
-political > 384576
-politically > 36783
-politician > 31343
-politicians > 132534
-politicized > 9087
-politico > 8586
-politics > 225443
-politifact > 7018
-poll > 21304
-polling > 10181
-polls > 16330
-pollutants > 8291
-pollute > 18181
-polluted > 7802
-polluter > 5963
-polluters > 15130
-polluting > 27756
-pollution > 166975
-pool > 10585
-poor > 140266
-poorer > 14334
-poorest > 8808
-poorly > 15950
-pop > 11522
-pope > 12372
-populace > 8639
-popular > 56470
-popularity > 7426
-populated > 7731
-population > 225793
-populations > 34732
-populism > 5271
-populist > 8687
-porn > 7158
-portion > 24264
-pose > 6409
-posed > 5909
-poses > 6664
-position > 116670
-positions > 43968
-positive > 68514
-possibilities > 6734
-possibility > 29931
-possibly > 53500
-post > 161089
-posted > 31880
-poster > 7481
-posts > 35387
-pot > 8704
-potential > 72209
-potentially > 32781
-poverty > 71266
-power > 423323
-powered > 15842
-powerful > 49914
-powers > 25623
-ppl > 8074
-ppm > 12475
-pr > 17721
-practical > 20439
-practically > 13484
-practice > 25339
-practices > 28376
-pragmatic > 7117
-praise > 5979
-pray > 5029
-pre > 33141
-preach > 5872
-preaching > 6298
-precedent > 7018
-precious > 7040
-precipitation > 13807
-precise > 5787
-precisely > 13513
-predator > 5128
-predators > 6684
-predict > 36026
-predictable > 7339
-predicted > 33820
-predicting > 13503
-prediction > 20214
-predictions > 57250
-predicts > 5286
-prefer > 28116
-preference > 6440
-preferred > 8334
-pregnancy > 6021
-pregnant > 6121
-premise > 13999
-prepare > 17884
-prepared > 19385
-preparing > 9573
-presence > 11535
-present > 59234
-presentation > 5464
-presented > 24666
-presenting > 8321
-presents > 7331
-preservation > 6097
-preserve > 12339
-preserving > 6086
-presidency > 27045
-president > 176846
-presidential > 28485
-presidents > 12603
-press > 39804
-pressing > 14414
-pressure > 44361
-pressures > 6838
-pretend > 35718
-pretending > 20776
-pretty > 259268
-prevalent > 5982
-prevent > 77606
-prevented > 8546
-preventing > 22306
-prevention > 9830
-prevents > 7250
-previous > 47516
-previously > 24623
-price > 79657
-prices > 66283
-pricing > 16670
-pride > 8419
-primaries > 7258
-primarily > 23756
-primary > 52418
-prime > 27059
-prince > 5361
-principle > 15058
-principles > 17223
-print > 7109
-prior > 20694
-priorities > 17478
-prioritize > 8655
-priority > 27165
-prison > 15688
-prisons > 8014
-privacy > 8353
-private > 95731
-privilege > 12656
-privileged > 9086
-prize > 13386
-pro > 92419
-probability > 10734
-problem > 483348
-problematic > 10780
-problems > 209795
-process > 93650
-processed > 7251
-processes > 20204
-processing > 6617
-produce > 76050
-produced > 36419
-producer > 6136
-producers > 12449
-produces > 18332
-producing > 30353
-product > 36044
-production > 122024
-productive > 19634
-productivity > 12406
-products > 67907
-professional > 15178
-professionals > 7642
-professor > 23451
-professors > 7181
-profile > 14442
-profit > 74025
-profitable > 20215
-profits > 40309
-profound > 5604
-program > 44128
-programme > 9915
-programs > 44509
-progress > 72071
-progressive > 77737
-progressives > 24438
-project > 50349
-projected > 17666
-projection > 6701
-projections > 20152
-projects > 46494
-proliferation > 5995
-prominent > 10104
-promise > 18757
-promised > 14705
-promises > 18646
-promising > 9958
-promote > 27739
-promoted > 7369
-promotes > 6450
-promoting > 19479
-prone > 9446
-proof > 62975
-propaganda > 65936
-proper > 24916
-properly > 25395
-properties > 10165
-property > 46567
-proponents > 6219
-proportion > 9973
-proposal > 17144
-proposals > 15731
-propose > 12458
-proposed > 33299
-proposing > 10132
-prospect > 5269
-prosperity > 11783
-protect > 59650
-protected > 14122
-protecting > 22712
-protection > 33616
-protections > 15734
-protein > 9986
-protest > 47008
-protesters > 13469
-protesting > 20978
-protestors > 8407
-protests > 36700
-protocol > 7490
-proud > 13552
-prove > 62518
-proved > 11411
-proven > 52232
-proves > 16166
-provide > 85642
-provided > 32988
-providing > 26102
-province > 11344
-provinces > 7469
-provincial > 6078
-proving > 13294
-proxy > 6792
-pruitt > 6760
-ps > 5353
-pseudo > 6848
-pseudoscience > 5244
-psychological > 8741
-psychology > 11250
-public > 267849
-publication > 12838
-publications > 21836
-publicly > 18726
-publish > 9467
-published > 44465
-publishing > 8084
-pubs > 9007
-puerto > 5505
-pull > 27936
-pulled > 14552
-pulling > 15248
-pump > 12381
-pumped > 5275
-pumping > 9704
-pumps > 5171
-punish > 6818
-punished > 5471
-punishment > 7979
-puppet > 6332
-purchase > 10848
-purchasing > 5628
-pure > 21565
-purely > 17074
-purpose > 36202
-purposes > 11946
-pursue > 11091
-pursuing > 7362
-pursuit > 6101
-push > 83405
-pushed > 33071
-pushes > 8940
-pushing > 57357
-putin > 24100
-puts > 22816
-putting > 63090
-qualified > 14632
-quality > 64543
-quantities > 5085
-quantum > 6033
-quarter > 10095
-quebec > 5729
-queen > 7153
-question > 183572
-questionable > 7759
-questioned > 6224
-questioning > 13281
-questions > 80605
-quick > 29455
-quicker > 6057
-quiet > 7705
-quit > 11603
-quo > 29431
-quot > 29554
-quote > 33550
-quoted > 7745
-quotes > 11574
-quoting > 5168
-race > 75080
-races > 9859
-racial > 23050
-racism > 55581
-racist > 64351
-racists > 10004
-radiation > 25241
-radiative > 5476
-radical > 40389
-radically > 8697
-radio > 11849
-radioactive > 6539
-rage > 7460
-rail > 13284
-rain > 46027
-rainfall > 16251
-rainforest > 10155
-rains > 6369
-raise > 46894
-raised > 26977
-raises > 7533
-raising > 30158
-rally > 11575
-ramifications > 5140
-ramp > 5817
-rampant > 11001
-random > 29371
-range > 43505
-rank > 5857
-ranked > 5656
-ranks > 6007
-rant > 11173
-rape > 22467
-rapid > 30609
-rapidly > 30036
-rare > 23674
-rarely > 15843
-rate > 110722
-rates > 55383
-rating > 6549
-ratings > 5647
-ratio > 7285
-rational > 31627
-raw > 12511
-reach > 46533
-reached > 21027
-reaches > 6901
-reaching > 17350
-react > 10915
-reaction > 20239
-reactionary > 7407
-reactions > 6157
-reactor > 11576
-reactors > 21922
-read > 211406
-readers > 5796
-readily > 6371
-reading > 67762
-reads > 6660
-ready > 29677
-reagan > 13931
-real > 495417
-realdonaldtrump > 7773
-realise > 14056
-realistic > 26768
-realistically > 12138
-realities > 8252
-reality > 147398
-realize > 74520
-realized > 18051
-realizing > 8158
-realm > 6995
-reason > 252660
-reasonable > 55027
-reasoning > 22911
-reasons > 102850
-rebellion > 10356
-rebuild > 8649
-rebuilding > 5201
-recall > 10685
-receive > 16883
-received > 16973
-receiving > 7720
-recent > 85527
-recently > 58438
-recession > 15387
-recognise > 5902
-recognition > 7313
-recognize > 27293
-recognized > 7878
-recognizing > 5822
-recommend > 23006
-recommendations > 6743
-recommended > 6508
-record > 100949
-recorded > 14800
-records > 25536
-recover > 10035
-recovery > 11545
-recycle > 11683
-recycled > 5470
-recycling > 19060
-redd > 13981
-reddit > 260752
-redditor > 6800
-redditors > 6045
-redistribution > 7573
-reduce > 131812
-reduced > 50595
-reduces > 11369
-reducing > 64050
-reduction > 44354
-reductions > 12776
-reef > 13204
-reefs > 9569
-refer > 11852
-reference > 20017
-referenced > 5060
-references > 8883
-referendum > 6164
-referral > 5552
-referred > 9028
-referring > 25156
-refers > 8231
-reflect > 15565
-reflected > 5640
-reflection > 5310
-reflects > 6357
-reform > 59336
-reforms > 12502
-refugee > 15705
-refugees > 42138
-refusal > 6524
-refuse > 34998
-refused > 14152
-refuses > 10853
-refusing > 14251
-refute > 9092
-regard > 20451
-regime > 14261
-regimes > 7139
-region > 41251
-regional > 19634
-regions > 38273
-registered > 6814
-regressive > 9561
-regret > 5102
-regular > 26475
-regularly > 15821
-regulate > 13963
-regulated > 9458
-regulating > 6646
-regulation > 40870
-regulations > 61391
-regulatory > 12504
-reject > 20262
-rejected > 9684
-rejecting > 6909
-rejection > 6153
-rejects > 5366
-relate > 7833
-related > 84949
-relating > 5630
-relation > 9666
-relations > 18207
-relationship > 28240
-relationships > 11456
-relative > 24354
-release > 35159
-released > 32117
-releases > 16667
-releasing > 9887
-relevant > 48584
-reliable > 21819
-reliance > 8657
-reliant > 6530
-relief > 13797
-relies > 10138
-religion > 76235
-religions > 9993
-religious > 73375
-rely > 30078
-relying > 9543
-remain > 34883
-remained > 6638
-remaining > 15447
-remains > 22881
-remember > 93259
-remind > 9165
-reminder > 7525
-reminds > 7710
-remote > 9228
-remotely > 14404
-removal > 10844
-remove > 33584
-removed > 35802
-removing > 18577
-renewable > 101197
-renewables > 62500
-rent > 17360
-rep > 9830
-repair > 9963
-repeal > 10080
-repeat > 14238
-repeated > 8823
-repeatedly > 15362
-repeating > 8850
-repercussions > 5409
-replace > 33761
-replaced > 19717
-replacement > 11777
-replacing > 12703
-replied > 7412
-replies > 7743
-reply > 23683
-replying > 5085
-report > 128938
-reported > 20946
-reporting > 19622
-reports > 38500
-represent > 23841
-representation > 12004
-representative > 16008
-representatives > 20096
-represented > 9230
-representing > 7495
-represents > 15771
-reproduce > 6514
-reproductive > 7458
-republic > 10157
-republican > 132244
-republicans > 171670
-reputable > 7592
-reputation > 7878
-request > 6747
-require > 55562
-required > 43691
-requirement > 6974
-requirements > 12481
-requires > 46681
-requiring > 8281
-rescue > 5384
-research > 233848
-researched > 7268
-researcher > 7318
-researchers > 28108
-researching > 9316
-reserve > 7306
-reserves > 10103
-reset > 5760
-residential > 5290
-residents > 10273
-resilience > 6770
-resilient > 8412
-resist > 6380
-resistance > 16082
-resistant > 8751
-resolution > 11451
-resolve > 7026
-resort > 7838
-resource > 45752
-resources > 152625
-respect > 48501
-respected > 9613
-respond > 28644
-responded > 11015
-responding > 12687
-response > 92449
-responses > 15497
-responsibility > 51608
-responsible > 97165
-rest > 107233
-restore > 7785
-restrict > 7579
-restrictions > 18569
-result > 129499
-resulted > 10635
-resulting > 19534
-results > 74101
-retarded > 10969
-retire > 5226
-retired > 5427
-retirement > 11059
-return > 46811
-returned > 6444
-returning > 6711
-returns > 13787
-reuters > 12272
-reveal > 8082
-revealed > 10241
-reveals > 6052
-revenue > 27367
-reverse > 37406
-reversed > 8390
-reversing > 9596
-review > 32964
-reviewed > 32147
-reviews > 5480
-revolution > 52286
-revolutionary > 8154
-reward > 5954
-rhetoric > 31218
-rice > 8227
-rich > 136299
-richard > 9155
-richer > 11029
-richest > 10539
-rid > 31754
-ride > 15237
-ridiculous > 45927
-ridiculously > 5651
-riding > 7522
-rigged > 5056
-rights > 175975
-ring > 7152
-riots > 7426
-rise > 124731
-risen > 8867
-rises > 12537
-rising > 83662
-risk > 99810
-risks > 30392
-risky > 5555
-river > 24803
-rivers > 17216
-road > 41210
-roads > 23492
-robert > 7851
-robots > 7292
-robust > 8890
-rock > 19295
-rocket > 7212
-rocks > 6178
-roe > 8201
-rogan > 5534
-role > 58728
-roles > 7297
-roll > 15473
-rolled > 5952
-rolling > 12497
-roman > 7961
-rome > 6897
-romney > 6957
-ron > 5579
-ronald > 5044
-roof > 9803
-room > 42119
-root > 16588
-rooted > 6060
-roots > 7736
-rose > 9368
-rough > 8083
-roughly > 21299
-round > 23493
-route > 11795
-routes > 5027
-routine > 6146
-routinely > 5818
-row > 5557
-royal > 9095
-rude > 6269
-ruin > 12826
-ruined > 8698
-ruining > 8374
-rule > 41854
-ruled > 7293
-rules > 49059
-ruling > 13870
-run > 130505
-runaway > 14876
-running > 73375
-runs > 19342
-rural > 32315
-rush > 8367
-russia > 96200
-russian > 36253
-russians > 8201
-sa > 9226
-sacrifice > 18021
-sacrifices > 8932
-sad > 39156
-sadly > 19436
-safe > 59121
-safely > 8271
-safer > 12326
-safety > 43635
-sahara > 5815
-sake > 27029
-salary > 6216
-sale > 8534
-sales > 16786
-salt > 13923
-sam > 7062
-sample > 7588
-samples > 5156
-san > 10701
-sanctions > 11034
-sand > 16649
-sanders > 68810
-sands > 7683
-sandy > 5545
-sane > 8938
-sat > 9215
-satellite > 12165
-satellites > 7819
-saudi > 17795
-save > 106791
-saved > 16914
-saves > 5963
-saving > 34066
-savings > 10854
-scale > 110288
-scales > 8919
-scam > 15059
-scandal > 8493
-scarce > 7515
-scarcity > 18740
-scare > 16574
-scared > 19943
-scary > 24400
-scenario > 52383
-scenarios > 24177
-scene > 8027
-schedule > 6059
-scheme > 19160
-schemes > 5647
-scholar > 7284
-school > 102485
-schools > 40434
-sci > 7906
-science > 618646
-sciencedirect > 8218
-sciencemag > 6390
-sciences > 23296
-scientific > 267280
-scientifically > 17962
-scientificamerican > 11304
-scientist > 90898
-scientists > 333192
-scope > 12000
-score > 10033
-scotland > 9914
-scott > 13860
-scottish > 5569
-scotus > 8137
-scream > 6469
-screaming > 12822
-screen > 8342
-screw > 9680
-screwed > 14575
-scrutiny > 6160
-se > 12737
-sea > 148635
-search > 37217
-searching > 5266
-seas > 9951
-season > 36662
-seasonal > 7394
-seasons > 18144
-seat > 13276
-seats > 13977
-seattle > 6624
-secondary > 8769
-seconds > 9090
-secret > 18543
-secretary > 21912
-section > 20043
-sections > 7883
-sector > 38589
-sectors > 12244
-secular > 6192
-secure > 14469
-security > 105648
-seed > 6798
-seeds > 8027
-seek > 18934
-seeking > 15202
-seeks > 5883
-seemingly > 11118
-sees > 14877
-segment > 5568
-select > 7923
-selected > 6213
-selection > 11178
-selfish > 24962
-sell > 43920
-selling > 26587
-semi > 8634
-sen > 5515
-senate > 51697
-senator > 17388
-senators > 15706
-send > 30136
-sending > 12517
-senior > 11937
-sense > 144553
-sensitive > 10548
-sensitivity > 9041
-sentence > 17885
-sentences > 5370
-sentient > 5477
-sentiment > 13258
-sep > 7943
-separate > 23242
-separated > 5930
-separation > 6553
-september > 11298
-sequestration > 7539
-series > 28581
-serve > 20120
-served > 9071
-serves > 10285
-service > 44045
-services > 44332
-serving > 9824
-set > 112950
-sets > 13334
-setting > 26252
-settle > 7195
-settled > 21951
-severe > 37387
-severely > 11338
-severity > 14891
-sexism > 8103
-sexist > 9402
-sexual > 29435
-shadow > 7107
-shake > 5240
-shame > 18057
-shaming > 6451
-shape > 15936
-shaped > 5185
-shapiro > 9494
-share > 62949
-shared > 18419
-shareholders > 6865
-shares > 8525
-sharing > 13611
-sharp > 5160
-sheep > 7829
-sheer > 9036
-sheet > 10797
-sheets > 7290
-shell > 13588
-shelter > 8070
-shes > 17849
-shift > 51527
-shifted > 10965
-shifting > 17421
-shifts > 14953
-shill > 6873
-ship > 17813
-shipping > 14165
-ships > 13839
-shits > 6337
-shitty > 32630
-shock > 8542
-shocked > 7469
-shocking > 6137
-shoes > 5784
-shoot > 10677
-shooting > 13571
-shootings > 9873
-shop > 8739
-shopping > 5978
-short > 118393
-shortage > 12079
-shortages > 20818
-shorter > 8932
-shot > 25378
-shouldnt > 20586
-shouting > 5388
-show > 157600
-showed > 24035
-showing > 41083
-shown > 39631
-shows > 86061
-shrinking > 8599
-shut > 40201
-shutdown > 5646
-shutting > 9321
-si > 5533
-siberia > 7264
-sick > 29872
-sides > 60785
-sight > 7177
-sighted > 7935
-sign > 35404
-signal > 9546
-signaling > 5255
-signed > 21365
-significance > 6364
-significant > 96616
-significantly > 44455
-signing > 6155
-signs > 21647
-silence > 7797
-silent > 6931
-silly > 23549
-silver > 8618
-similar > 95769
-similarly > 15160
-simple > 81185
-simplistic > 5282
-simply > 174587
-simultaneously > 12435
-sin > 7048
-sincerely > 5381
-singapore > 7420
-single > 173679
-sink > 11472
-sinking > 6897
-sinks > 5988
-sir > 5976
-sister > 6218
-sit > 28850
-site > 34774
-sites > 44354
-sitting > 21010
-situation > 95414
-situations > 15694
-sixth > 5343
-size > 38203
-sized > 6368
-sjw > 5687
-skeptic > 18984
-skeptical > 31810
-skepticalscience > 14946
-skepticism > 20482
-skeptics > 23344
-skill > 7068
-skilled > 5483
-skills > 19882
-skin > 23002
-skip > 5674
-sky > 23084
-slaughter > 5602
-slave > 11516
-slavery > 22701
-slaves > 10163
-sleep > 13245
-slight > 9309
-slightest > 7039
-slightly > 32881
-slower > 8834
-slowing > 11921
-smaller > 40135
-smart > 51560
-smarter > 11796
-smile > 5951
-smith > 6236
-smog > 7957
-smoke > 16694
-smoking > 18219
-snap > 5559
-snow > 49552
-snowball > 7076
-social > 220146
-socialism > 49184
-socialist > 44430
-socialists > 11611
-socially > 15217
-societal > 22568
-societies > 22061
-society > 209200
-soft > 10604
-software > 7886
-soil > 38150
-solar > 171184
-sold > 21409
-soldiers > 7584
-sole > 10059
-solely > 17300
-solid > 25126
-solidarity > 5287
-solution > 142144
-solutions > 100969
-solve > 106012
-solved > 31950
-solving > 26928
-son > 15414
-song > 9009
-sooner > 19100
-sorts > 16304
-sought > 5541
-soul > 7065
-sound > 55118
-sounding > 5738
-sounds > 59075
-source > 167343
-sourced > 5547
-sources > 123240
-south > 80527
-southern > 28634
-sovereignty > 5998
-soviet > 12114
-soy > 6542
-space > 106529
-spaces > 7773
-spacex > 5378
-spain > 7433
-span > 8424
-spanish > 6242
-spare > 5837
-speaker > 10462
-speaking > 45885
-speaks > 11372
-special > 35977
-species > 164087
-specific > 79177
-specifically > 61058
-specifics > 6341
-spectrum > 18961
-speculation > 9515
-speech > 50957
-speeches > 7334
-speed > 31488
-spell > 5724
-spend > 73718
-spending > 68260
-spends > 7374
-spent > 60077
-spewing > 5100
-sphere > 5898
-spike > 6087
-spin > 10355
-spirit > 7301
-spiritual > 5033
-spite > 8556
-split > 14109
-spoke > 9681
-spoken > 8822
-sponsored > 6486
-sport > 5784
-sports > 11671
-spot > 17072
-spots > 5797
-spouting > 5003
-spread > 52692
-spreading > 23160
-spring > 17390
-square > 12394
-st > 9358
-stability > 15608
-stable > 28722
-staff > 16584
-stage > 30170
-stages > 5832
-stake > 11060
-stance > 48574
-stances > 10303
-stand > 59792
-standard > 46689
-standards > 45142
-standing > 22671
-standpoint > 7152
-stands > 23644
-stanford > 7008
-star > 17437
-stars > 8554
-start > 220832
-started > 109814
-starting > 57418
-starts > 32280
-starvation > 14379
-starve > 11116
-starving > 12449
-state > 269720
-stated > 36081
-statement > 71843
-statements > 35811
-states > 195221
-static > 7253
-stating > 16165
-station > 13477
-stations > 15754
-statistic > 5317
-statistical > 10845
-statistically > 9023
-statistics > 26277
-stats > 9750
-status > 70668
-stay > 60436
-stayed > 7021
-staying > 11783
-stays > 7152
-steadily > 6463
-steady > 9083
-steal > 9418
-stealing > 8338
-steam > 6504
-steel > 10929
-stein > 5602
-stem > 12636
-step > 58344
-stephen > 6570
-steps > 33623
-steve > 6385
-stick > 27588
-sticking > 7147
-stimulus > 7672
-stock > 26365
-stocks > 15832
-stolen > 8041
-stone > 12606
-stood > 8486
-stop > 328020
-stopped > 44589
-stopping > 35565
-stops > 12286
-storage > 34753
-store > 23216
-stored > 6908
-stores > 8502
-stories > 32394
-storm > 31186
-storms > 37595
-story > 109445
-straight > 41916
-strain > 6434
-strange > 15551
-strategic > 10139
-strategies > 10452
-strategy > 35941
-straw > 12159
-strawman > 10826
-straws > 9470
-stream > 19197
-street > 34029
-streets > 16196
-strength > 13303
-strengthen > 5847
-stress > 18795
-stressed > 5371
-stretch > 8897
-strict > 9570
-strictly > 7241
-strike > 18337
-strikes > 12744
-strip > 6240
-strong > 82511
-stronger > 26415
-strongest > 7688
-strongly > 26906
-struck > 5498
-structural > 8123
-structure > 19154
-structures > 12558
-struggle > 20883
-struggles > 5737
-struggling > 14619
-stuck > 21715
-student > 41055
-students > 35069
-studied > 17641
-studies > 96998
-study > 148334
-studying > 19218
-stupid > 116776
-stupidity > 12330
-style > 25938
-subject > 74483
-subjective > 11957
-subjects > 11059
-submission > 15740
-submit > 8377
-submitted > 5044
-subreddit > 38695
-subreddits > 5107
-subs > 6797
-subscribe > 5393
-subsequent > 6313
-subsidies > 37636
-subsidize > 7171
-subsidized > 6052
-subsidizing > 6019
-subsidy > 5335
-substance > 8988
-substantial > 17268
-substantially > 9164
-subtle > 5663
-suburban > 5529
-suburbs > 6592
-succeed > 9156
-success > 25792
-successful > 29181
-successfully > 11778
-suck > 17807
-sucks > 20952
-sudden > 16734
-suddenly > 35390
-sue > 6629
-suffer > 39458
-suffered > 6590
-suffering > 53524
-sufficient > 18542
-sufficiently > 6066
-sugar > 8352
-suggest > 54322
-suggested > 19815
-suggesting > 25010
-suggestion > 8272
-suggestions > 6432
-suggests > 23449
-suicide > 18516
-suit > 10762
-suitable > 6992
-suited > 5830
-suits > 5264
-sum > 9951
-summary > 37204
-summer > 54977
-summers > 14245
-summit > 13015
-sun > 69697
-sunday > 7599
-sunlight > 10528
-super > 59934
-superior > 14173
-supplies > 13475
-supply > 63644
-support > 304688
-supported > 42618
-supporter > 17193
-supporters > 42440
-supporting > 57383
-supportive > 5899
-supports > 45898
-suppose > 21524
-supposed > 55617
-supposedly > 12505
-suppress > 5568
-suppression > 8023
-supremacy > 7135
-supreme > 31369
-surely > 23026
-surface > 43810
-surge > 6103
-surplus > 7075
-surprise > 16442
-surprised > 27379
-surprising > 11175
-surprisingly > 5727
-surrounded > 5821
-surrounding > 14913
-surveillance > 7330
-survey > 17878
-surveys > 5569
-survival > 32917
-survive > 72863
-survived > 10734
-surviving > 7955
-susceptible > 5524
-suspect > 19377
-suspicious > 5073
-sustain > 14663
-sustainability > 22930
-sustainable > 68011
-sustained > 6283
-swamp > 5890
-sway > 6517
-sweden > 11907
-swedish > 5995
-sweeping > 7758
-swing > 12151
-switch > 27568
-switched > 7041
-switching > 11459
-switzerland > 5228
-symptom > 6252
-symptoms > 7370
-syria > 18105
-syrian > 7766
-system > 291410
-systematic > 6618
-systemic > 21745
-systems > 77540
-table > 25803
-tackle > 33218
-tackling > 16164
-tactic > 10553
-tactics > 15761
-taiwan > 6491
-takes > 88788
-taking > 149175
-talk > 150335
-talked > 25725
-talking > 234715
-talks > 34142
-tangible > 8676
-tank > 18152
-tanks > 10436
-tape > 5481
-target > 32088
-targeted > 9480
-targeting > 7841
-targets > 23234
-tariffs > 10494
-task > 13746
-taste > 9872
-taught > 23177
-tax > 282428
-taxation > 12827
-taxed > 7352
-taxes > 128459
-taxing > 15887
-taxpayer > 7602
-taxpayers > 7056
-tbh > 12046
-tea > 9611
-teach > 22669
-teacher > 13793
-teachers > 15095
-teaching > 17108
-team > 39246
-teams > 6900
-tear > 6915
-tech > 57242
-technical > 14372
-technically > 16709
-techniques > 9264
-technological > 29739
-technologies > 39824
-technology > 142870
-ted > 13295
-teen > 6008
-teenager > 5735
-teeth > 7032
-telegraph > 5228
-television > 6660
-telling > 64289
-tells > 28714
-temp > 13586
-temperate > 7131
-temperature > 177930
-temperatures > 101309
-temporary > 10969
-temps > 14908
-ten > 28824
-tend > 51533
-tendency > 6798
-tens > 19913
-tensions > 6914
-term > 209243
-terms > 92022
-terrible > 49319
-terribly > 5620
-terrified > 6294
-terrifying > 9135
-territory > 10976
-terror > 8980
-terrorism > 24066
-terrorist > 12723
-terrorists > 12143
-tesla > 32602
-test > 29824
-tested > 10064
-testing > 14808
-tests > 10723
-texas > 41151
-text > 27844
-thankfully > 5908
-theatlantic > 6899
-theft > 5115
-theguardian > 51635
-thehill > 10966
-theintercept > 6265
-theme > 8004
-themes > 5153
-theoretical > 7906
-theoretically > 6118
-theories > 39308
-theorists > 6412
-theory > 117622
-therapy > 8301
-thermal > 9593
-thesis > 5776
-theyd > 5562
-theyll > 10831
-theyre > 64533
-theyve > 13122
-thick > 6531
-thin > 9648
-thinking > 128026
-thinks > 67512
-thirty > 5341
-tho > 12346
-thomas > 5865
-thorium > 6249
-thoughts > 27422
-thousand > 24897
-thousands > 84327
-thread > 47799
-threads > 6648
-threat > 132807
-threaten > 10704
-threatened > 15971
-threatening > 15029
-threatens > 10642
-threats > 31053
-threshold > 8473
-threw > 5496
-thrive > 10066
-throw > 36512
-throwing > 22272
-thrown > 13543
-thunberg > 15964
-thursday > 6046
-ticket > 6224
-tide > 7758
-tie > 6696
-tied > 17518
-ties > 14092
-til > 7825
-tim > 5686
-timeline > 14132
-timely > 10888
-times > 179517
-timing > 5451
-tiny > 29177
-tip > 7484
-tipping > 16653
-tired > 20610
-title > 31938
-tl > 44565
-tldr > 7239
-tobacco > 14084
-today > 174779
-todays > 8360
-token > 6458
-tolerance > 6145
-tolerate > 5307
-toll > 7421
-tom > 5822
-tomorrow > 26299
-ton > 31891
-tone > 11181
-tonnes > 9334
-tons > 39637
-tony > 7219
-tool > 22711
-tools > 20409
-topic > 87659
-topics > 39014
-tories > 8317
-tornado > 6767
-tornadoes > 8269
-toronto > 5990
-torture > 9693
-tory > 6660
-total > 74166
-totally > 64387
-touch > 18334
-tough > 20196
-tourism > 6984
-tower > 5970
-town > 28760
-towns > 11645
-toxic > 27131
-tpp > 8639
-track > 30998
-tracking > 6528
-tracks > 5006
-trade > 95082
-trading > 14509
-tradition > 6698
-traditional > 22423
-traditionally > 5342
-traffic > 19128
-tragedy > 9844
-train > 20690
-trained > 8007
-training > 20822
-trains > 9229
-traits > 7069
-trajectory > 7738
-trans > 33463
-transfer > 10390
-transform > 5449
-transgender > 11134
-transit > 19683
-transition > 41978
-transitioning > 6527
-translate > 5309
-transmission > 6833
-transparency > 5996
-transparent > 5548
-transport > 32666
-transportation > 38777
-trap > 8399
-trapped > 9238
-trash > 20238
-travel > 44357
-traveling > 5618
-treat > 25003
-treated > 20155
-treaties > 5133
-treating > 11328
-treatment > 21960
-treaty > 10646
-tree > 30426
-trees > 71179
-tremendous > 6979
-trend > 50413
-trends > 32230
-trial > 7200
-tribal > 5865
-tribe > 5541
-tribes > 6271
-trick > 8472
-trickle > 8934
-trigger > 10405
-triggered > 8489
-trillion > 35291
-trillions > 17284
-trip > 11947
-trips > 5778
-trivial > 6288
-troll > 10686
-trolling > 7070
-trolls > 5318
-troops > 8336
-tropical > 19639
-trouble > 19556
-truck > 10724
-trucks > 11751
-trudeau > 19785
-true > 219195
-trump > 599402
-trumps > 34529
-trust > 71599
-trusted > 8553
-truth > 103703
-truths > 7519
-tuesday > 7737
-tuition > 8254
-tune > 6923
-turbines > 11863
-turkey > 8198
-turn > 93942
-turning > 28657
-turns > 28426
-tv > 29848
-tweet > 14789
-tweets > 8023
-twenty > 9805
-twitter > 61396
-type > 66700
-types > 31331
-typical > 17578
-typically > 21833
-ubi > 15986
-ugly > 8024
-uk > 121253
-ukraine > 23271
-ultimate > 11148
-ultimately > 41471
-ultra > 11607
-unable > 21292
-unacceptable > 5647
-unaware > 6394
-unbiased > 6662
-uncertain > 7232
-uncertainty > 15286
-unchecked > 7212
-uncle > 6272
-unclear > 5424
-uncomfortable > 11042
-undeniable > 7272
-underestimate > 5485
-underground > 9875
-underlying > 12143
-undermine > 9842
-undermining > 5534
-understand > 258781
-understandable > 5896
-understanding > 84736
-understands > 11293
-understood > 22642
-underwater > 15585
-undo > 6251
-undoubtedly > 5277
-undp > 5190
-uneducated > 11149
-unemployment > 17003
-unethical > 6924
-unfair > 12308
-unfortunate > 9100
-unhealthy > 5898
-unicef > 5673
-uninformed > 7679
-uninhabitable > 20417
-union > 38412
-unions > 17678
-unique > 19548
-unit > 12939
-unite > 7101
-united > 120398
-units > 9442
-unity > 7019
-universal > 42066
-universally > 6390
-universe > 27697
-universities > 12934
-university > 52439
-unknown > 12229
-unlike > 25967
-unlimited > 6787
-unnecessary > 14666
-unpopular > 11806
-unprecedented > 21129
-unpredictable > 7798
-unqualified > 7937
-unrealistic > 8876
-unreasonable > 7920
-unrelated > 10398
-unreliable > 5069
-unrest > 10045
-unscientific > 5246
-unstable > 7912
-unsustainable > 15968
-untrue > 6719
-unusual > 8386
-unwilling > 8864
-upcoming > 7511
-update > 10550
-updated > 6854
-uploads > 21158
-upper > 17611
-ups > 6448
-upset > 18602
-uranium > 9025
-urban > 28495
-urge > 5821
-urgency > 9069
-urgent > 13882
-url > 7796
-usa > 62808
-usage > 21520
-usatoday > 6818
-useless > 23927
-user > 16383
-username > 6481
-users > 12847
-ussr > 8965
-usual > 23981
-utilities > 5953
-utility > 9833
-utopia > 6440
-utter > 9612
-utterly > 14426
-vacation > 6227
-vaccinated > 8313
-vaccination > 9343
-vaccinations > 6963
-vaccine > 32600
-vaccines > 45561
-vacuum > 6470
-vague > 15045
-valid > 37986
-validity > 8184
-valley > 10194
-valuable > 24975
-values > 46672
-van > 6832
-vancouver > 5573
-vapor > 11153
-variability > 10595
-variable > 7938
-variables > 12740
-variation > 8641
-variations > 7913
-variety > 17564
-vary > 8015
-varying > 5433
-vast > 57350
-vastly > 13849
-vax > 10063
-vaxxers > 13538
-vegan > 63590
-veganism > 20097
-vegans > 17149
-vegetables > 7143
-vegetarian > 13253
-vegetation > 7701
-vehicle > 22629
-vehicles > 37591
-venezuela > 6792
-venus > 9779
-version > 41151
-versus > 13558
-vested > 7527
-veterans > 6441
-viable > 32357
-vice > 18992
-victim > 11361
-victims > 14764
-victory > 12050
-video > 75457
-videos > 26253
-vietnam > 8577
-view > 113778
-viewed > 8499
-viewers > 5046
-viewpoint > 10722
-viewpoints > 7132
-views > 83073
-village > 5663
-violence > 56811
-violent > 26464
-virginia > 7580
-virtual > 5615
-virtually > 18354
-virtue > 15064
-virus > 29356
-viruses > 6730
-visible > 9816
-vision > 17317
-visit > 16930
-vital > 11981
-vocal > 9091
-voice > 22923
-voices > 10515
-volcanic > 11173
-volcano > 6433
-volcanoes > 9048
-volume > 10988
-voluntary > 5814
-volunteer > 11665
-volunteers > 5033
-vortex > 5388
-vote > 244363
-voted > 68964
-voter > 33152
-voters > 84277
-votes > 46780
-voting > 115205
-vox > 16207
-vp > 5412
-vulnerable > 20503
-wade > 7748
-wage > 55786
-wages > 26957
-wait > 69276
-waiting > 25058
-wake > 18670
-walked > 5965
-walking > 16385
-wall > 59507
-walls > 9384
-wanna > 16160
-wanted > 76396
-wanting > 30387
-war > 240593
-warfare > 9544
-warm > 52216
-warmed > 7259
-warmer > 53140
-warming > 494193
-warms > 6686
-warn > 7411
-warned > 12359
-warning > 22138
-warnings > 8835
-warns > 6529
-warren > 23943
-wars > 63618
-wash > 6905
-washington > 28046
-washingtonpost > 19317
-waste > 96489
-wasted > 11295
-wasteful > 8919
-wasting > 13138
-watch > 121720
-watched > 16699
-watching > 29860
-water > 329532
-waters > 15839
-wave > 25668
-waves > 19744
-ways > 115146
-weak > 24772
-weaker > 5757
-wealth > 97117
-wealthy > 52708
-weapon > 9486
-weapons > 31871
-wear > 19965
-wearing > 15049
-weather > 215382
-web > 21276
-website > 31267
-websites > 7839
-wed > 7868
-wednesday > 5923
-weed > 11421
-week > 68612
-weekend > 8156
-weekly > 5589
-weeks > 35209
-weight > 23573
-weird > 35485
-welfare > 34807
-wells > 5913
-werent > 10136
-west > 66757
-western > 69319
-wet > 16385
-wetter > 5005
-weve > 24881
-whats > 35777
-whatsoever > 13753
-wheat > 7473
-wheel > 5495
-whilst > 13677
-whining > 5202
-white > 148761
-whites > 8161
-wholly > 5561
-whos > 8526
-wide > 33343
-widely > 19009
-wider > 8387
-widespread > 21411
-wife > 20335
-wiki > 137090
-wikipedia > 126972
-wild > 32277
-wildfire > 10129
-wildfires > 30433
-wildlife > 19926
-wildly > 8840
-wiley > 6660
-willfully > 7061
-william > 6011
-willingly > 5261
-willingness > 5803
-win > 80708
-wind > 99366
-windmills > 5393
-window > 17748
-windows > 7381
-winds > 9915
-wine > 6237
-wing > 102204
-wingers > 11127
-winner > 5947
-winners > 6106
-winning > 23412
-wins > 18118
-winter > 65374
-winters > 19243
-wipe > 13827
-wiped > 12417
-wisconsin > 5238
-wisdom > 6314
-wise > 15488
-wishes > 5158
-witness > 5943
-woke > 11677
-wolf > 5880
-woman > 39044
-women > 119816
-womens > 6485
-wonderful > 9575
-wondering > 11094
-wont > 75869
-wood > 13520
-woods > 5171
-word > 67076
-wordpress > 5944
-words > 76772
-worked > 50996
-worker > 19116
-workers > 71990
-workforce > 6493
-working > 163416
-workplace > 6773
-works > 97899
-world > 967941
-worldnews > 17751
-worlds > 39578
-worldview > 9467
-worldwide > 33624
-worried > 43040
-worries > 9062
-worry > 60643
-worrying > 14927
-worse > 213823
-worsen > 5256
-worsening > 7857
-worship > 6842
-worst > 109445
-worth > 93685
-worthless > 8822
-worthwhile > 6006
-worthy > 8579
-wouldnt > 36318
-wp > 22472
-write > 39185
-writer > 6295
-writes > 5285
-writing > 30217
-wrong > 293223
-wrote > 35951
-wsj > 6821
-wtf > 11041
-ww2 > 7726
-wwii > 6597
-x200b > 100868
-xi > 5378
-xkcd > 5295
-xr > 6344
-ya > 16191
-yale > 10830
-yang > 21156
-yea > 14813
-yeah > 160405
-yearly > 7290
-years > 861792
-yelling > 6047
-yellow > 6432
-yemen > 5477
-yep > 13816
-yesterday > 14617
-yield > 8602
-yields > 11306
-york > 31248
-youd > 10272
-youll > 13457
-young > 78493
-younger > 27027
-youre > 104689
-youth > 16680
-youtu > 30098
-youtube > 87809
-youve > 14893
-yr > 5074
-yup > 8121
-zealand > 10968
-zone > 13763
-zones > 12269
+00 13431
+000 128618
+01 44872
+02 53118
+03 43792
+039 21356
+04 42634
+05 36643
+06 37088
+07 37164
+08 37885
+09 32316
+0a 5002
+10 275135
+100 199619
+1000 19386
+101 6002
+11 90656
+12 99359
+120 5899
+13 42546
+14 43470
+15 85941
+150 16532
+16 43576
+17 34390
+18 42013
+19 53484
+1950 5502
+1960s 5275
+1970 9174
+1970s 11067
+1980 7126
+1980s 8509
+1990 9536
+1990s 6198
+1998 6479
+19th 6827
+1st 11761
+20 158669
+200 35345
+2000 27394
+2000s 6265
+2001 7268
+2002 5305
+2003 7495
+2004 9000
+2005 13907
+2006 11366
+2007 16311
+2008 26448
+2009 22068
+2010 29491
+2011 23509
+2012 32850
+2013 43599
+2014 42991
+2015 68522
+2016 90208
+2017 77699
+2018 87834
+2019 107546
+2020 104601
+2021 63717
+2022 25239
+2024 6326
+2025 7046
+2030 29268
+2040 7272
+2050 33844
+20th 14371
+20the 6669
+21 28941
+2100 21312
+21st 13504
+22 29957
+23 25036
+23autotldr 14656
+24 33669
+25 53083
+250 7682
+26 22320
+27 22091
+28 22779
+29 23109
+2c 18234
+2f 5844
+2nd 12889
+30 113597
+300 19286
+31 15326
+31b9fm 14593
+32 16772
+33 10061
+34 7824
+35 19624
+36 8184
+37 9286
+38 7835
+39 7669
+3a 10268
+3c 5127
+3d 6332
+3rd 17387
+40 74081
+400 16414
+41 7039
+42 7557
+43 6779
+44 6115
+45 14686
+46 5472
+47 5999
+48 7393
+49 6022
+4th 5895
+50 126297
+500 28188
+51 7158
+52 5972
+55 8628
+56 5579
+5c 13544
+60 42755
+600 8178
+60s 7650
+65 15681
+66 5417
+6th 6019
+70 39841
+700 6191
+70s 16103
+71 11232
+75 17357
+80 46669
+800 8929
+80s 15625
+85 8410
+90 44701
+90s 15697
+95 16501
+97 39882
+98 8403
+99 33341
+abandon 9264
+abandoned 10070
+abbott 9189
+abc 9861
+abilities 5174
+ability 69544
+abolish 7204
+abortion 64217
+abortions 11976
+abroad 8774
+abrupt 7069
+abs 7780
+absence 7944
+absolutely 138299
+absorb 9097
+absorbed 7749
+abstract 17245
+absurd 21671
+abundance 6470
+abundant 6332
+abuse 23579
+abused 5540
+ac 16123
+aca 11906
+academia 9571
+academic 21192
+academics 7497
+academy 11863
+accelerate 12333
+accelerated 11182
+accelerating 16766
+acceleration 5691
+accept 83384
+acceptable 17426
+acceptance 10876
+accepted 29223
+accepting 19209
+accepts 5550
+access 95364
+accessible 9808
+accident 9530
+accidents 6675
+accomplish 13450
+accomplished 8487
+accord 19630
+accords 9290
+account 54036
+accountability 8148
+accountable 16514
+accounted 5036
+accounting 7758
+accounts 16740
+accuracy 8142
+accurate 44716
+accurately 14075
+accusations 7707
+accuse 6306
+accused 10999
+accusing 6648
+achieve 33924
+achieved 13530
+achieving 7934
+acid 12033
+acidification 14833
+acknowledge 36640
+acknowledged 7838
+acknowledges 6395
+acknowledging 11282
+acres 8238
+act 137221
+acted 6738
+acting 35356
+action 225958
+actions 85536
+active 27002
+actively 55123
+activism 19314
+activist 23353
+activists 35568
+activities 25481
+activity 59869
+actor 5330
+actors 10985
+acts 17879
+actual 145422
+ad 21785
+adam 5049
+adapt 44122
+adaptation 16031
+adapted 8499
+adapting 8238
+addiction 6532
+addition 27216
+additional 28027
+additionally 13778
+address 101330
+addressed 27337
+addresses 6217
+addressing 40256
+adds 9974
+adequate 7000
+adjusted 6354
+admin 9172
+administration 71340
+administrations 6612
+admit 42976
+admits 6179
+admitted 10839
+admittedly 5954
+admitting 8748
+adopt 15125
+adopted 10486
+adopting 5872
+adoption 9593
+ads 9043
+adult 15188
+adults 18649
+advance 16753
+advanced 23843
+advancement 9015
+advancements 5891
+advances 11254
+advancing 5733
+advantage 26346
+advantages 5923
+adverse 5600
+advertising 8318
+advice 20585
+advocacy 14663
+advocate 28461
+advocated 5246
+advocates 15460
+advocating 22595
+aerosol 5282
+aerosols 6907
+affairs 13190
+affect 81731
+affected 48516
+affecting 22881
+affects 32565
+afford 52270
+affordable 26669
+afghanistan 12069
+afraid 27659
+africa 48673
+african 18986
+ag 7373
+age 123162
+agencies 19364
+agency 24827
+agenda 76797
+agendas 8296
+agent 6195
+agents 5184
+ages 21641
+aggressive 17648
+aggressively 6728
+aging 6889
+ago 175051
+agreed 33637
+agreeing 10170
+agreement 78823
+agreements 13992
+agrees 15893
+agricultural 28225
+agriculture 77789
+agw 23305
+ahead 42956
+ai 25027
+aid 27788
+aids 8103
+aim 11175
+aimed 9036
+aims 6279
+air 148045
+aircraft 5317
+aka 14207
+akin 8012
+al 62186
+alarm 8074
+alarming 9197
+alarmism 10018
+alarmist 15731
+alarmists 13678
+alaska 10744
+albedo 5519
+albeit 7309
+alberta 19994
+album 5832
+alcohol 7080
+alex 6569
+algae 7779
+alien 9308
+aliens 11121
+align 9167
+aligned 6638
+alive 32465
+allegations 5565
+alleged 5267
+alliance 8391
+allies 20671
+allowed 56934
+allowing 29713
+ally 6670
+alongside 8586
+alot 9174
+alright 9190
+alt 14343
+alter 10850
+altered 6381
+altering 5993
+alternate 6943
+alternative 57529
+alternatives 24014
+altogether 7948
+ama 6419
+amazing 27659
+amazon 39177
+ambitious 9830
+amendment 21866
+america 190443
+american 184107
+americans 115578
+americas 17244
+amount 161701
+amounts 42928
+amputatorbot 5399
+analogy 14883
+analysis 47398
+anarchist 6154
+ancestors 7452
+ancient 16496
+andrew 11144
+anecdotal 6445
+anger 13527
+angle 7415
+angry 27945
+animal 98120
+animals 115572
+announced 14083
+annoying 11793
+annual 20461
+annually 7764
+answer 110187
+answered 10589
+answering 5650
+answers 25850
+antarctic 12352
+antarctica 14953
+anthropogenic 67275
+anti 222414
+antibiotics 5057
+antifa 6129
+anxiety 16064
+anymore 60161
+anytime 9645
+aoc 18756
+apartment 6898
+apathy 7448
+apocalypse 20493
+apocalyptic 14007
+apologize 7737
+app 10626
+apparent 11051
+apparently 39345
+appeal 22016
+appealing 7979
+appeals 5357
+appearance 5818
+appeared 6327
+appears 22492
+apple 11429
+application 7823
+applications 5347
+applied 14862
+applies 12722
+apply 27804
+applying 6598
+appointed 9304
+appointing 6510
+approach 55481
+approaches 7823
+approaching 7931
+approval 14071
+approve 5364
+approved 11837
+approximately 9969
+april 13895
+ar5 11323
+arab 6538
+arabia 12896
+arable 9032
+arbitrary 8505
+archive 27141
+arctic 52939
+area 96979
+areas 125694
+arent 58052
+arguably 12804
+argue 85715
+argued 15553
+argues 7438
+arguing 56664
+argument 208571
+arguments 74436
+arise 5356
+arizona 7527
+arm 7454
+armed 10804
+arms 14150
+army 15546
+arrested 9653
+arrive 6107
+arrived 6472
+arrogant 7754
+arson 5509
+art 18851
+article 244452
+articles 94604
+artificial 13099
+artificially 6045
+artist 5562
+arts 8049
+asia 25916
+asian 11675
+asked 58769
+askreddit 5026
+asks 7371
+aspect 20987
+aspects 20386
+aspx 6631
+assault 16602
+assembly 5689
+assertion 8991
+asses 6479
+assess 5497
+assessment 21315
+asset 7618
+assets 20983
+assholes 12062
+assistance 9318
+associate 6761
+association 12794
+assume 57521
+assumed 11106
+assumes 6748
+assuming 38866
+assumption 19150
+assumptions 18228
+asteroid 13055
+asylum 6793
+ate 5595
+atheism 5494
+atheist 9905
+atheists 7919
+atlantic 14776
+atmosphere 118606
+atmospheric 40636
+attached 6594
+attack 48533
+attacked 12081
+attacking 19961
+attacks 26331
+attempt 43342
+attempted 8393
+attempting 15976
+attempts 18317
+attend 6426
+attention 65215
+attitude 24908
+attitudes 11090
+attorney 7205
+attract 5246
+attractive 7529
+attribute 6966
+attributed 9562
+au 25342
+audience 16161
+aug 6001
+august 10689
+austerity 6671
+australia 85073
+australian 27327
+australians 8063
+author 30710
+authoritarian 19644
+authoritarianism 7240
+authorities 7820
+authority 34334
+authors 15351
+autism 15591
+auto 12659
+automated 5400
+automatically 20638
+automation 20477
+autonomy 5683
+autotldr 53822
+availability 8268
+average 138672
+avert 6078
+avoid 62480
+avoided 8785
+avoiding 14625
+award 6061
+aware 62537
+awareness 31703
+awesome 14268
+awful 23016
+babies 15767
+baby 29107
+backed 23070
+background 23749
+backing 12439
+backlash 6848
+backs 8722
+backwards 14321
+bacon 6166
+bacteria 9516
+bad 365667
+badly 14035
+bag 12850
+bags 12338
+balance 34697
+balanced 12273
+ball 12887
+ballot 7637
+balls 6363
+ban 46277
+band 9749
+bang 6194
+bangladesh 7572
+bank 25174
+banking 8503
+bankrupt 8878
+bankruptcy 6369
+banks 22654
+banned 22868
+banning 18142
+bans 8484
+bar 11743
+barack 6709
+bare 8927
+barrel 5265
+barrier 12670
+barriers 7106
+base 51219
+based 244692
+baseline 6787
+bases 6407
+basic 73578
+basically 126803
+basics 6567
+basing 5268
+basis 41640
+batteries 19533
+battery 21510
+battle 21262
+bay 10362
+bbc 26153
+bc 22310
+beach 12051
+bear 22464
+bearing 6258
+bears 18380
+beat 19190
+beating 8175
+beautiful 16463
+beauty 6765
+bed 11010
+beef 24793
+beer 6056
+bees 8936
+began 23973
+begin 40514
+beginning 33124
+begins 10691
+begun 7794
+behalf 8819
+behave 6425
+behavior 38743
+behaviors 6039
+behaviour 14606
+beijing 5767
+beings 22224
+belief 54500
+beliefs 62683
+believed 27531
+believer 7554
+believers 9039
+believes 60577
+believing 39918
+belong 7060
+belt 9588
+ben 14566
+beneficial 17855
+benefit 79136
+benefits 65229
+bernie 198446
+bet 32088
+bezos 10190
+bias 42403
+biased 26527
+biases 9733
+bible 21461
+biden 262219
+bidens 16520
+bigger 64904
+biggest 110951
+bigotry 7506
+bike 14190
+bill 119197
+billion 126589
+billionaire 15657
+billionaires 29026
+billions 71637
+bills 29324
+bin 5946
+binary 6165
+binding 6714
+bio 7182
+biodiversity 25236
+biological 18231
+biology 17673
+biomass 8524
+biosphere 9959
+bipartisan 10103
+bird 8213
+birds 17333
+birth 31273
+bitcoin 14886
+bite 6425
+bizarre 7063
+black 91977
+blacks 8844
+blah 11283
+blame 87705
+blamed 11039
+blaming 23808
+blanket 6636
+blatant 9581
+blatantly 9074
+bleaching 5303
+bleak 5692
+blind 18238
+blindly 8686
+blm 12409
+block 23980
+blockchain 6271
+blocked 8176
+blocking 13071
+blocks 5809
+blog 34367
+blogs 15320
+blood 17425
+bloomberg 19419
+blow 14258
+blowing 7779
+blown 8054
+board 41273
+boat 11652
+bob 5078
+bodies 19746
+body 51031
+bold 9666
+bomb 11710
+bombs 7326
+bone 5123
+bonus 6702
+book 69242
+books 35070
+boom 10793
+boomer 11838
+boomers 25341
+boost 11039
+border 36389
+borders 21093
+boring 9941
+boris 6914
+born 42394
+boss 7556
+boston 5978
+bot 115780
+bother 22190
+bothered 9960
+bottle 5383
+bottom 33812
+bought 29483
+bound 8290
+boundaries 6706
+box 15541
+boy 14314
+boys 9069
+bp 10566
+brain 36165
+brains 9544
+brainwashed 9835
+branch 10067
+brand 14790
+brazil 14662
+bread 6191
+break 45505
+breakdown 7782
+breaking 27401
+breaks 20886
+breath 9663
+breathe 7248
+breathing 6909
+breed 7091
+breeding 9676
+breitbart 6909
+brexit 24223
+bridge 9439
+bridges 5186
+brilliant 7424
+bring 98534
+bringing 33648
+brings 19416
+brink 5817
+britain 16942
+british 25059
+bro 9241
+broad 21219
+broader 10057
+broadly 8049
+broke 13736
+broken 25465
+brother 10323
+brothers 12882
+brought 53589
+brown 17954
+brush 6360
+brutal 7902
+brutality 6618
+bs 22800
+btc 7220
+btw 21994
+bubble 13533
+buck 5480
+bucket 6451
+buddy 7701
+budget 48634
+budgets 5799
+bugs 8234
+build 104283
+building 92306
+buildings 18786
+built 61480
+bulk 6807
+bullet 8490
+bullying 5789
+bunch 54872
+burden 21132
+buried 7603
+burn 43001
+burned 16425
+burning 64370
+burns 13402
+bus 12574
+bush 37698
+bushfires 9500
+business 137205
+businesses 47784
+businessinsider 7446
+busy 13310
+buttigieg 5438
+button 8390
+buy 104297
+buying 47745
+c02 8573
+ca 41653
+cabinet 14656
+cages 6615
+cake 5516
+calculate 5438
+calculated 6131
+calculations 6216
+california 67579
+call 124667
+called 128160
+calling 65059
+calls 29542
+calm 7806
+calories 5506
+cambridge 5313
+camp 12617
+campaign 104564
+campaigning 7221
+campaigns 17766
+camps 18510
+campus 5401
+canada 115317
+canadian 30853
+canadians 16489
+cancel 9364
+cancer 47970
+candidate 71690
+candidates 50157
+cannabis 6059
+cap 22687
+capabilities 5612
+capability 5766
+capable 29334
+capacity 40549
+capita 28464
+capital 43975
+capitalism 146231
+capitalist 45229
+capitalists 13859
+capitol 5350
+caps 19967
+capture 24699
+captured 5480
+car 108491
+carbon 466986
+carbontax 6816
+card 12956
+cards 7727
+care 339943
+cared 12582
+career 27783
+careers 8851
+careful 12673
+cares 35201
+caring 17143
+carolina 7211
+carried 7949
+carry 20247
+carrying 10966
+cars 110361
+case 186317
+cases 46380
+cash 20229
+cast 10310
+cat 9546
+catastrophe 30274
+catastrophes 5933
+catastrophic 48831
+catch 16842
+categories 5533
+category 13822
+catholic 12597
+cats 9073
+cattle 16780
+caught 19919
+causation 6675
+caused 183084
+causing 103528
+cbc 8157
+cc 9030
+cdc 6789
+cease 5725
+celebrities 7085
+celebrity 5699
+cell 12084
+cells 10828
+celsius 13064
+censorship 8353
+cent 21216
+center 40684
+centered 6436
+centers 11439
+central 35736
+centralized 5118
+centre 14971
+centric 7798
+centrist 17258
+centrists 5692
+cents 6195
+centuries 27359
+century 97635
+ceo 13561
+ceos 5860
+certainty 13406
+cfm 6531
+ch 18304
+chain 22340
+chains 10180
+chair 8571
+chairman 5100
+challenge 34251
+challenged 7997
+challenges 26132
+challenging 9918
+chamber 8863
+champion 5163
+chance 89306
+chances 15402
+changed 90589
+changing 131814
+channel 14358
+channels 5605
+chaos 16831
+chaotic 6365
+chapter 11146
+character 20714
+characteristics 6175
+characters 10850
+charge 35608
+charged 9170
+charges 6377
+charging 9441
+charities 5707
+charity 14660
+charles 7265
+chart 11370
+charts 6000
+cheap 48413
+cheaper 43547
+cheapest 6443
+check 58499
+checked 10065
+checking 8941
+checks 12804
+chemical 17316
+chemicals 13490
+chemistry 12129
+chernobyl 7161
+cherry 16053
+chicago 8122
+chicken 11141
+chickens 5238
+chief 18028
+child 82514
+childhood 8998
+childish 5395
+children 152775
+china 261703
+chinas 9162
+chinese 69620
+choice 86686
+choices 33568
+chomsky 5003
+choose 62778
+choosing 17199
+chose 18885
+chosen 12369
+chris 5710
+christ 12548
+christian 34550
+christianity 14232
+christians 19835
+christmas 7843
+chunk 9190
+church 30840
+churches 5470
+cia 7810
+cigarettes 6365
+circle 11845
+circles 7317
+circulation 6504
+circumstances 16471
+citation 6317
+cite 17159
+cited 14541
+cities 82698
+citing 9710
+citizen 22555
+citizens 64833
+citizensclimatelobby 17742
+citizenship 7172
+city 99366
+civil 63070
+civilians 5885
+civilisation 9179
+civilization 57899
+civilizations 8154
+claim 133460
+claimed 27303
+claiming 43782
+claims 87307
+clarify 8809
+class 115974
+classes 17978
+classic 10865
+clean 105574
+cleaner 19184
+cleaning 8818
+clear 124725
+clearing 5023
+clever 6070
+click 12228
+cliff 7124
+climate 6567184
+climatechange 6489
+climates 15864
+climatic 9230
+climatologist 7710
+climatologists 10879
+climatology 6345
+clinton 66503
+clock 9531
+close 85314
+closed 17050
+closely 11847
+closer 30754
+closest 8476
+closing 10336
+clothes 12573
+clothing 8719
+cloud 13879
+clouds 12428
+club 11400
+clue 11388
+cmf 7150
+cnbc 6247
+cnn 28237
+co2 296886
+coal 168519
+coalition 19598
+coast 29495
+coastal 27089
+coasts 5366
+code 15405
+coffee 12252
+cognitive 11118
+coherent 5464
+coin 5192
+coincidence 7182
+cointest 6806
+colder 22974
+collapse 103404
+collapsed 6324
+collapses 7857
+collapsing 8215
+collar 5230
+colleagues 7586
+collect 7515
+collected 7399
+collection 9671
+collective 29596
+collectively 12417
+college 63859
+colleges 5860
+colony 5635
+color 17513
+colorado 11745
+columbia 6879
+column 5401
+combat 67714
+combating 17835
+combatting 5722
+combination 16130
+combine 5812
+combined 27503
+combustion 8079
+comfort 11128
+comfortable 20198
+command 5200
+comment 120394
+commentary 7468
+commenting 5641
+comments 242247
+commerce 5579
+commercial 16180
+commission 12325
+commit 14897
+commitment 13966
+commitments 7420
+committed 22336
+committee 19614
+committing 7428
+common 101731
+commonly 7688
+commons 9508
+communicate 7196
+communication 11798
+communications 7854
+communism 26415
+communist 23888
+communists 7086
+communities 47807
+community 107825
+commute 5300
+companies 216683
+company 86504
+comparable 11988
+compare 27023
+compared 75541
+comparing 16336
+comparison 30487
+compassion 6079
+compelling 9161
+compete 13257
+competent 6591
+competing 8741
+competition 22035
+competitive 16581
+complain 17272
+complaining 14974
+complete 56407
+completely 170369
+complex 56754
+complexity 7622
+complicated 25274
+component 7726
+components 5784
+compose 38542
+composition 5539
+comprehend 6785
+comprehensive 12888
+compromise 21932
+computer 23197
+computers 8705
+con 10999
+concede 5865
+concentrated 5351
+concentration 22502
+concentrations 11389
+concept 44808
+concepts 13332
+concern 55198
+concerned 65347
+concerns 52081
+conclude 9968
+concluded 9041
+conclusion 41803
+conclusions 27365
+concrete 18820
+condescending 5308
+condition 12952
+conditioning 8081
+conditions 74512
+conduct 6880
+conducted 8134
+conference 19043
+conferences 5598
+confidence 20754
+confident 11482
+confirm 9915
+confirmation 8578
+confirmed 13142
+conflict 36111
+conflicts 15643
+confront 5047
+confused 15516
+confusing 8733
+confusion 5937
+congress 73053
+congressional 11354
+connect 8338
+connected 15482
+connection 15916
+connections 7857
+cons 7478
+conscious 12242
+consciousness 10084
+consensus 134300
+consent 8899
+consequence 14404
+consequences 78775
+conservation 21785
+conservatism 12603
+conservative 152545
+conservatives 104369
+considerable 5422
+considerably 5449
+consideration 12824
+considered 56188
+considers 32665
+consistent 23809
+consistently 19458
+conspiracies 8564
+conspiracy 88293
+constant 30191
+constantly 41984
+constituents 8482
+constitution 18080
+constitutional 10326
+construct 6919
+construction 23042
+constructive 19459
+consultant 6644
+consume 24503
+consumed 7159
+consumer 32529
+consumerism 8177
+consumers 29723
+consuming 13672
+consumption 78492
+contact 23447
+contained 5708
+contemporary 5781
+content 69671
+contest 5784
+context 61297
+continent 13469
+continental 5302
+continents 5430
+continually 7256
+continue 143995
+continued 29008
+continues 32924
+continuing 21017
+continuously 5199
+contract 11048
+contracts 7307
+contradict 6021
+contradictory 5436
+contradicts 5414
+contrary 19375
+contrast 12311
+contribute 47059
+contributed 16392
+contributes 17606
+contributing 38173
+contribution 22408
+contributions 13329
+contributor 16543
+contributors 9929
+control 185700
+controlled 28871
+controlling 11317
+controls 13459
+controversial 20837
+controversy 12069
+convenience 5424
+convenient 12120
+conveniently 5448
+convention 9389
+conventional 9434
+conversation 52784
+conversations 12065
+conversion 6594
+convert 7834
+convince 49006
+convinced 34143
+convincing 18772
+cooking 5462
+cool 54333
+cooler 11898
+cooling 51672
+cooperation 15224
+coordinated 5491
+cop 8173
+cope 8699
+cops 10389
+copy 10122
+coral 17039
+corbyn 6145
+core 37242
+cores 6232
+corn 10723
+corner 10752
+corona 6756
+coronavirus 24212
+corporate 74131
+corporation 13682
+corporations 102809
+corps 5639
+correct 80434
+correctly 14195
+correlation 17816
+corrupt 34490
+corruption 39287
+cortez 6556
+cosmic 5697
+cost 180120
+costing 5353
+costly 9387
+costs 107517
+couldnt 12896
+council 22154
+count 23377
+counter 31078
+counting 6913
+countless 15755
+countries 304344
+country 347820
+countrys 6328
+counts 7411
+county 13270
+coup 5991
+couple 66653
+coupled 6931
+courses 7734
+court 54355
+courts 11970
+cover 39665
+coverage 23348
+covered 21273
+covering 9865
+covers 8006
+covid 111235
+cow 12504
+cows 21946
+cpc 10544
+crack 6389
+crash 13401
+crazy 57848
+create 105420
+created 73715
+creates 25108
+creating 50616
+creation 17680
+creationism 8786
+creationists 6114
+creative 6238
+creator 6026
+creatures 10276
+credentials 5699
+credibility 14961
+credible 17825
+credit 31260
+credits 13566
+crime 41538
+crimes 20218
+criminal 23386
+criminals 8741
+crises 16365
+crisis 150496
+criteria 7040
+critical 49435
+critically 8148
+criticism 25993
+criticisms 6923
+criticize 11532
+criticized 8010
+criticizing 7489
+critics 7858
+critique 7990
+crop 27626
+crops 42724
+cross 15232
+crowd 16035
+crucial 10994
+crude 5994
+cruel 7196
+cruelty 5885
+cruz 9950
+cry 10778
+crying 9225
+crypto 12282
+cryptocurrency 6585
+cuba 6432
+cult 21340
+cultural 33332
+culture 74893
+cultures 12680
+curb 16211
+cure 11385
+curious 20434
+currency 11563
+current 239762
+currents 9066
+curve 9129
+customers 9544
+cute 5967
+cuts 36944
+cutting 36961
+cuz 6514
+cycle 56362
+cycles 30648
+cyclical 5696
+cycling 5029
+cynical 7676
+da 5581
+dad 17149
+daily 39841
+dairy 18173
+dakota 31061
+dam 7327
+damage 97363
+damaged 7756
+damages 11143
+damaging 18804
+damned 6620
+dams 7181
+dan 5376
+danger 28348
+dangerous 66554
+dangers 13553
+dare 10013
+data 254973
+date 30075
+dates 5000
+dating 7220
+daughter 10801
+david 20008
+days 118295
+dc 8772
+de 49144
+dead 71602
+deadly 14031
+deal 200228
+dealing 39379
+deals 17001
+dealt 10726
+dear 6147
+death 101334
+deaths 47044
+debatable 6470
+debate 133773
+debated 8475
+debates 18888
+debating 14141
+debt 58923
+debunked 11474
+dec 7457
+decade 67517
+decades 161835
+december 13477
+decent 27659
+decide 41376
+decided 43124
+decides 8874
+deciding 9957
+decision 52521
+decisions 47942
+declaration 5815
+declare 9999
+declared 10115
+declaring 5597
+decline 35004
+declined 5806
+declining 11725
+decrease 27786
+decreased 9273
+decreases 5912
+decreasing 12943
+dedicated 12989
+deemed 6069
+deep 46651
+deeper 12526
+deeply 20315
+default 16559
+defeat 9420
+defence 7779
+defend 28276
+defending 16605
+defense 31972
+defensive 5162
+deficit 12909
+define 14914
+defined 15120
+defining 6425
+definition 38477
+definitions 5510
+deforestation 27998
+degradation 11061
+degree 77779
+degrees 66068
+delay 11148
+delayed 5070
+delete 6894
+deleted 6860
+deliberate 5633
+deliberately 12469
+deliver 11551
+delivered 6317
+delivery 5506
+delusion 5052
+delusional 11451
+dem 16622
+demand 73865
+demanding 13525
+demands 18040
+democracies 7321
+democracy 69431
+democrat 45516
+democratic 94665
+democrats 144984
+demographic 10935
+demographics 6507
+demonstrate 12197
+demonstrated 10161
+demonstrates 5505
+dems 38214
+denial 115446
+denialism 15061
+denialist 7803
+denialists 8140
+denied 18489
+denier 89677
+deniers 133672
+denies 28851
+denmark 6548
+dense 9480
+density 13332
+dent 7110
+deny 110282
+denying 95384
+department 33687
+departments 7216
+depend 16008
+dependence 7285
+dependent 20012
+depending 27582
+depends 34216
+depletion 11431
+depressed 8585
+depressing 9836
+depression 20862
+depth 12163
+deputy 5343
+der 6426
+deregulation 6688
+derived 5882
+describe 17876
+describes 7618
+describing 8996
+description 9456
+desert 23839
+desertification 9465
+deserts 8382
+deserve 26669
+deserves 10360
+design 24922
+designed 30369
+desirable 5031
+desire 20127
+desired 5017
+despair 5710
+desperate 13032
+desperately 9290
+destroy 59096
+destroyed 34714
+destroying 45619
+destroys 7419
+destruction 51618
+destructive 19117
+detail 16585
+detailed 12400
+details 23042
+determine 19745
+determined 13716
+detrimental 8366
+devastating 18228
+devastation 5876
+develop 33174
+developed 59386
+developers 5497
+developing 53353
+development 72560
+developments 6209
+device 5766
+devices 6669
+devil 6863
+diabetes 5692
+dialogue 7587
+dictate 5894
+dictator 6366
+dictators 5470
+dictatorship 6569
+die 146985
+died 31745
+dies 11576
+diesel 11393
+diet 38537
+diets 11598
+differ 6535
+difference 114605
+differences 25933
+differently 15865
+difficult 68874
+difficulty 6014
+dig 11769
+digging 6473
+digital 14206
+dinner 5612
+dinosaurs 11991
+dioxide 50308
+diplomacy 5743
+diplomatic 6189
+dire 16241
+direct 61917
+directed 8525
+direction 41018
+directly 83043
+director 17519
+dirt 6871
+dirty 18261
+disabled 6767
+disagree 95662
+disagreeing 7844
+disagreement 10742
+disagrees 10962
+disappear 11315
+disappearing 5322
+disappointed 7221
+disappointing 5145
+disaster 58502
+disasters 41351
+disastrous 11481
+discount 6749
+discourse 15549
+discover 7418
+discovered 14428
+discovery 7814
+discredit 9607
+discrimination 13534
+discuss 33465
+discussed 19811
+discussing 26127
+discussion 88298
+discussions 17150
+disease 44038
+diseases 22698
+disgusting 11983
+dishonest 13399
+disinformation 11864
+disingenuous 12710
+dislike 13298
+dismantle 5715
+dismantling 5254
+dismiss 17906
+dismissed 8789
+dismissing 6858
+disorder 5099
+disparity 5876
+displaced 10451
+display 7147
+disposal 5658
+disproportionately 9688
+disprove 11958
+dispute 10753
+disregard 10303
+disrupt 6510
+disruption 10724
+dissonance 6092
+distance 12868
+distant 7506
+distinct 6251
+distinction 8147
+distract 5861
+distraction 6543
+distributed 7716
+distribution 19465
+district 12714
+districts 5888
+distrust 6414
+diverse 11934
+diversity 18250
+divide 15292
+divided 11454
+dividend 12758
+division 12606
+divisive 7233
+dna 8618
+dnc 16292
+doctor 16955
+doctors 18439
+doctrine 6341
+document 11624
+documentary 12556
+documented 9161
+documents 19101
+doesnt 131810
+dog 20104
+dogma 6084
+dogs 12313
+doi 21351
+dollar 30267
+dollars 65945
+domain 6856
+domestic 27030
+dominant 10148
+dominate 5712
+dominated 7434
+donald 73425
+donate 17290
+donated 6506
+donating 6094
+donations 12961
+donors 13397
+doom 21035
+doomed 17966
+doomsday 18166
+door 18038
+doors 6290
+double 27661
+doubled 6506
+doubling 8987
+doubt 80009
+doubts 6628
+download 8663
+downplay 5368
+downvote 10191
+downvoted 11905
+downvotes 7950
+dozen 10593
+dozens 14048
+dr 53951
+draft 7640
+drag 6705
+drain 7076
+drama 5072
+dramatic 17570
+dramatically 17584
+drastic 31785
+drastically 23599
+draw 19393
+drawing 7386
+drawn 8393
+dream 19700
+dreams 6847
+drier 6936
+drill 5721
+drilling 14276
+drink 12944
+drinking 15221
+drive 64095
+driven 42100
+driver 18545
+drivers 13296
+drives 14242
+driving 64582
+drone 5953
+drop 39737
+dropped 15741
+dropping 10620
+drops 7388
+drought 58093
+droughts 32490
+drove 5513
+drs 14957
+drug 29185
+drugs 26783
+drumpf 17936
+drying 5229
+dude 38219
+due 270901
+dumb 52036
+dumbass 6465
+dumbest 5060
+dump 9568
+dumping 9478
+dunno 6785
+dust 11732
+dutch 7274
+duty 11645
+dying 53353
+dynamic 7815
+dynamics 7155
+dystopian 5289
+e2 5396
+earlier 35422
+early 68582
+earn 10327
+earned 7398
+ears 7699
+earth 401795
+earthers 11742
+earthquake 5019
+earthquakes 8289
+earths 23368
+ease 6203
+easier 55347
+easiest 7924
+easily 71499
+east 54445
+eastern 17233
+easy 93760
+eaten 5481
+eating 61175
+echo 9697
+eco 21371
+ecological 32211
+ecology 12553
+econ 5012
+economic 228370
+economical 7333
+economically 26003
+economics 57964
+economies 26088
+economist 12874
+economists 29300
+economy 207161
+ecosystem 30147
+ecosystems 29530
+ect 11698
+ed 11567
+edge 13265
+edit 93411
+edited 5780
+educate 17775
+educated 37228
+educating 5357
+education 129652
+educational 8515
+effect 170983
+effected 6710
+effective 75188
+effectively 32855
+effectiveness 5692
+effects 192940
+efficiency 26683
+efficient 47853
+efficiently 7101
+effort 65264
+efforts 60096
+eggs 8645
+ego 7670
+egypt 6473
+eh 10142
+el 16128
+elaborate 6028
+elderly 7768
+elect 15821
+elected 55083
+electing 7180
+election 130995
+elections 40756
+electoral 16728
+electorate 8177
+electric 76823
+electrical 9819
+electricity 66530
+element 7624
+elements 13325
+eliminate 20035
+eliminated 6466
+eliminating 10527
+elite 18897
+elites 15585
+elizabeth 6862
+elon 21940
+em 8707
+email 16194
+emails 11687
+embarrassing 5999
+embrace 10902
+emergency 39733
+emerging 7838
+emission 28151
+emissions 360412
+emit 12716
+emits 5942
+emitted 8880
+emitting 10394
+emotion 7262
+emotional 19942
+emotionally 6539
+emotions 9150
+empathy 11666
+emphasis 8788
+empire 16862
+empirical 12415
+employed 7088
+employee 6368
+employees 20404
+employer 5187
+employers 5993
+employment 13183
+empty 14230
+en 168555
+enable 7100
+enact 14488
+enacted 6172
+enacting 5044
+encourage 26349
+encouraged 8027
+encourages 5862
+encouraging 11712
+end 297263
+endangered 10111
+ended 25540
+ending 38350
+endless 14607
+endorse 5710
+endorsed 7435
+ends 27855
+enemies 10712
+enemy 21529
+energies 6211
+energy 532811
+enforce 10677
+enforced 5536
+enforcement 12496
+engage 20398
+engaged 9481
+engagement 5383
+engaging 10994
+engine 13443
+engineer 13720
+engineered 5107
+engineering 30806
+engineers 13896
+engines 7755
+england 14321
+english 20639
+enjoy 38911
+enjoyed 7126
+enjoying 5785
+enormous 18591
+ensure 33042
+ensuring 9137
+enter 13520
+entered 6281
+entering 9960
+enterprise 5799
+entertainment 8610
+entire 162187
+entirety 7818
+entities 8339
+entitled 11838
+entity 7744
+entry 11229
+environment 312440
+environmental 217599
+environmentalism 12602
+environmentalist 11618
+environmentalists 18469
+environmentally 21412
+environments 11426
+epa 54817
+epic 5563
+epidemic 7061
+episode 20514
+episodes 5625
+equal 43692
+equality 25141
+equally 25499
+equation 8351
+equator 7334
+equilibrium 8205
+equipment 13262
+equipped 5897
+equitable 5811
+equity 7505
+equivalent 27006
+er 8119
+era 32054
+erosion 10589
+error 15720
+errors 7540
+eruption 5299
+escape 14344
+essay 6421
+essence 5209
+essential 27621
+essentially 47246
+establish 11526
+established 27768
+establishment 31986
+estate 12697
+estimate 17547
+estimated 18608
+estimates 23364
+ethereum 5016
+ethical 20060
+ethics 13699
+ethnic 8025
+eu 73913
+europe 98620
+european 47648
+europeans 8942
+ev 16900
+evaluate 6260
+evangelical 6768
+event 74330
+events 92845
+eventually 66747
+everyday 17091
+evidence 282635
+evident 6980
+evil 55965
+evils 6015
+evolution 77360
+evolutionary 9538
+evolve 11302
+evolved 14172
+evolving 5228
+evs 14354
+exacerbate 5178
+exacerbated 7150
+exact 41821
+exaggerated 9392
+examine 5949
+examples 47983
+exceed 5604
+excellent 13309
+exception 11835
+exceptions 6257
+excess 13357
+excessive 7926
+exchange 17433
+excited 8975
+exciting 5296
+exclude 5924
+exclusive 10270
+exclusively 9537
+excuse 31223
+excuses 8133
+executive 29652
+executives 6707
+exercise 11048
+exist 114082
+existed 22262
+existence 52297
+existent 5039
+existential 33728
+existing 43716
+exists 60427
+exit 5356
+expand 23651
+expanded 10165
+expanding 18382
+expansion 21414
+expect 79457
+expectancy 5539
+expectations 7686
+expected 50353
+expecting 12273
+expense 16234
+expenses 5412
+expensive 73234
+experience 79930
+experienced 19751
+experiences 12900
+experiencing 18479
+experiment 15621
+experiments 10533
+expert 38609
+expertise 17725
+experts 71174
+expires 11125
+explain 69251
+explained 24556
+explaining 15870
+explains 15562
+explanation 23187
+explanations 6078
+explicit 5125
+explicitly 15711
+exploit 10080
+exploitation 14906
+exploited 7485
+exploiting 6277
+exploration 12483
+explore 9367
+explosion 5180
+exponential 8435
+exponentially 9768
+export 9634
+exports 8134
+exposed 15294
+exposure 10941
+express 11750
+expressed 9805
+expressing 5575
+expression 6075
+extend 9064
+extended 24873
+extension 8056
+extensive 9217
+extent 36880
+external 13450
+externalities 13573
+extinct 35200
+extinction 96955
+extinctions 12340
+extra 35264
+extract 7387
+extraction 11491
+extraordinary 5771
+extreme 129271
+extremely 79660
+extremes 13562
+extremism 6291
+extremist 8632
+extremists 8187
+exxon 27495
+exxonmobil 8182
+eye 21607
+eyes 29307
+face 107276
+facebook 25624
+faced 16726
+faces 14093
+facilities 10395
+facility 5294
+facing 39294
+fact 380543
+factor 51779
+factories 14459
+factors 55480
+factory 21135
+facts 131788
+factual 13904
+factually 7815
+fail 39440
+failed 49039
+failing 24845
+fails 12776
+failure 36827
+failures 15040
+fair 74344
+fairly 37731
+fairness 6659
+faith 55504
+fake 59126
+fall 60646
+fallacy 15530
+fallen 9004
+falling 24837
+fallout 7123
+falls 16233
+false 80056
+familiar 14930
+families 36315
+family 105412
+famine 22624
+famines 7092
+famous 13398
+fan 25131
+fancy 5518
+fans 10885
+fantastic 9040
+fantasy 15325
+fao 5541
+faq 37403
+farm 27920
+farmer 8136
+farmers 39508
+farming 48070
+farmland 8788
+farms 29123
+farther 6475
+fascinating 6095
+fascism 21623
+fascist 22588
+fascists 9528
+fashion 11619
+faster 52998
+fastest 5597
+fat 18559
+fate 8360
+father 18321
+fault 44328
+favor 41872
+favorite 17749
+favors 5116
+favour 13421
+fbi 7388
+fear 83419
+fears 11266
+feasible 14070
+feature 14049
+features 17924
+feb 8248
+february 9758
+fed 24702
+federal 96292
+fee 9711
+feed 43006
+feedback 60078
+feedbacks 6039
+feeding 12638
+feeling 37608
+feelings 23285
+feels 36283
+fees 7898
+feet 22117
+fell 12429
+fellow 17561
+felt 33832
+female 18309
+feminism 10287
+feminist 7874
+feminists 5789
+fence 6799
+fertile 5831
+fertility 6081
+fertilizer 6775
+fewer 27783
+ffs 5029
+fi 7415
+fiction 13846
+field 70603
+fields 26676
+fifty 5055
+fight 153086
+fighting 96328
+fights 7226
+figure 59005
+figured 12016
+figures 18645
+figuring 5129
+file 10260
+files 24978
+filibuster 5089
+fill 17266
+filled 17253
+filling 5389
+film 17747
+filter 10847
+final 26435
+finally 56457
+finance 24294
+financial 62591
+financially 12408
+financing 5713
+find 252952
+finding 31298
+findings 19792
+finds 14978
+fine 92107
+finger 9635
+fingers 8991
+finish 7464
+finished 8041
+finite 10275
+finland 5777
+fire 98477
+firearms 5782
+fired 17322
+fires 84016
+firm 12215
+firmly 7573
+firms 9667
+firstly 7192
+fiscal 10924
+fish 31885
+fishing 13578
+fit 38141
+fits 10763
+fix 105525
+fixed 23106
+fixing 24203
+flag 11540
+flat 53701
+flawed 18351
+flaws 11348
+fleeing 5400
+fleet 5272
+flight 10406
+flights 7145
+flip 12999
+floating 5919
+flood 35495
+flooded 11306
+flooding 37468
+floods 28774
+floor 12998
+florida 33515
+flow 17083
+flows 5184
+flu 8655
+fluctuations 6181
+fly 20307
+flying 20880
+focus 89103
+focused 33659
+focuses 6954
+focusing 21518
+folk 7516
+folks 40176
+follow 58933
+followers 8001
+food 242079
+foods 16663
+fool 10395
+foolish 8084
+fools 5751
+foot 16308
+football 7556
+footprint 42072
+forbes 16437
+force 86501
+forced 49653
+forces 31797
+forcing 33583
+ford 9238
+forecast 8267
+forecasts 5432
+forefront 5210
+foreign 74213
+forest 57264
+forestry 5722
+forests 39768
+forever 28887
+forget 39695
+forgive 6165
+forgot 12077
+forgotten 7696
+form 88299
+formal 5295
+formation 5787
+formed 11801
+forming 6845
+forms 26718
+fortunately 5101
+fortune 6253
+forum 11801
+forward 59146
+fossil 242839
+fought 20048
+found 110063
+foundation 25715
+foundations 5346
+founded 11236
+founder 6581
+fourth 8325
+fox 39100
+fracking 27138
+fraction 14681
+fragile 6792
+frame 15063
+framework 13856
+framing 6095
+france 30712
+frank 8379
+frankly 25238
+fraud 22371
+freak 6791
+freaking 7850
+free 207885
+freedom 51756
+freedoms 8639
+freely 5974
+freeze 9299
+freezing 9294
+french 17365
+frequency 16625
+frequent 16751
+fresh 19461
+freshwater 5792
+friday 8475
+friend 32899
+friendly 32083
+friends 65710
+fringe 12879
+front 47129
+frozen 10418
+fruit 9760
+fruits 5042
+frustrated 6563
+frustrating 9971
+frustration 5643
+ft 7335
+fucked 72818
+fuckin 5579
+fucking 200922
+fucks 12927
+fuel 169012
+fueled 7236
+fuels 144494
+fukushima 7026
+full 126436
+fully 53764
+fun 47295
+function 18283
+functional 5874
+functioning 7959
+functions 6394
+fund 51113
+fundamental 25975
+fundamentally 22699
+funded 39275
+funding 91738
+funds 28751
+funny 40173
+fusion 17011
+future 307345
+futures 5166
+gain 40786
+gained 8895
+gaining 7517
+gains 17379
+gallon 5196
+gallons 5161
+game 78994
+games 23228
+gaming 5489
+gang 5547
+gap 21371
+garbage 23693
+garden 9903
+gas 217444
+gases 47631
+gasoline 14414
+gasses 16703
+gates 18176
+gather 6795
+gathering 6015
+gave 46855
+gay 64908
+gays 8192
+gdp 30326
+gear 5984
+gen 16535
+gender 45456
+genders 5126
+gene 6149
+general 151226
+generally 74564
+generate 17026
+generated 13154
+generating 7796
+generation 93780
+generational 5184
+generations 59433
+generous 5056
+genes 7004
+genetic 16023
+genetically 6636
+genetics 5532
+genius 8421
+genocide 19139
+genuine 13436
+genuinely 24890
+geo 7420
+geoengineering 12386
+geographic 5686
+geography 8994
+geological 10491
+geology 6771
+geopolitical 8571
+george 16859
+georgia 6248
+geothermal 7224
+german 20667
+germany 53484
+gerrymandering 6964
+ghg 21535
+ghgs 5631
+giant 28161
+gif 5121
+girl 22647
+girls 11964
+github 16623
+giving 77127
+glacial 10375
+glacier 8929
+glaciers 19759
+glad 24219
+glass 10016
+global 751568
+globalist 5739
+globalization 6081
+globally 28073
+globe 28389
+gloom 6081
+gm 7237
+gmo 16523
+gmos 12323
+gnd 9446
+goal 65760
+goals 45494
+god 114385
+goddamn 7423
+gods 11444
+gold 15743
+golden 8055
+golf 8491
+gonna 88565
+goods 29751
+google 66243
+gop 69062
+gore 45984
+gotta 16782
+gov 103146
+govern 5077
+governance 9950
+governing 6295
+government 477638
+governmental 8093
+governments 93114
+governor 14584
+govt 14747
+grab 10668
+grade 11584
+gradual 10146
+gradually 9455
+graduate 6299
+grain 11677
+grand 19982
+grandchildren 8912
+grant 12745
+granted 15412
+grants 11953
+graph 21290
+graphs 7743
+grasp 12341
+grass 13882
+grave 5134
+gravity 15922
+grazing 6926
+great 243691
+greater 60823
+greatest 32589
+greatly 19392
+greed 22429
+greedy 12169
+greener 10093
+greenhouse 125499
+greenland 15496
+greenpeace 10492
+greens 32208
+greta 37505
+grew 22008
+grey 5471
+grid 35359
+grocery 7323
+gross 9414
+ground 66290
+grounds 35407
+group 119098
+groups 84556
+grow 76089
+growing 81081
+grown 25710
+grows 11465
+growth 112544
+guarantee 21117
+guaranteed 12864
+guard 7258
+guardian 10225
+guess 112944
+guessing 9077
+guide 11592
+guidelines 5735
+guilt 8715
+guilty 15635
+gulf 14302
+gun 81605
+guns 41737
+gut 7542
+guy 109778
+guys 61051
+gw 5804
+habitable 12064
+habitat 23119
+habitats 8924
+habits 14046
+hair 11363
+hall 6253
+halt 10240
+hand 87337
+handed 7238
+handful 12682
+handle 31779
+handled 8064
+handling 8428
+hands 40014
+hang 7672
+hanging 6644
+hansen 10074
+happen 203960
+happened 98837
+happening 166108
+happily 7593
+happiness 8766
+hard 199367
+hardcore 5392
+harder 44600
+hardest 7519
+harm 50982
+harmful 29037
+harming 7004
+harms 6950
+harper 11277
+harris 10630
+harsh 11012
+harvard 9142
+harvest 6743
+hasnt 13500
+hat 7974
+hate 103041
+hated 7899
+hateful 5547
+hates 9658
+hating 7887
+hatred 11895
+havent 20737
+hawaii 5270
+hazard 5095
+head 76268
+headed 13138
+heading 12182
+headline 13061
+headlines 11322
+heads 21690
+health 183029
+healthcare 125642
+healthier 7263
+healthy 36573
+hear 75358
+heard 72641
+hearing 20943
+heart 32137
+heartland 6294
+heat 126091
+heated 5437
+heating 28348
+heatwave 6440
+heatwaves 7362
+heaven 6653
+heavily 38840
+heavy 30465
+heck 8630
+height 6993
+held 38124
+helped 35957
+helpful 17056
+helping 47277
+helps 38807
+hemisphere 8784
+heres 16047
+heritage 7841
+hero 7992
+hes 52576
+hidden 9685
+hide 14486
+hiding 9490
+hierarchy 5228
+high 210198
+higher 129280
+highest 30430
+highlight 6247
+highlights 5757
+highly 54642
+highway 6424
+hilarious 10744
+hill 11880
+hillary 61543
+hint 7287
+hire 8524
+hired 6981
+hiring 6441
+historic 12059
+historical 32394
+historically 21058
+history 182246
+hitler 13931
+hits 16438
+hitting 12692
+hiv 5028
+hoax 92825
+hockey 6479
+hold 78631
+holding 30128
+holds 16354
+hole 22749
+holes 9333
+holiday 5291
+hollywood 6335
+holocaust 14827
+holocene 6306
+home 107798
+homeless 16304
+homelessness 10171
+homenews 5081
+homes 38508
+hominem 6038
+homo 5410
+homophobic 5772
+homosexuality 5768
+honest 44069
+honestly 82939
+honesty 5369
+hong 6765
+hook 5887
+hope 145865
+hopeful 7750
+hopeless 6482
+hopes 10186
+hoping 19599
+horizon 7390
+horrible 27714
+horrific 6632
+horror 6127
+horse 11844
+hospital 9064
+hospitals 7723
+host 14134
+hostile 11991
+hotter 31165
+hottest 11398
+hours 44564
+house 135411
+household 8490
+households 6676
+houses 25053
+housing 59301
+houston 5449
+htm 20885
+https 1273744
+huge 163659
+hugely 6769
+human 420723
+humanitarian 8803
+humanity 137571
+humans 285127
+humid 6526
+humidity 10675
+hundred 32600
+hundreds 61824
+hunger 18772
+hungry 9036
+hunt 8528
+hunter 7181
+hunting 14212
+hurricane 28725
+hurricanes 38974
+hurt 41810
+hurting 12689
+hurts 12803
+husband 8029
+hybrid 6858
+hydro 13442
+hydrogen 15417
+hype 5861
+hyper 7044
+hyperbole 8269
+hyperbolic 5073
+hypocrisy 13123
+hypocrite 8542
+hypocrites 5501
+hypocritical 11470
+hypothesis 20643
+hypothetical 10881
+hysteria 11184
+ice 202779
+id 58957
+idea 221473
+ideal 19492
+ideally 7954
+ideals 12124
+ideas 91431
+identical 5224
+identified 9680
+identify 15779
+identity 26243
+ideological 17310
+ideologies 9901
+ideology 42890
+idiot 33527
+idiotic 11608
+idiots 34335
+idk 16126
+ignorance 37518
+ignorant 50633
+ignore 78662
+ignores 13877
+ignoring 52841
+ii 8997
+iirc 5835
+illegal 41999
+illegally 5702
+illness 10862
+illusion 5638
+image 21001
+images 14858
+imaginary 5091
+imagine 80051
+imf 6755
+imgur 21109
+imho 5280
+immediately 40429
+immense 7816
+immigrant 9208
+immigrants 37912
+immigration 73319
+imminent 9595
+immoral 10455
+immune 8330
+imo 29978
+impact 211358
+impacted 15130
+impactful 7245
+impacting 7574
+impacts 68716
+impeachment 5583
+impending 9967
+imperialism 7744
+implement 25357
+implementation 8859
+implemented 18912
+implementing 10521
+implications 16759
+implied 6239
+implies 11824
+imply 12002
+implying 11177
+import 7922
+importance 20685
+important 225602
+importantly 17225
+imports 6589
+impose 9102
+imposed 6203
+impossible 62630
+impression 11207
+impressive 6067
+improve 41973
+improved 15473
+improvement 11838
+improvements 10896
+improving 18673
+inability 9804
+inaccurate 9792
+inaction 17606
+incapable 9613
+incarceration 6724
+incentive 19911
+incentives 18430
+incentivize 5541
+inches 6278
+incident 6285
+inclined 6963
+include 47108
+included 26549
+includes 29020
+including 114898
+income 76985
+incoming 5288
+incompetent 7406
+inconvenience 5713
+inconvenient 11792
+incorrect 22789
+increase 173078
+increased 92767
+increases 49290
+increasing 92663
+increasingly 32986
+incredible 14236
+incredibly 47124
+incremental 6505
+independence 11967
+independent 46510
+independently 5006
+independents 5843
+index 31999
+india 90721
+indian 15338
+indication 8105
+indicator 6328
+indicators 8079
+indigenous 16373
+indirect 5725
+indirectly 8003
+individual 95550
+individually 6836
+individuals 59092
+indonesia 5729
+induced 17167
+industrial 71508
+industrialization 8458
+industrialized 7381
+industries 51088
+industry 190326
+ineffective 8239
+inefficient 11226
+inequality 55983
+inevitable 29460
+inevitably 12428
+infinite 11187
+inflation 25983
+influence 80454
+influenced 14224
+influences 8613
+influencing 5768
+influential 8664
+info 28306
+inform 7870
+information 119565
+informed 28499
+infrastructure 101585
+inherent 9820
+inherently 20575
+initial 15810
+initially 9222
+initiative 12605
+initiatives 16471
+injustice 6111
+inland 6834
+innocent 13215
+innovation 25375
+innovations 5843
+input 9097
+insane 36121
+insanely 6239
+insanity 5971
+insect 6686
+insects 11205
+insert 5225
+insight 7208
+insignificant 8895
+insist 8753
+inslee 5186
+inspired 7293
+instability 11996
+instagram 5461
+install 8884
+installed 6391
+instance 34040
+instances 7202
+instant 5879
+instantly 7858
+institute 28117
+institution 9298
+institutional 6101
+institutions 26761
+insufficient 5572
+insult 8893
+insulting 8198
+insults 6720
+insurance 44215
+int 5940
+integrity 9353
+intellectual 19258
+intellectualism 5585
+intellectually 7037
+intelligence 33010
+intelligent 27168
+intend 5616
+intended 16829
+intense 15062
+intensity 12699
+intensive 11022
+intent 11361
+intention 8983
+intentional 5286
+intentionally 13975
+intentions 8762
+interact 6237
+interaction 5714
+interactions 5872
+interactive 6405
+interest 82507
+interested 54374
+interesting 72733
+interests 65131
+interference 7684
+interglacial 5393
+intergovernmental 11488
+interior 6667
+internal 18278
+international 84694
+internationally 5007
+internet 65489
+interpret 6857
+interpretation 12377
+intervention 18038
+interview 20164
+interviews 6421
+introduce 9587
+introduced 13333
+introducing 6177
+introduction 7129
+invade 5301
+invasion 10144
+invasive 7645
+invent 6619
+invented 14120
+invest 38293
+invested 17375
+investigate 6874
+investigation 12144
+investing 27333
+investment 55965
+investments 21417
+investors 19390
+invisible 5187
+invited 5623
+involve 13497
+involved 54687
+involvement 8658
+involves 11443
+involving 7583
+io 6515
+iowa 5576
+ipcc 86098
+iq 10750
+ir 5619
+iran 23028
+iraq 24883
+ireland 11017
+irish 5451
+iron 9220
+ironic 10199
+ironically 10063
+irony 9452
+irrational 10984
+irrelevant 29949
+irresponsible 8972
+irreversible 14711
+irrigation 5244
+isis 15099
+islam 13076
+islamic 7685
+island 28452
+islands 15888
+isolated 9763
+isolation 5076
+israel 18635
+issue 395817
+issued 6767
+issues 326612
+ist 5996
+italy 8737
+item 7949
+items 13828
+itll 8520
+jack 9640
+jail 10308
+james 18335
+jan 11974
+january 16102
+japan 21628
+japanese 8181
+jeff 8945
+jerk 7110
+jesus 28402
+jet 18867
+jets 11894
+jewish 8979
+jews 11371
+jim 7062
+job 130859
+jobs 126217
+joe 78559
+joebiden 7496
+john 28013
+johnson 15578
+join 31740
+joined 7954
+joining 6876
+joint 6663
+joke 35140
+jokes 7444
+joking 5375
+jones 9533
+jordan 7922
+journal 22580
+journalism 8390
+journalist 6931
+journalists 11602
+journals 16665
+journey 5697
+jp 5444
+jr 5402
+judge 21404
+judgement 7591
+judges 10220
+judging 6151
+jul 11360
+july 13392
+jump 16073
+jumping 6551
+jun 7515
+june 15203
+junk 6817
+justice 52491
+justices 6256
+justification 9963
+justified 11935
+justify 28025
+keeping 39627
+kerry 6036
+key 48768
+keystone 10309
+keywords 16168
+kick 11692
+kicked 6589
+kicking 6998
+kidding 6363
+kids 144086
+kill 99152
+killed 50439
+killer 6121
+killing 62039
+kills 17197
+kim 6151
+kinda 33626
+kinds 23945
+king 15538
+kingdom 7478
+km 6223
+knew 53068
+knock 6293
+knowing 32780
+knowledge 69192
+knowledgeable 5132
+koch 20570
+kong 6581
+korea 18749
+kwh 5732
+kyoto 6969
+la 28390
+lab 15773
+label 12454
+labeled 6651
+labor 66245
+labour 33316
+lack 98297
+lacking 8651
+lacks 5129
+lady 5892
+laid 9651
+lake 16836
+lakes 12010
+land 159514
+landing 6579
+lands 16764
+landscape 11826
+language 34712
+largely 48119
+larger 55129
+largest 58704
+lasting 8811
+lastly 9145
+late 85469
+latest 26512
+latin 8388
+laugh 12075
+laughable 8453
+laughed 5303
+laughing 7089
+launch 9407
+launched 6666
+law 97927
+lawmakers 7698
+laws 86639
+lawsuit 5890
+lawyer 5998
+lawyers 5739
+lay 10651
+layer 18123
+layers 5821
+lazy 17609
+le 7971
+lead 109617
+leader 51391
+leaders 65833
+leadership 34891
+leading 63109
+leads 39914
+league 5793
+leak 5194
+leaked 5127
+lean 10210
+leaning 21606
+leap 5885
+learn 67430
+learned 27382
+learning 29167
+leave 77970
+leaves 19540
+leaving 34881
+lecture 6769
+led 44459
+leftist 26286
+leftists 17002
+legacy 9290
+legal 45016
+legalization 7639
+legally 11684
+legislation 61584
+legislative 10218
+legislature 6231
+legit 7335
+legitimacy 5914
+legitimate 25482
+legitimately 7088
+length 8260
+lesser 13590
+lesson 7733
+lessons 5802
+lets 53519
+letter 18548
+letters 8370
+letting 24006
+level 217768
+levels 133067
+leverage 7459
+lgbt 23237
+lgbtq 15155
+liability 5518
+liar 7759
+lib 6155
+liberal 117332
+liberalism 9149
+liberals 74459
+libertarian 26946
+libertarians 12187
+liberties 5387
+liberty 10107
+library 7113
+libs 10456
+lie 58334
+lied 16258
+lies 51788
+life 406825
+lifestyle 34145
+lifestyles 9628
+lifetime 27346
+lifetimes 7486
+lift 6144
+light 52051
+lightning 6418
+lights 9284
+likelihood 10131
+likes 19821
+likewise 8011
+limit 37980
+limitations 6100
+limited 44508
+limiting 13499
+limits 22177
+line 100913
+linear 6754
+lines 36132
+link 88336
+linked 43096
+linking 6908
+links 31305
+lip 5871
+liquid 6022
+list 82493
+listed 16139
+listen 59736
+listened 8805
+listening 22244
+lists 5646
+literal 20198
+literally 204763
+literature 18161
+lithium 7428
+livable 6580
+live 267568
+lived 36948
+lives 130736
+livestock 25752
+living 168384
+lmao 16690
+lnp 7426
+load 14556
+loads 6999
+loan 15020
+loans 14311
+lobby 27526
+lobbying 24827
+lobbyist 5721
+lobbyists 13304
+local 106140
+locally 9846
+located 6011
+location 16446
+locations 9687
+lock 8030
+lockdown 7769
+lockdowns 7033
+locked 11593
+logging 5749
+logic 48696
+logical 28264
+logically 7736
+lol 81659
+london 15524
+long 383404
+longer 110632
+longest 5382
+looked 33853
+looming 8330
+loop 9676
+loops 8687
+loose 7996
+lord 8832
+los 6253
+lose 68838
+losers 5311
+loses 8431
+losing 38394
+loss 60155
+losses 13710
+lost 81473
+lots 63761
+loved 13171
+loves 12029
+loving 8110
+low 123380
+lower 93857
+lowering 11853
+lowest 14630
+lt 20569
+luck 23871
+luckily 5791
+lucky 15591
+ludicrous 5057
+lunch 5021
+lung 5416
+luxury 14269
+lying 44422
+m4a 9343
+machine 20809
+machines 11292
+macron 6389
+mad 22774
+maga 5169
+magazine 15888
+magic 18559
+magical 8678
+magically 11252
+magnetic 6117
+magnitude 17434
+mail 10429
+main 85806
+mainstream 35055
+maintain 31630
+maintained 6772
+maintaining 12342
+maintenance 10861
+major 169695
+majority 150454
+makers 8316
+makes 239645
+male 23517
+males 6164
+mammals 6291
+man 255372
+manage 23460
+managed 23605
+management 37981
+manager 5819
+managing 7667
+manchin 11464
+mandate 11095
+mandates 6245
+mandatory 9877
+manhattan 5004
+manifesto 5057
+manipulate 8784
+manipulated 9192
+manipulation 8990
+mankind 20978
+manmade 10816
+mann 9076
+manner 17207
+manufacture 6208
+manufactured 7454
+manufacturers 8245
+manufacturing 39713
+map 21318
+maps 8453
+mar 8200
+march 26673
+margin 8774
+marginal 6945
+margins 5460
+marijuana 14483
+marine 15799
+mark 17142
+market 152203
+marketing 12663
+markets 35358
+marriage 42985
+married 8427
+mars 32620
+martin 5706
+marx 6865
+marxism 6077
+marxist 8615
+mask 16373
+masks 16047
+mass 129111
+masses 17004
+massive 151662
+massively 20023
+master 8466
+masters 7626
+match 15932
+mate 10865
+material 30879
+materials 20739
+math 21250
+matter 211511
+matters 49409
+mature 5961
+max 10388
+maximum 12665
+mayor 9550
+mccain 5502
+mcconnell 6284
+meal 6019
+meaning 42358
+meaningful 37245
+meaningless 14426
+means 242854
+meant 49374
+meantime 6638
+measurable 7484
+measure 31363
+measured 13331
+measurement 5025
+measurements 11041
+measures 44438
+measuring 7479
+meat 148348
+mechanics 6169
+mechanism 14501
+mechanisms 10803
+media 195893
+median 5416
+medicaid 5280
+medical 44814
+medicare 29197
+medicine 20262
+medieval 8323
+medium 28526
+meet 49022
+meeting 27314
+meetings 7978
+mega 11175
+melt 20952
+melted 6438
+melting 35746
+melts 6903
+member 30741
+members 48637
+membership 5112
+meme 14735
+memes 9139
+memory 9164
+men 68193
+mental 43117
+mentality 13028
+mentally 10646
+mention 80640
+mentioned 55319
+mentioning 10550
+mentions 8744
+mere 9512
+merit 8408
+merkel 5383
+mess 23105
+message 105348
+messages 7303
+messaging 7413
+met 31566
+meta 6432
+metal 8312
+metals 6377
+metaphor 6952
+meteor 6028
+meteorological 5175
+meter 7094
+meters 6888
+methane 58318
+method 33276
+methodology 7279
+methods 31725
+metric 13485
+mexican 5684
+mexicans 5127
+mexico 22100
+miami 8887
+michael 17468
+michigan 7867
+micro 6793
+mid 24830
+middle 111220
+midwest 8954
+migrant 5604
+migrants 11284
+migrate 6973
+migration 31122
+migrations 7226
+mike 7772
+mild 10176
+mile 10022
+miles 26130
+military 95372
+milk 12199
+millennia 6610
+millennial 5501
+millennials 13502
+million 144187
+millions 127359
+mind 131877
+minded 16650
+minds 29671
+mindset 14696
+minerals 5487
+miners 6253
+mines 8570
+mini 5939
+minimal 10942
+minimize 8663
+minimum 55246
+mining 33802
+minister 38209
+ministers 7101
+ministry 6815
+minor 22762
+minorities 21385
+minority 34779
+miracle 5611
+mirror 5805
+miserable 6647
+misery 5189
+misguided 6507
+misinformation 28797
+misinformed 6978
+misleading 20992
+miss 17200
+missed 16233
+missing 26709
+mission 14374
+mistake 22380
+mistaken 6498
+mistakes 13678
+misunderstanding 8301
+mit 10265
+mitigate 39757
+mitigating 11401
+mitigation 27428
+mix 15836
+mixed 14275
+mob 5403
+mobile 12599
+mobility 5437
+mod 5628
+mode 10188
+model 72581
+modeling 8990
+modelling 5821
+models 98103
+moderate 33019
+moderates 9155
+moderators 14220
+modern 85905
+modest 5250
+modified 5605
+mods 8904
+moisture 8170
+mom 13085
+moment 56077
+moments 6144
+momentum 6577
+monday 7450
+monetary 8698
+money 420641
+mongering 14298
+monitor 5341
+monitored 14047
+monitoring 7477
+monopoly 7260
+monsanto 5492
+monster 6300
+monthly 8369
+months 66127
+moon 25907
+moore 5444
+moral 51281
+morality 14232
+morally 16366
+morals 7328
+morning 15219
+moron 12976
+morons 12785
+morrison 7772
+mortality 9129
+mortgage 5173
+mother 27684
+motion 8370
+motivated 14532
+motivation 10406
+motive 8867
+motives 6247
+mountain 15777
+mountains 15500
+mouth 15797
+move 120366
+moved 30900
+movement 85463
+movements 18525
+moves 13747
+movie 33678
+movies 11770
+moving 64021
+mp 6487
+mps 5794
+mr 45276
+ms 10442
+msm 6164
+msnbc 5507
+muh 6434
+multi 16710
+multiple 57585
+murder 22393
+murdered 6288
+murdoch 8353
+music 17471
+musk 25808
+muslim 18843
+muslims 18625
+mutual 5309
+mutually 6644
+myriad 5034
+myth 24009
+myths 6328
+na 5885
+nafta 7328
+nah 14831
+nail 6610
+naive 15891
+named 11149
+names 14336
+narrative 47811
+narratives 6233
+narrow 11248
+nasa 77502
+nasty 6530
+nation 79411
+national 170971
+nationalgeographic 7694
+nationalism 11461
+nationalist 8319
+nations 113283
+native 25149
+nato 14088
+natural 211776
+naturally 32523
+nature 128508
+navy 5719
+nazi 17634
+nazis 17187
+nbcnews 9328
+nbsp 13074
+ncbi 7283
+ndp 14339
+nearby 6734
+necessarily 44657
+necessity 9789
+needed 89722
+needing 9051
+negative 76952
+negatively 11622
+negligible 8215
+negotiate 6446
+negotiations 7109
+neighborhood 7776
+neighborhoods 5421
+neighbors 9350
+neil 5207
+neo 13084
+neoliberal 14868
+neoliberalism 7097
+net 89027
+netflix 7034
+netherlands 9893
+nets 5634
+network 22294
+networks 8824
+neutral 30720
+neutrality 14035
+newer 5844
+newly 5469
+news 356551
+newspaper 6662
+nft 31796
+nfts 22843
+nhs 5409
+niche 5843
+night 37176
+nightmare 7148
+nih 8533
+nino 5414
+nitrogen 7338
+nixon 5915
+nlm 7253
+noaa 21379
+nobel 12386
+noble 5113
+noise 9822
+nomination 7985
+nominee 7616
+nonetheless 5677
+nonsense 38231
+nope 18617
+norm 10214
+normal 70316
+norms 6514
+north 85860
+northern 32564
+norway 10357
+nose 6225
+notable 12126
+notably 5460
+note 50987
+noted 12160
+notes 8528
+noteworthy 6614
+notice 29114
+noticeable 6192
+noticed 17329
+noting 6911
+notion 18639
+nov 9171
+november 15525
+nowadays 10501
+np 79235
+npr 12841
+nra 5142
+nsw 5283
+nuance 7888
+nuanced 8233
+nuclear 316778
+nuke 7695
+nukes 13844
+number 141380
+numbers 71447
+nut 6098
+nutrients 6843
+nutrition 7617
+nuts 10362
+ny 7747
+nyc 9687
+nye 12685
+nytimes 29182
+nz 10027
+obama 121228
+obamacare 13377
+obamas 6566
+obesity 7813
+object 7262
+objective 25754
+objectively 17112
+obligation 6960
+observation 9837
+observations 14260
+observe 7212
+observed 21217
+obsessed 6504
+obsession 5130
+obtain 5621
+obvious 64042
+ocasio 6428
+occasionally 6981
+occur 30158
+occurred 17777
+occurrence 5541
+occurring 23255
+occurs 11738
+ocean 108576
+oceanic 5658
+oceans 47896
+oct 9783
+october 10909
+odd 13457
+odds 12744
+offended 5925
+offensive 7489
+offer 32959
+offered 12491
+offering 11483
+offers 10600
+office 69104
+officer 7539
+officers 6140
+offices 5125
+official 25096
+officially 6197
+officials 26959
+offset 14660
+offshore 8554
+ohio 5131
+oil 295488
+older 35142
+olds 6434
+oligarchs 5015
+omg 5140
+ongoing 15758
+online 40624
+onlinelibrary 6399
+ontario 11826
+op 44299
+open 96632
+opened 8602
+opening 13660
+openly 18285
+opens 5082
+operate 14185
+operating 11165
+operation 11053
+operations 11819
+opinion 177645
+opinions 65495
+opponent 6770
+opponents 10109
+opportunities 18683
+opportunity 41494
+oppose 25362
+opposed 68546
+opposes 8634
+opposing 18248
+opposite 46785
+opposition 34534
+oppressed 5577
+oppression 9173
+opt 7858
+optimal 6517
+optimism 7216
+optimistic 17379
+option 56456
+options 38123
+orange 9058
+orbit 10318
+order 127157
+ordered 5424
+orders 15255
+ordinary 9387
+oregon 9479
+org 406665
+organic 16546
+organisation 7233
+organisations 6177
+organisms 9699
+organization 34350
+organizations 28642
+organize 8629
+organized 12566
+organizing 6404
+oriented 5599
+origin 7621
+original 64184
+originally 13677
+outcome 26063
+outcomes 18880
+outdated 7400
+outlets 10323
+outlook 8397
+output 26435
+outrage 8761
+outright 23719
+outweigh 5834
+overcome 11383
+overly 9498
+overnight 11583
+overpopulation 30262
+overseas 9917
+oversight 7119
+overturn 5784
+overwhelming 27293
+overwhelmingly 10378
+owned 22543
+owner 9437
+owners 18525
+ownership 17717
+owning 9527
+owns 8890
+oxygen 19912
+ozone 25931
+pace 14675
+pacific 20555
+pack 9181
+package 8089
+page 41222
+pages 14446
+paid 65792
+pain 20021
+painful 6728
+paint 10911
+painting 5374
+pakistan 11228
+palm 6021
+pandemic 65700
+pandemics 10463
+pandering 5850
+panel 25485
+panels 28673
+panic 13575
+paper 75262
+papers 53157
+par 7076
+paradigm 6505
+paragraph 11797
+parallel 5265
+parent 11458
+parenthood 5496
+parents 56398
+paris 78355
+park 20592
+parking 8024
+parks 10873
+parliament 15760
+part 306680
+partially 11968
+participate 12751
+participating 6377
+participation 6170
+particles 5354
+parties 73454
+partisan 22944
+partly 10772
+partner 12442
+partners 8169
+partnership 6027
+parts 61059
+party 302675
+pass 57816
+passage 7508
+passed 44326
+passes 7556
+passing 19968
+passion 6410
+passionate 9884
+passive 5226
+path 36294
+pathetic 11277
+patient 5578
+patients 6330
+patriarchy 5150
+patriot 5385
+pattern 15460
+patterns 36360
+paul 17880
+pause 7244
+pay 158988
+paycheck 6154
+payer 14663
+paying 60452
+payments 7019
+pays 11369
+pbs 6129
+pc 8581
+pdf 86953
+peace 29841
+peaceful 13235
+peak 25818
+peer 38776
+peers 6622
+pelosi 8283
+penalty 7058
+pence 7892
+pentagon 8860
+people 2535402
+peoples 30917
+perceive 5362
+perceived 11114
+percent 62745
+percentage 26206
+perception 12325
+perfect 54903
+perfectly 29940
+perform 7747
+performance 12558
+performed 12162
+period 78934
+periods 24262
+permafrost 17674
+permanent 17270
+permanently 8420
+person 227572
+personal 99165
+personality 9520
+personally 85953
+persons 7975
+perspective 51853
+perspectives 6613
+pessimistic 8023
+pesticides 8823
+pet 7737
+pete 9575
+peter 8662
+peterson 14890
+petition 5856
+petrol 7060
+petroleum 12089
+petty 6806
+ph 7370
+pharma 5280
+phase 16890
+phd 11507
+phenomena 9993
+phenomenon 19148
+philosophical 7479
+philosophy 21078
+phone 19674
+phones 7200
+photo 9068
+photos 6475
+php 15981
+phrase 14971
+phys 5211
+physical 33279
+physically 10299
+physics 30756
+pick 45894
+picked 16254
+picking 16871
+picks 5501
+picture 36789
+pictures 8250
+piece 39804
+pieces 14264
+pigs 6088
+pii 8029
+pile 6487
+pipe 6070
+pipeline 51322
+pipelines 10724
+pissed 10982
+place 197924
+places 92268
+plague 8876
+plain 13040
+plan 163960
+plane 11021
+planes 11705
+planet 324791
+planetary 10347
+planets 18034
+planned 22401
+planning 34872
+plans 59225
+plant 87445
+planted 5841
+planting 15269
+plants 116366
+plastic 52485
+plastics 13955
+plate 5856
+platform 54381
+platforms 8827
+plausible 9451
+play 72941
+played 17763
+player 9732
+players 14154
+playing 35713
+plays 14262
+pleasure 6238
+pledge 8290
+plot 14175
+pm 30669
+pnas 7406
+pocket 8386
+pockets 13264
+podcast 13897
+point 560963
+pointed 21229
+pointing 30101
+pointless 17163
+points 104971
+poison 8230
+poisoning 6216
+poland 5843
+polar 36266
+pole 9153
+poles 9905
+police 63927
+policies 170146
+policy 275199
+policymakers 6981
+political 384576
+politically 36783
+politician 31343
+politicians 132534
+politicized 9087
+politico 8586
+politics 225443
+politifact 7018
+poll 21304
+polling 10181
+polls 16330
+pollutants 8291
+pollute 18181
+polluted 7802
+polluter 5963
+polluters 15130
+polluting 27756
+pollution 166975
+pool 10585
+poor 140266
+poorer 14334
+poorest 8808
+poorly 15950
+pop 11522
+pope 12372
+populace 8639
+popular 56470
+popularity 7426
+populated 7731
+population 225793
+populations 34732
+populism 5271
+populist 8687
+porn 7158
+portion 24264
+pose 6409
+posed 5909
+poses 6664
+position 116670
+positions 43968
+positive 68514
+possibilities 6734
+possibility 29931
+possibly 53500
+post 161089
+posted 31880
+poster 7481
+posts 35387
+pot 8704
+potential 72209
+potentially 32781
+poverty 71266
+power 423323
+powered 15842
+powerful 49914
+powers 25623
+ppl 8074
+ppm 12475
+pr 17721
+practical 20439
+practically 13484
+practice 25339
+practices 28376
+pragmatic 7117
+praise 5979
+pray 5029
+pre 33141
+preach 5872
+preaching 6298
+precedent 7018
+precious 7040
+precipitation 13807
+precise 5787
+precisely 13513
+predator 5128
+predators 6684
+predict 36026
+predictable 7339
+predicted 33820
+predicting 13503
+prediction 20214
+predictions 57250
+predicts 5286
+prefer 28116
+preference 6440
+preferred 8334
+pregnancy 6021
+pregnant 6121
+premise 13999
+prepare 17884
+prepared 19385
+preparing 9573
+presence 11535
+present 59234
+presentation 5464
+presented 24666
+presenting 8321
+presents 7331
+preservation 6097
+preserve 12339
+preserving 6086
+presidency 27045
+president 176846
+presidential 28485
+presidents 12603
+press 39804
+pressing 14414
+pressure 44361
+pressures 6838
+pretend 35718
+pretending 20776
+pretty 259268
+prevalent 5982
+prevent 77606
+prevented 8546
+preventing 22306
+prevention 9830
+prevents 7250
+previous 47516
+previously 24623
+price 79657
+prices 66283
+pricing 16670
+pride 8419
+primaries 7258
+primarily 23756
+primary 52418
+prime 27059
+prince 5361
+principle 15058
+principles 17223
+print 7109
+prior 20694
+priorities 17478
+prioritize 8655
+priority 27165
+prison 15688
+prisons 8014
+privacy 8353
+private 95731
+privilege 12656
+privileged 9086
+prize 13386
+pro 92419
+probability 10734
+problem 483348
+problematic 10780
+problems 209795
+process 93650
+processed 7251
+processes 20204
+processing 6617
+produce 76050
+produced 36419
+producer 6136
+producers 12449
+produces 18332
+producing 30353
+product 36044
+production 122024
+productive 19634
+productivity 12406
+products 67907
+professional 15178
+professionals 7642
+professor 23451
+professors 7181
+profile 14442
+profit 74025
+profitable 20215
+profits 40309
+profound 5604
+program 44128
+programme 9915
+programs 44509
+progress 72071
+progressive 77737
+progressives 24438
+project 50349
+projected 17666
+projection 6701
+projections 20152
+projects 46494
+proliferation 5995
+prominent 10104
+promise 18757
+promised 14705
+promises 18646
+promising 9958
+promote 27739
+promoted 7369
+promotes 6450
+promoting 19479
+prone 9446
+proof 62975
+propaganda 65936
+proper 24916
+properly 25395
+properties 10165
+property 46567
+proponents 6219
+proportion 9973
+proposal 17144
+proposals 15731
+propose 12458
+proposed 33299
+proposing 10132
+prospect 5269
+prosperity 11783
+protect 59650
+protected 14122
+protecting 22712
+protection 33616
+protections 15734
+protein 9986
+protest 47008
+protesters 13469
+protesting 20978
+protestors 8407
+protests 36700
+protocol 7490
+proud 13552
+prove 62518
+proved 11411
+proven 52232
+proves 16166
+provide 85642
+provided 32988
+providing 26102
+province 11344
+provinces 7469
+provincial 6078
+proving 13294
+proxy 6792
+pruitt 6760
+ps 5353
+pseudo 6848
+pseudoscience 5244
+psychological 8741
+psychology 11250
+public 267849
+publication 12838
+publications 21836
+publicly 18726
+publish 9467
+published 44465
+publishing 8084
+pubs 9007
+puerto 5505
+pull 27936
+pulled 14552
+pulling 15248
+pump 12381
+pumped 5275
+pumping 9704
+pumps 5171
+punish 6818
+punished 5471
+punishment 7979
+puppet 6332
+purchase 10848
+purchasing 5628
+pure 21565
+purely 17074
+purpose 36202
+purposes 11946
+pursue 11091
+pursuing 7362
+pursuit 6101
+push 83405
+pushed 33071
+pushes 8940
+pushing 57357
+putin 24100
+puts 22816
+putting 63090
+qualified 14632
+quality 64543
+quantities 5085
+quantum 6033
+quarter 10095
+quebec 5729
+queen 7153
+question 183572
+questionable 7759
+questioned 6224
+questioning 13281
+questions 80605
+quick 29455
+quicker 6057
+quiet 7705
+quit 11603
+quo 29431
+quot 29554
+quote 33550
+quoted 7745
+quotes 11574
+quoting 5168
+race 75080
+races 9859
+racial 23050
+racism 55581
+racist 64351
+racists 10004
+radiation 25241
+radiative 5476
+radical 40389
+radically 8697
+radio 11849
+radioactive 6539
+rage 7460
+rail 13284
+rain 46027
+rainfall 16251
+rainforest 10155
+rains 6369
+raise 46894
+raised 26977
+raises 7533
+raising 30158
+rally 11575
+ramifications 5140
+ramp 5817
+rampant 11001
+random 29371
+range 43505
+rank 5857
+ranked 5656
+ranks 6007
+rant 11173
+rape 22467
+rapid 30609
+rapidly 30036
+rare 23674
+rarely 15843
+rate 110722
+rates 55383
+rating 6549
+ratings 5647
+ratio 7285
+rational 31627
+raw 12511
+reach 46533
+reached 21027
+reaches 6901
+reaching 17350
+react 10915
+reaction 20239
+reactionary 7407
+reactions 6157
+reactor 11576
+reactors 21922
+read 211406
+readers 5796
+readily 6371
+reading 67762
+reads 6660
+ready 29677
+reagan 13931
+real 495417
+realdonaldtrump 7773
+realise 14056
+realistic 26768
+realistically 12138
+realities 8252
+reality 147398
+realize 74520
+realized 18051
+realizing 8158
+realm 6995
+reason 252660
+reasonable 55027
+reasoning 22911
+reasons 102850
+rebellion 10356
+rebuild 8649
+rebuilding 5201
+recall 10685
+receive 16883
+received 16973
+receiving 7720
+recent 85527
+recently 58438
+recession 15387
+recognise 5902
+recognition 7313
+recognize 27293
+recognized 7878
+recognizing 5822
+recommend 23006
+recommendations 6743
+recommended 6508
+record 100949
+recorded 14800
+records 25536
+recover 10035
+recovery 11545
+recycle 11683
+recycled 5470
+recycling 19060
+redd 13981
+reddit 260752
+redditor 6800
+redditors 6045
+redistribution 7573
+reduce 131812
+reduced 50595
+reduces 11369
+reducing 64050
+reduction 44354
+reductions 12776
+reef 13204
+reefs 9569
+refer 11852
+reference 20017
+referenced 5060
+references 8883
+referendum 6164
+referral 5552
+referred 9028
+referring 25156
+refers 8231
+reflect 15565
+reflected 5640
+reflection 5310
+reflects 6357
+reform 59336
+reforms 12502
+refugee 15705
+refugees 42138
+refusal 6524
+refuse 34998
+refused 14152
+refuses 10853
+refusing 14251
+refute 9092
+regard 20451
+regime 14261
+regimes 7139
+region 41251
+regional 19634
+regions 38273
+registered 6814
+regressive 9561
+regret 5102
+regular 26475
+regularly 15821
+regulate 13963
+regulated 9458
+regulating 6646
+regulation 40870
+regulations 61391
+regulatory 12504
+reject 20262
+rejected 9684
+rejecting 6909
+rejection 6153
+rejects 5366
+relate 7833
+related 84949
+relating 5630
+relation 9666
+relations 18207
+relationship 28240
+relationships 11456
+relative 24354
+release 35159
+released 32117
+releases 16667
+releasing 9887
+relevant 48584
+reliable 21819
+reliance 8657
+reliant 6530
+relief 13797
+relies 10138
+religion 76235
+religions 9993
+religious 73375
+rely 30078
+relying 9543
+remain 34883
+remained 6638
+remaining 15447
+remains 22881
+remember 93259
+remind 9165
+reminder 7525
+reminds 7710
+remote 9228
+remotely 14404
+removal 10844
+remove 33584
+removed 35802
+removing 18577
+renewable 101197
+renewables 62500
+rent 17360
+rep 9830
+repair 9963
+repeal 10080
+repeat 14238
+repeated 8823
+repeatedly 15362
+repeating 8850
+repercussions 5409
+replace 33761
+replaced 19717
+replacement 11777
+replacing 12703
+replied 7412
+replies 7743
+reply 23683
+replying 5085
+report 128938
+reported 20946
+reporting 19622
+reports 38500
+represent 23841
+representation 12004
+representative 16008
+representatives 20096
+represented 9230
+representing 7495
+represents 15771
+reproduce 6514
+reproductive 7458
+republic 10157
+republican 132244
+republicans 171670
+reputable 7592
+reputation 7878
+request 6747
+require 55562
+required 43691
+requirement 6974
+requirements 12481
+requires 46681
+requiring 8281
+rescue 5384
+research 233848
+researched 7268
+researcher 7318
+researchers 28108
+researching 9316
+reserve 7306
+reserves 10103
+reset 5760
+residential 5290
+residents 10273
+resilience 6770
+resilient 8412
+resist 6380
+resistance 16082
+resistant 8751
+resolution 11451
+resolve 7026
+resort 7838
+resource 45752
+resources 152625
+respect 48501
+respected 9613
+respond 28644
+responded 11015
+responding 12687
+response 92449
+responses 15497
+responsibility 51608
+responsible 97165
+rest 107233
+restore 7785
+restrict 7579
+restrictions 18569
+result 129499
+resulted 10635
+resulting 19534
+results 74101
+retarded 10969
+retire 5226
+retired 5427
+retirement 11059
+return 46811
+returned 6444
+returning 6711
+returns 13787
+reuters 12272
+reveal 8082
+revealed 10241
+reveals 6052
+revenue 27367
+reverse 37406
+reversed 8390
+reversing 9596
+review 32964
+reviewed 32147
+reviews 5480
+revolution 52286
+revolutionary 8154
+reward 5954
+rhetoric 31218
+rice 8227
+rich 136299
+richard 9155
+richer 11029
+richest 10539
+rid 31754
+ride 15237
+ridiculous 45927
+ridiculously 5651
+riding 7522
+rigged 5056
+rights 175975
+ring 7152
+riots 7426
+rise 124731
+risen 8867
+rises 12537
+rising 83662
+risk 99810
+risks 30392
+risky 5555
+river 24803
+rivers 17216
+road 41210
+roads 23492
+robert 7851
+robots 7292
+robust 8890
+rock 19295
+rocket 7212
+rocks 6178
+roe 8201
+rogan 5534
+role 58728
+roles 7297
+roll 15473
+rolled 5952
+rolling 12497
+roman 7961
+rome 6897
+romney 6957
+ron 5579
+ronald 5044
+roof 9803
+room 42119
+root 16588
+rooted 6060
+roots 7736
+rose 9368
+rough 8083
+roughly 21299
+round 23493
+route 11795
+routes 5027
+routine 6146
+routinely 5818
+row 5557
+royal 9095
+rude 6269
+ruin 12826
+ruined 8698
+ruining 8374
+rule 41854
+ruled 7293
+rules 49059
+ruling 13870
+run 130505
+runaway 14876
+running 73375
+runs 19342
+rural 32315
+rush 8367
+russia 96200
+russian 36253
+russians 8201
+sa 9226
+sacrifice 18021
+sacrifices 8932
+sad 39156
+sadly 19436
+safe 59121
+safely 8271
+safer 12326
+safety 43635
+sahara 5815
+sake 27029
+salary 6216
+sale 8534
+sales 16786
+salt 13923
+sam 7062
+sample 7588
+samples 5156
+san 10701
+sanctions 11034
+sand 16649
+sanders 68810
+sands 7683
+sandy 5545
+sane 8938
+sat 9215
+satellite 12165
+satellites 7819
+saudi 17795
+save 106791
+saved 16914
+saves 5963
+saving 34066
+savings 10854
+scale 110288
+scales 8919
+scam 15059
+scandal 8493
+scarce 7515
+scarcity 18740
+scare 16574
+scared 19943
+scary 24400
+scenario 52383
+scenarios 24177
+scene 8027
+schedule 6059
+scheme 19160
+schemes 5647
+scholar 7284
+school 102485
+schools 40434
+sci 7906
+science 618646
+sciencedirect 8218
+sciencemag 6390
+sciences 23296
+scientific 267280
+scientifically 17962
+scientificamerican 11304
+scientist 90898
+scientists 333192
+scope 12000
+score 10033
+scotland 9914
+scott 13860
+scottish 5569
+scotus 8137
+scream 6469
+screaming 12822
+screen 8342
+screw 9680
+screwed 14575
+scrutiny 6160
+se 12737
+sea 148635
+search 37217
+searching 5266
+seas 9951
+season 36662
+seasonal 7394
+seasons 18144
+seat 13276
+seats 13977
+seattle 6624
+secondary 8769
+seconds 9090
+secret 18543
+secretary 21912
+section 20043
+sections 7883
+sector 38589
+sectors 12244
+secular 6192
+secure 14469
+security 105648
+seed 6798
+seeds 8027
+seek 18934
+seeking 15202
+seeks 5883
+seemingly 11118
+sees 14877
+segment 5568
+select 7923
+selected 6213
+selection 11178
+selfish 24962
+sell 43920
+selling 26587
+semi 8634
+sen 5515
+senate 51697
+senator 17388
+senators 15706
+send 30136
+sending 12517
+senior 11937
+sense 144553
+sensitive 10548
+sensitivity 9041
+sentence 17885
+sentences 5370
+sentient 5477
+sentiment 13258
+sep 7943
+separate 23242
+separated 5930
+separation 6553
+september 11298
+sequestration 7539
+series 28581
+serve 20120
+served 9071
+serves 10285
+service 44045
+services 44332
+serving 9824
+set 112950
+sets 13334
+setting 26252
+settle 7195
+settled 21951
+severe 37387
+severely 11338
+severity 14891
+sexism 8103
+sexist 9402
+sexual 29435
+shadow 7107
+shake 5240
+shame 18057
+shaming 6451
+shape 15936
+shaped 5185
+shapiro 9494
+share 62949
+shared 18419
+shareholders 6865
+shares 8525
+sharing 13611
+sharp 5160
+sheep 7829
+sheer 9036
+sheet 10797
+sheets 7290
+shell 13588
+shelter 8070
+shes 17849
+shift 51527
+shifted 10965
+shifting 17421
+shifts 14953
+shill 6873
+ship 17813
+shipping 14165
+ships 13839
+shits 6337
+shitty 32630
+shock 8542
+shocked 7469
+shocking 6137
+shoes 5784
+shoot 10677
+shooting 13571
+shootings 9873
+shop 8739
+shopping 5978
+short 118393
+shortage 12079
+shortages 20818
+shorter 8932
+shot 25378
+shouldnt 20586
+shouting 5388
+show 157600
+showed 24035
+showing 41083
+shown 39631
+shows 86061
+shrinking 8599
+shut 40201
+shutdown 5646
+shutting 9321
+si 5533
+siberia 7264
+sick 29872
+sides 60785
+sight 7177
+sighted 7935
+sign 35404
+signal 9546
+signaling 5255
+signed 21365
+significance 6364
+significant 96616
+significantly 44455
+signing 6155
+signs 21647
+silence 7797
+silent 6931
+silly 23549
+silver 8618
+similar 95769
+similarly 15160
+simple 81185
+simplistic 5282
+simply 174587
+simultaneously 12435
+sin 7048
+sincerely 5381
+singapore 7420
+single 173679
+sink 11472
+sinking 6897
+sinks 5988
+sir 5976
+sister 6218
+sit 28850
+site 34774
+sites 44354
+sitting 21010
+situation 95414
+situations 15694
+sixth 5343
+size 38203
+sized 6368
+sjw 5687
+skeptic 18984
+skeptical 31810
+skepticalscience 14946
+skepticism 20482
+skeptics 23344
+skill 7068
+skilled 5483
+skills 19882
+skin 23002
+skip 5674
+sky 23084
+slaughter 5602
+slave 11516
+slavery 22701
+slaves 10163
+sleep 13245
+slight 9309
+slightest 7039
+slightly 32881
+slower 8834
+slowing 11921
+smaller 40135
+smart 51560
+smarter 11796
+smile 5951
+smith 6236
+smog 7957
+smoke 16694
+smoking 18219
+snap 5559
+snow 49552
+snowball 7076
+social 220146
+socialism 49184
+socialist 44430
+socialists 11611
+socially 15217
+societal 22568
+societies 22061
+society 209200
+soft 10604
+software 7886
+soil 38150
+solar 171184
+sold 21409
+soldiers 7584
+sole 10059
+solely 17300
+solid 25126
+solidarity 5287
+solution 142144
+solutions 100969
+solve 106012
+solved 31950
+solving 26928
+son 15414
+song 9009
+sooner 19100
+sorts 16304
+sought 5541
+soul 7065
+sound 55118
+sounding 5738
+sounds 59075
+source 167343
+sourced 5547
+sources 123240
+south 80527
+southern 28634
+sovereignty 5998
+soviet 12114
+soy 6542
+space 106529
+spaces 7773
+spacex 5378
+spain 7433
+span 8424
+spanish 6242
+spare 5837
+speaker 10462
+speaking 45885
+speaks 11372
+special 35977
+species 164087
+specific 79177
+specifically 61058
+specifics 6341
+spectrum 18961
+speculation 9515
+speech 50957
+speeches 7334
+speed 31488
+spell 5724
+spend 73718
+spending 68260
+spends 7374
+spent 60077
+spewing 5100
+sphere 5898
+spike 6087
+spin 10355
+spirit 7301
+spiritual 5033
+spite 8556
+split 14109
+spoke 9681
+spoken 8822
+sponsored 6486
+sport 5784
+sports 11671
+spot 17072
+spots 5797
+spouting 5003
+spread 52692
+spreading 23160
+spring 17390
+square 12394
+st 9358
+stability 15608
+stable 28722
+staff 16584
+stage 30170
+stages 5832
+stake 11060
+stance 48574
+stances 10303
+stand 59792
+standard 46689
+standards 45142
+standing 22671
+standpoint 7152
+stands 23644
+stanford 7008
+star 17437
+stars 8554
+start 220832
+started 109814
+starting 57418
+starts 32280
+starvation 14379
+starve 11116
+starving 12449
+state 269720
+stated 36081
+statement 71843
+statements 35811
+states 195221
+static 7253
+stating 16165
+station 13477
+stations 15754
+statistic 5317
+statistical 10845
+statistically 9023
+statistics 26277
+stats 9750
+status 70668
+stay 60436
+stayed 7021
+staying 11783
+stays 7152
+steadily 6463
+steady 9083
+steal 9418
+stealing 8338
+steam 6504
+steel 10929
+stein 5602
+stem 12636
+step 58344
+stephen 6570
+steps 33623
+steve 6385
+stick 27588
+sticking 7147
+stimulus 7672
+stock 26365
+stocks 15832
+stolen 8041
+stone 12606
+stood 8486
+stop 328020
+stopped 44589
+stopping 35565
+stops 12286
+storage 34753
+store 23216
+stored 6908
+stores 8502
+stories 32394
+storm 31186
+storms 37595
+story 109445
+straight 41916
+strain 6434
+strange 15551
+strategic 10139
+strategies 10452
+strategy 35941
+straw 12159
+strawman 10826
+straws 9470
+stream 19197
+street 34029
+streets 16196
+strength 13303
+strengthen 5847
+stress 18795
+stressed 5371
+stretch 8897
+strict 9570
+strictly 7241
+strike 18337
+strikes 12744
+strip 6240
+strong 82511
+stronger 26415
+strongest 7688
+strongly 26906
+struck 5498
+structural 8123
+structure 19154
+structures 12558
+struggle 20883
+struggles 5737
+struggling 14619
+stuck 21715
+student 41055
+students 35069
+studied 17641
+studies 96998
+study 148334
+studying 19218
+stupid 116776
+stupidity 12330
+style 25938
+subject 74483
+subjective 11957
+subjects 11059
+submission 15740
+submit 8377
+submitted 5044
+subreddit 38695
+subreddits 5107
+subs 6797
+subscribe 5393
+subsequent 6313
+subsidies 37636
+subsidize 7171
+subsidized 6052
+subsidizing 6019
+subsidy 5335
+substance 8988
+substantial 17268
+substantially 9164
+subtle 5663
+suburban 5529
+suburbs 6592
+succeed 9156
+success 25792
+successful 29181
+successfully 11778
+suck 17807
+sucks 20952
+sudden 16734
+suddenly 35390
+sue 6629
+suffer 39458
+suffered 6590
+suffering 53524
+sufficient 18542
+sufficiently 6066
+sugar 8352
+suggest 54322
+suggested 19815
+suggesting 25010
+suggestion 8272
+suggestions 6432
+suggests 23449
+suicide 18516
+suit 10762
+suitable 6992
+suited 5830
+suits 5264
+sum 9951
+summary 37204
+summer 54977
+summers 14245
+summit 13015
+sun 69697
+sunday 7599
+sunlight 10528
+super 59934
+superior 14173
+supplies 13475
+supply 63644
+support 304688
+supported 42618
+supporter 17193
+supporters 42440
+supporting 57383
+supportive 5899
+supports 45898
+suppose 21524
+supposed 55617
+supposedly 12505
+suppress 5568
+suppression 8023
+supremacy 7135
+supreme 31369
+surely 23026
+surface 43810
+surge 6103
+surplus 7075
+surprise 16442
+surprised 27379
+surprising 11175
+surprisingly 5727
+surrounded 5821
+surrounding 14913
+surveillance 7330
+survey 17878
+surveys 5569
+survival 32917
+survive 72863
+survived 10734
+surviving 7955
+susceptible 5524
+suspect 19377
+suspicious 5073
+sustain 14663
+sustainability 22930
+sustainable 68011
+sustained 6283
+swamp 5890
+sway 6517
+sweden 11907
+swedish 5995
+sweeping 7758
+swing 12151
+switch 27568
+switched 7041
+switching 11459
+switzerland 5228
+symptom 6252
+symptoms 7370
+syria 18105
+syrian 7766
+system 291410
+systematic 6618
+systemic 21745
+systems 77540
+table 25803
+tackle 33218
+tackling 16164
+tactic 10553
+tactics 15761
+taiwan 6491
+takes 88788
+taking 149175
+talk 150335
+talked 25725
+talking 234715
+talks 34142
+tangible 8676
+tank 18152
+tanks 10436
+tape 5481
+target 32088
+targeted 9480
+targeting 7841
+targets 23234
+tariffs 10494
+task 13746
+taste 9872
+taught 23177
+tax 282428
+taxation 12827
+taxed 7352
+taxes 128459
+taxing 15887
+taxpayer 7602
+taxpayers 7056
+tbh 12046
+tea 9611
+teach 22669
+teacher 13793
+teachers 15095
+teaching 17108
+team 39246
+teams 6900
+tear 6915
+tech 57242
+technical 14372
+technically 16709
+techniques 9264
+technological 29739
+technologies 39824
+technology 142870
+ted 13295
+teen 6008
+teenager 5735
+teeth 7032
+telegraph 5228
+television 6660
+telling 64289
+tells 28714
+temp 13586
+temperate 7131
+temperature 177930
+temperatures 101309
+temporary 10969
+temps 14908
+ten 28824
+tend 51533
+tendency 6798
+tens 19913
+tensions 6914
+term 209243
+terms 92022
+terrible 49319
+terribly 5620
+terrified 6294
+terrifying 9135
+territory 10976
+terror 8980
+terrorism 24066
+terrorist 12723
+terrorists 12143
+tesla 32602
+test 29824
+tested 10064
+testing 14808
+tests 10723
+texas 41151
+text 27844
+thankfully 5908
+theatlantic 6899
+theft 5115
+theguardian 51635
+thehill 10966
+theintercept 6265
+theme 8004
+themes 5153
+theoretical 7906
+theoretically 6118
+theories 39308
+theorists 6412
+theory 117622
+therapy 8301
+thermal 9593
+thesis 5776
+theyd 5562
+theyll 10831
+theyre 64533
+theyve 13122
+thick 6531
+thin 9648
+thinking 128026
+thinks 67512
+thirty 5341
+tho 12346
+thomas 5865
+thorium 6249
+thoughts 27422
+thousand 24897
+thousands 84327
+thread 47799
+threads 6648
+threat 132807
+threaten 10704
+threatened 15971
+threatening 15029
+threatens 10642
+threats 31053
+threshold 8473
+threw 5496
+thrive 10066
+throw 36512
+throwing 22272
+thrown 13543
+thunberg 15964
+thursday 6046
+ticket 6224
+tide 7758
+tie 6696
+tied 17518
+ties 14092
+til 7825
+tim 5686
+timeline 14132
+timely 10888
+times 179517
+timing 5451
+tiny 29177
+tip 7484
+tipping 16653
+tired 20610
+title 31938
+tl 44565
+tldr 7239
+tobacco 14084
+today 174779
+todays 8360
+token 6458
+tolerance 6145
+tolerate 5307
+toll 7421
+tom 5822
+tomorrow 26299
+ton 31891
+tone 11181
+tonnes 9334
+tons 39637
+tony 7219
+tool 22711
+tools 20409
+topic 87659
+topics 39014
+tories 8317
+tornado 6767
+tornadoes 8269
+toronto 5990
+torture 9693
+tory 6660
+total 74166
+totally 64387
+touch 18334
+tough 20196
+tourism 6984
+tower 5970
+town 28760
+towns 11645
+toxic 27131
+tpp 8639
+track 30998
+tracking 6528
+tracks 5006
+trade 95082
+trading 14509
+tradition 6698
+traditional 22423
+traditionally 5342
+traffic 19128
+tragedy 9844
+train 20690
+trained 8007
+training 20822
+trains 9229
+traits 7069
+trajectory 7738
+trans 33463
+transfer 10390
+transform 5449
+transgender 11134
+transit 19683
+transition 41978
+transitioning 6527
+translate 5309
+transmission 6833
+transparency 5996
+transparent 5548
+transport 32666
+transportation 38777
+trap 8399
+trapped 9238
+trash 20238
+travel 44357
+traveling 5618
+treat 25003
+treated 20155
+treaties 5133
+treating 11328
+treatment 21960
+treaty 10646
+tree 30426
+trees 71179
+tremendous 6979
+trend 50413
+trends 32230
+trial 7200
+tribal 5865
+tribe 5541
+tribes 6271
+trick 8472
+trickle 8934
+trigger 10405
+triggered 8489
+trillion 35291
+trillions 17284
+trip 11947
+trips 5778
+trivial 6288
+troll 10686
+trolling 7070
+trolls 5318
+troops 8336
+tropical 19639
+trouble 19556
+truck 10724
+trucks 11751
+trudeau 19785
+true 219195
+trump 599402
+trumps 34529
+trust 71599
+trusted 8553
+truth 103703
+truths 7519
+tuesday 7737
+tuition 8254
+tune 6923
+turbines 11863
+turkey 8198
+turn 93942
+turning 28657
+turns 28426
+tv 29848
+tweet 14789
+tweets 8023
+twenty 9805
+twitter 61396
+type 66700
+types 31331
+typical 17578
+typically 21833
+ubi 15986
+ugly 8024
+uk 121253
+ukraine 23271
+ultimate 11148
+ultimately 41471
+ultra 11607
+unable 21292
+unacceptable 5647
+unaware 6394
+unbiased 6662
+uncertain 7232
+uncertainty 15286
+unchecked 7212
+uncle 6272
+unclear 5424
+uncomfortable 11042
+undeniable 7272
+underestimate 5485
+underground 9875
+underlying 12143
+undermine 9842
+undermining 5534
+understand 258781
+understandable 5896
+understanding 84736
+understands 11293
+understood 22642
+underwater 15585
+undo 6251
+undoubtedly 5277
+undp 5190
+uneducated 11149
+unemployment 17003
+unethical 6924
+unfair 12308
+unfortunate 9100
+unhealthy 5898
+unicef 5673
+uninformed 7679
+uninhabitable 20417
+union 38412
+unions 17678
+unique 19548
+unit 12939
+unite 7101
+united 120398
+units 9442
+unity 7019
+universal 42066
+universally 6390
+universe 27697
+universities 12934
+university 52439
+unknown 12229
+unlike 25967
+unlimited 6787
+unnecessary 14666
+unpopular 11806
+unprecedented 21129
+unpredictable 7798
+unqualified 7937
+unrealistic 8876
+unreasonable 7920
+unrelated 10398
+unreliable 5069
+unrest 10045
+unscientific 5246
+unstable 7912
+unsustainable 15968
+untrue 6719
+unusual 8386
+unwilling 8864
+upcoming 7511
+update 10550
+updated 6854
+uploads 21158
+upper 17611
+ups 6448
+upset 18602
+uranium 9025
+urban 28495
+urge 5821
+urgency 9069
+urgent 13882
+url 7796
+usa 62808
+usage 21520
+usatoday 6818
+useless 23927
+user 16383
+username 6481
+users 12847
+ussr 8965
+usual 23981
+utilities 5953
+utility 9833
+utopia 6440
+utter 9612
+utterly 14426
+vacation 6227
+vaccinated 8313
+vaccination 9343
+vaccinations 6963
+vaccine 32600
+vaccines 45561
+vacuum 6470
+vague 15045
+valid 37986
+validity 8184
+valley 10194
+valuable 24975
+values 46672
+van 6832
+vancouver 5573
+vapor 11153
+variability 10595
+variable 7938
+variables 12740
+variation 8641
+variations 7913
+variety 17564
+vary 8015
+varying 5433
+vast 57350
+vastly 13849
+vax 10063
+vaxxers 13538
+vegan 63590
+veganism 20097
+vegans 17149
+vegetables 7143
+vegetarian 13253
+vegetation 7701
+vehicle 22629
+vehicles 37591
+venezuela 6792
+venus 9779
+version 41151
+versus 13558
+vested 7527
+veterans 6441
+viable 32357
+vice 18992
+victim 11361
+victims 14764
+victory 12050
+video 75457
+videos 26253
+vietnam 8577
+view 113778
+viewed 8499
+viewers 5046
+viewpoint 10722
+viewpoints 7132
+views 83073
+village 5663
+violence 56811
+violent 26464
+virginia 7580
+virtual 5615
+virtually 18354
+virtue 15064
+virus 29356
+viruses 6730
+visible 9816
+vision 17317
+visit 16930
+vital 11981
+vocal 9091
+voice 22923
+voices 10515
+volcanic 11173
+volcano 6433
+volcanoes 9048
+volume 10988
+voluntary 5814
+volunteer 11665
+volunteers 5033
+vortex 5388
+vote 244363
+voted 68964
+voter 33152
+voters 84277
+votes 46780
+voting 115205
+vox 16207
+vp 5412
+vulnerable 20503
+wade 7748
+wage 55786
+wages 26957
+wait 69276
+waiting 25058
+wake 18670
+walked 5965
+walking 16385
+wall 59507
+walls 9384
+wanna 16160
+wanted 76396
+wanting 30387
+war 240593
+warfare 9544
+warm 52216
+warmed 7259
+warmer 53140
+warming 494193
+warms 6686
+warn 7411
+warned 12359
+warning 22138
+warnings 8835
+warns 6529
+warren 23943
+wars 63618
+wash 6905
+washington 28046
+washingtonpost 19317
+waste 96489
+wasted 11295
+wasteful 8919
+wasting 13138
+watch 121720
+watched 16699
+watching 29860
+water 329532
+waters 15839
+wave 25668
+waves 19744
+ways 115146
+weak 24772
+weaker 5757
+wealth 97117
+wealthy 52708
+weapon 9486
+weapons 31871
+wear 19965
+wearing 15049
+weather 215382
+web 21276
+website 31267
+websites 7839
+wed 7868
+wednesday 5923
+weed 11421
+week 68612
+weekend 8156
+weekly 5589
+weeks 35209
+weight 23573
+weird 35485
+welfare 34807
+wells 5913
+werent 10136
+west 66757
+western 69319
+wet 16385
+wetter 5005
+weve 24881
+whats 35777
+whatsoever 13753
+wheat 7473
+wheel 5495
+whilst 13677
+whining 5202
+white 148761
+whites 8161
+wholly 5561
+whos 8526
+wide 33343
+widely 19009
+wider 8387
+widespread 21411
+wife 20335
+wiki 137090
+wikipedia 126972
+wild 32277
+wildfire 10129
+wildfires 30433
+wildlife 19926
+wildly 8840
+wiley 6660
+willfully 7061
+william 6011
+willingly 5261
+willingness 5803
+win 80708
+wind 99366
+windmills 5393
+window 17748
+windows 7381
+winds 9915
+wine 6237
+wing 102204
+wingers 11127
+winner 5947
+winners 6106
+winning 23412
+wins 18118
+winter 65374
+winters 19243
+wipe 13827
+wiped 12417
+wisconsin 5238
+wisdom 6314
+wise 15488
+wishes 5158
+witness 5943
+woke 11677
+wolf 5880
+woman 39044
+women 119816
+womens 6485
+wonderful 9575
+wondering 11094
+wont 75869
+wood 13520
+woods 5171
+word 67076
+wordpress 5944
+words 76772
+worked 50996
+worker 19116
+workers 71990
+workforce 6493
+working 163416
+workplace 6773
+works 97899
+world 967941
+worldnews 17751
+worlds 39578
+worldview 9467
+worldwide 33624
+worried 43040
+worries 9062
+worry 60643
+worrying 14927
+worse 213823
+worsen 5256
+worsening 7857
+worship 6842
+worst 109445
+worth 93685
+worthless 8822
+worthwhile 6006
+worthy 8579
+wouldnt 36318
+wp 22472
+write 39185
+writer 6295
+writes 5285
+writing 30217
+wrong 293223
+wrote 35951
+wsj 6821
+wtf 11041
+ww2 7726
+wwii 6597
+x200b 100868
+xi 5378
+xkcd 5295
+xr 6344
+ya 16191
+yale 10830
+yang 21156
+yea 14813
+yeah 160405
+yearly 7290
+years 861792
+yelling 6047
+yellow 6432
+yemen 5477
+yep 13816
+yesterday 14617
+yield 8602
+yields 11306
+york 31248
+youd 10272
+youll 13457
+young 78493
+younger 27027
+youre 104689
+youth 16680
+youtu 30098
+youtube 87809
+youve 14893
+yr 5074
+yup 8121
+zealand 10968
+zone 13763
+zones 12269

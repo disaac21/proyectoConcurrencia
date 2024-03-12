@@ -16,7 +16,7 @@ def main():
                 if int(second_word) >= 5000:
                     with open('freq-results.txt', 'a') as file:
                         # Write a single line to the file
-                        file.write(first_word + " > " + second_word + '\n')
+                        file.write(first_word + " " + second_word + '\n')
 
     pass
 
