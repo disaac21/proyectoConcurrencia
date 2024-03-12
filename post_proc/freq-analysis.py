@@ -1,5 +1,15 @@
+
+class Rank:
+    def __init__(self, word, number):
+        self.word = word
+        self.number = number
+
+
+
+
 def main():
     # TODO: Add your code here
+    mylist = []
     # Open a file for reading
     with open('output_wordcount', 'r') as file:
         # Read the file line by line
@@ -13,10 +23,21 @@ def main():
                 second_word = words[1]
                 # Process the second word (e.g., print it)
                 # print( first_word + " > " + second_word)
+                
                 if int(second_word) >= 5000:
+                    
+                    temp = Rank(first_word, int(second_word))
+                    mylist.append(temp)
+                    
                     with open('freq-results.txt', 'a') as file:
+                        
                         # Write a single line to the file
                         file.write(first_word + " " + second_word + '\n')
+                        
+    mylist.sort(key=lambda x: x.number, reverse=True)
+    with open('freq-results-sorted.txt', 'w') as file:
+        for i in mylist:
+            file.write(i.word + " " + str(i.number) + '\n')
 
     pass
 
