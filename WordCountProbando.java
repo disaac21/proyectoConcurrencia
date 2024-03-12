@@ -40,7 +40,7 @@ public class WordCountProbando {
       for (IntWritable val : values) {
         sum += val.get();
       }
-      if (result >= 5000) {
+      if (sum >= 2500) {
         result.set(sum);
         context.write(key, result);
       }
