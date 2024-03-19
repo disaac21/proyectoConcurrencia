@@ -1,5 +1,50 @@
+top 10
+climate 6573438
+change 6123095
+people 2536033
+world 968694
+years 863891
+global 752283
+science 619737
+trump 600299
+energy 533309
+warming 495085
+
+top 20
+climate 6573438
+change 6123095
+people 2536033
+world 968694
+years 863891
+global 752283
+science 619737
+trump 600299
+energy 533309
+warming 495085
+problem 483502
+government 477833
+carbon 467456
+power 423618
+human 421047
+money 420800
+life 407081
+earth 402779
+issue 396016
+political 384653
+
+
 countries
 china 261703
+america 190689
+american 184275
 
 
 politicians
+trump 600299
+biden 262533
+bernie 198680
+president 177143
+republicans 171780
+policies 170226
+major 169764
+conservative 152602
