@@ -7,10 +7,17 @@ import java.util.ArrayList;
 public class preProcesamiento {
 
     public static void main(String[] args) {
+        long startTime = System.nanoTime();
+
         String datasetFile = "workingFiles\\datasetCompleto.txt";
         String dictionaryFile = "workingFiles\\Dictionary.txt";
         String outputFile = "workingFiles\\datasetProcesado.txt";
         cleanDataset(datasetFile, dictionaryFile, outputFile);
+
+        long endTime = System.nanoTime();
+        long elapsedTimeNano  = endTime - startTime;
+        double elapsedTimeMinutes = (double) elapsedTimeNano / 1_000_000_000 / 60;
+        System.out.println("Execution time: " + elapsedTimeMinutes + " minutes");
     }
 
     private static String removePunctuation(String line) {
