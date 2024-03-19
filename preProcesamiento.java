@@ -15,7 +15,7 @@ public class preProcesamiento {
 
     private static String removePunctuation(String line) {
         return line = line.replaceAll("&'.*?\\w+;", " ")
-                .replaceAll("[^a-zA-Z0-9 ]", " ")
+                .replaceAll("[^a-zA-Z ]", " ")
                 .replaceAll("\\s+", " ");
     }
 
