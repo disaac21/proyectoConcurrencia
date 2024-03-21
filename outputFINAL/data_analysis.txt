@@ -34,17 +34,30 @@ political 384653
 
 
 countries
+
 china 261703
 america 190689
 american 184275
 
 
 politicians
+
 trump 600299
 biden 262533
+politics 225635
 bernie 198680
 president 177143
 republicans 171780
 policies 170226
 major 169764
 conservative 152602
+politicians 132563
+republican 132330
+
+
+#54 china 262097
+#115 america 190689
+#482 paris 78412
+#1836 japan 21676
+#1813 mexico 22151
+#393 india 90865

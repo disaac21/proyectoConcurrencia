@@ -31,3 +31,27 @@ nuclear power 59507
 effects climate 59015
 change people 57613
 man climate 54779
+
+donald trump 59589
+supreme court 28228
+republican party 27996
+climate bernie 27408
+nasa gov 25513
+paris agreement 25084
+bernie sanders 23659
+democratic party 22765
+united nations 21766
+hillary clinton 17084
+prime minister 16267
+trump climate 16043
+trump administration 14966
+
+
+
+
+
+united states 78292
+middle east 26352
+china india 22629
+paris climate 21920
+
