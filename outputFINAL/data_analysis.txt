@@ -53,6 +53,8 @@ major 169764
 conservative 152602
 politicians 132563
 republican 132330
+obama 121667
+
 
 
 #54 china 262097
