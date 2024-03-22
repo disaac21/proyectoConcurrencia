@@ -45,6 +45,10 @@ dentro de hadoop, crear una carpeta para nuestro input, aca vamos a alojar nuest
 
 hdfs dfs -mkdir /ruta_de_la_carpeta_input/
 
+luego metemos nuestro dataseta en hadoop, lo haremos en esa carpeta que acabamos de crear
+
+hdfs dfs -put /ruta_del_dataset/ /ruta_de_la_carpeta_input/
+
 ## wordcount frecuencia de 1
 
 ### Si desea obtener el archivo part-r-00000 para conjuntos de 1 palabra, podra encontrarlo en el drive en un folder llamado ArchivosGeneradosHadoopWordCount1
