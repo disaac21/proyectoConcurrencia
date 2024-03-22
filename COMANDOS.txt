@@ -1,7 +1,0 @@
-export HADOOP_CLASSPATH=$(hadoop classpath)
-echo $HADOOP_CLASSPATH
-
-
-javac -classpath ${HADOOP_CLASSPATH} -d <class folder> <.java>
-jar -cvf <nombre jar> -C <class folder>
-hadoop jar <.jar> <class name> <input hadoop> <output hadoop>
