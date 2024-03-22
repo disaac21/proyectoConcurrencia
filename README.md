@@ -41,7 +41,7 @@
 
 primero instalar hadoop
 
-dentro de hadoop, crear una carpeta para nuestro input, aca vamos a alojar nuestro dataset
+dentro de hadoop, crear una carpeta para nuestro input, aca vamos a alojar nuestro dataset procesado
 
 hdfs dfs -mkdir /ruta_de_la_carpeta_input/
 
