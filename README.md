@@ -37,6 +37,8 @@
 
 ## WordCount
 
+**Para trabajar con Hadoop, se utilizan archivos jar. .Jar para WordCount de conjutnos de 1 palabra se encuentra en carpeta FrecuencyAnalysis1.  .Jar para WordCount de conjuntos de 2 palabras se encuentra en carpeta FrecuencyAnalysis2**
+
 primero instalar hadoop
 
 dentro de hadoop, crear una carpeta para nuestro input, aca vamos a alojar nuestro dataset
