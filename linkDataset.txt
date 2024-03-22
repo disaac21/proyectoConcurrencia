@@ -1,0 +1,5 @@
+Link para Dataset en Internet
+https://www.kaggle.com/datasets/pavellexyr/the-reddit-climate-change-dataset/data
+
+Link Para Dataset en formato txt disponibel en Drive
+https://unitechn-my.sharepoint.com/personal/danielisaacjuarez_unitec_edu/_layouts/15/onedrive.aspx?ga=1&id=%2Fpersonal%2Fdanielisaacjuarez%5Funitec%5Fedu%2FDocuments%2FUNITEC%2F11%20%2D%20Q1%29%20Enero%20%2D%20Marzo%202024%2F04%20%2D%20Concurrencia%20y%20Sistemas%20Distribuidos%20%28CCC309%29%2FDataset%20Proyecto
